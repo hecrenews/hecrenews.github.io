@@ -3,6 +3,6 @@ layout: post
 title:  "Hello World!"
 date:   2020-04-09 19:42:45 -0500
 categories: jekyll update
-image: "/assets/images/hen.jpeg"
+thumb: "/assets/images/hen.jpeg"
 ---
 Mic check mic check 123, 123. Everything seems to be up and running. Alright boys, it's show time.
