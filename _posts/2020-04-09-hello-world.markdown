@@ -6,3 +6,5 @@ categories: jekyll update
 thumb: "/assets/images/hen.jpeg"
 ---
 Mic check mic check 123, 123. Everything seems to be up and running. Alright boys, it's show time.
+
+We are the Hecrenews team. A service provided by the HBA to inform the world.
