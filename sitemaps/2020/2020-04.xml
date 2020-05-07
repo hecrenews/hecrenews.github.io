@@ -10,7 +10,7 @@ layout: null
 {% assign m = post.date | date: "%m" %}
   {% if y == "2020" and m == "04" %}
     <url>
-      <loc>{{ post.url }}</loc>
+      <loc>https://hecrenews.github.io{{ post.url }}</loc>
       <news:news>
         <news:publication>
           <news:name>Hecrenews</news:name>
