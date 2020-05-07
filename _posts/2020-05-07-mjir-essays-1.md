@@ -9,7 +9,7 @@ author: mister_mjir
 
 What's popping folks, I will begin a series of writing timed essays (30 min.) from [this pdf](https://www.misd.net/languageart/grammarinaction/501writingprompts.pdf). Let's just do one and see where it goes!
 
-Keep in mind these are opinion based essays, so there isn't a right or wrong answer, but you are proving your argument with evidence.
+Keep in mind these are opinion based essays, so there isn't a right or wrong answer, but you are proving your argument with evidence. Argumentation is a great skill to have so let's have some fun!
 
 # Prompt
 
