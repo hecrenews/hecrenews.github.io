@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mjir Essays 1"
-date:   2020-05-07 13:32:00 -0500
+date:   2020-05-07 18:48:00 -0500
 categories: jekyll update
 thumb: "/assets/images/pen_and_paper.jpg"
 author: mister_mjir
