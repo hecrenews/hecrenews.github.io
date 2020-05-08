@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Mjir Essays 1"
+title:  "Mjir Essays- 1"
 date:   2020-05-07 18:48:00 -0500
 categories: jekyll update
 thumb: "/assets/images/pen_and_paper.jpg"
 author: mister_mjir
+tags:
+- Opinion
 ---
 
 What's popping folks, I will begin a series of writing timed essays (30 min.) from [this pdf](https://www.misd.net/languageart/grammarinaction/501writingprompts.pdf). Let's just do one and see where it goes!
@@ -20,7 +22,7 @@ Many people believe that television violence has a negative effect on society be
 After the second industrial revolution many people had greater access to leisure. Radios, theathers, movies, parks, but television
 is one of the most impactful leisure experiences available to us. Television (TV) has many channels one can watch from cartoons to sports
 to news and politics, and many people can easily get addicted watching hours of TV per day. Some people believe television to
-have a negative impact on society because of its promotion of violence; however, exposure to violence does not result in one 
+have a negative impact on society because of its promotion of violence; however, exposure to violence does not result in one
 becoming violent and malicious people will tend to be aggressive.
 
 Television has its safety for a younger auidence, but there are many outlets where violence can still be seen. The news is a
