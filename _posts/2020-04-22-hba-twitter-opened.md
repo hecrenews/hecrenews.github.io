@@ -5,6 +5,9 @@ date:   2020-04-22 11:05:00 -0500
 categories: jekyll update
 thumb: "/assets/images/hba_logo.png"
 author: mister_mjir
+tags:
+- News
+- HBA
 ---
 
 The HBA has launched a twitter account! For what purpose is unknown.

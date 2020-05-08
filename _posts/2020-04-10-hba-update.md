@@ -5,6 +5,9 @@ date:   2020-04-10 21:40:00 -0500
 categories: jekyll update
 thumb: "/assets/images/hbird.jpg"
 author: mister_mjir
+tags:
+- News
+- HBA
 ---
 Hello peoples! The HBA has been out and about for a while but trust me, they are coming back even better than before.
 

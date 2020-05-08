@@ -5,6 +5,8 @@ date:   2020-05-05 13:32:00 -0500
 categories: jekyll update
 thumb: "/assets/images/light_bulb.png"
 author: mister_mjir
+tags:
+- News
 ---
 
 The digital era has long past begun, and it needs energy. Energy comes in all shapes and form. We consider two energy types: renewable, and non-renewable.
@@ -31,4 +33,3 @@ all of its energy, but provides more than that. The HBA has gotten their hands o
 Datil is shrouded in mystery but yet has the power to revolutionize the whole world. Even with that, if it did go into the wrong hands what is the worst to come? The only
 evil beings are the Snaxii, and with a combined effort we can reduce the extent of their power. Datil is not a force of good or a force of evil. Datil is a tool which can
 help either side achieve its goals. What are your opinons on Datil? Would you convert all of your energy sources to Datil given the choice?
-

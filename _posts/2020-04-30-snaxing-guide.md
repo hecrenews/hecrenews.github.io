@@ -5,6 +5,9 @@ date:   2020-04-30 21:39:00 -0500
 categories: jekyll update
 thumb: "/assets/images/snaxe_spray.png"
 author: mister_mjir
+tags:
+- Guide
+- HBA
 ---
 
 The definitive guide to snaxing and snaxe safety compiled by the HBA version 1.0 (future versions may never come)
