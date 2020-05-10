@@ -3,7 +3,7 @@ layout: post
 title:  "Youtube Algorithm fills local Man's feed with Propaganda"
 date:   2020-05-09 19:27:27 -0500
 categories: jekyll update
-thumb: "/assets/images/TriumviratePropaganda.JPG"
+thumb: "/assets/images/triumvirate_propaganda.jpg"
 author: wopps_minor
 tags:
 - Triumvirate
