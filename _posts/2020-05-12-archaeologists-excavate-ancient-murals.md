@@ -20,6 +20,6 @@ Archaeologists are able to teach us about the culture and history of our world. 
 it gives them more homework to give to their students. These murals express the human nature and are rooted in deep symbolism.
 The archaeologists have also taken the liberties to colorize the pictures to make them even more realistsic. Here are the photos.
 
-![](/assets/images/excavation_1.jpg)
+![](https://hecrenews.github.io/assets/images/excavation_1.jpg)
 
-![](/assets/images/excavation_2.jpg)
+![](https://hecrenews.github.io/assets/images/excavation_2.jpg)
