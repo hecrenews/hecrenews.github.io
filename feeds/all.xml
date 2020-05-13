@@ -1,0 +1,27 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+  <title>Hecrenews</title>
+  <link>https://hecrenews.github.io</link>
+  <description>Latest from Hecrenews</description>
+  <atom:link href="https://hecrenews.github.io/feeds/latest.xml" rel="self" type="application/rss+xml" />
+  {% for post in site.posts %}
+  <item>
+    <title>{{ post.title }}</title>
+    <link>https://hecrenews.github.io/{{ post.url }}</link>
+    <guid isPermaLink="true">https://hecrenews.github.io/{{ post.url }}</guid>
+    <description>An article about {{ post.title }}</description>
+    <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+    <media:content url="https://hecrenews.github.io{{ post.thumb }}" type="image/{{ post.thumb | split: "." | last }}"></media:content>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+  </item>
+  {% endfor %}
+</channel>
+
+</rss> 
