@@ -8,9 +8,9 @@
 
 <channel>
   <title>Hecrenews</title>
-  <link>https://hecrenews.github.io</link>
-  <description>Latest from Hecrenews</description>
-  <atom:link href="https://hecrenews.github.io/feeds/latest.xml" rel="self" type="application/rss+xml" />
+  <link>https://hecrenews.github.io/archive.html</link>
+  <description>All news from Hecrenews</description>
+  <atom:link href="https://hecrenews.github.io/feeds/all.xml" rel="self" type="application/rss+xml" />
   {% for post in site.posts %}
   <item>
     <title>{{ post.title }}</title>
