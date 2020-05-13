@@ -43,19 +43,19 @@ Now when you snaxe you gotta have the top of the line tools. Here's what they ar
 
 ## Aqua Salt Defense Mode
 
-![](/assets/images/aqua_salt_defense_mode.png)
+![](https://hecrenews.github.io/assets/images/aqua_salt_defense_mode.png)
 
 ## Pop Rock Cannon
 
-![](/assets/images/pop_rock_cannon.png)
+![](https://hecrenews.github.io/assets/images/pop_rock_cannon.png)
 
 ## Sticky Hands
 
-![](/assets/images/sticky_hands.png)
+![](https://hecrenews.github.io/assets/images/sticky_hands.png)
 
 ## Snaxe Spray
 
-![](/assets/images/snaxe_spray.png)
+![](https://hecrenews.github.io/assets/images/snaxe_spray.png)
 
 
 I honestly don't know too much about these tools, the HBA has not provided enough information for me to give out. I do have an AD for Snaxe Spray which I will tell although we are not sponsored.
