@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Changing the clock's time does not allow you to time travel"
+title:  "Arcaheologists Excavate Ancient Murals"
 date:   2020-05-12 22:10:00 -0500
 categories: jekyll update
 thumb: "/assets/images/archaeology_site.jpg"
