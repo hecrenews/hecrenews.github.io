@@ -9,7 +9,7 @@
   <description>Latest from Hecrenews</description>
   {% for post in site.posts limit:6 %}
   <item>
-    <title>post.title</title>
+    <title>{{ post.title }}</title>
     <link>https://hecrenews.github.io/{{ post.url }}</link>
   </item>
   {% endfor %}
