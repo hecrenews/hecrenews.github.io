@@ -1,0 +1,18 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Latest</title>
+  <link>https://hecrenews.github.io</link>
+  <description>Latest from Hecrenews</description>
+  {% for post in sites.post | limit:6 %}
+  <item>
+    <title>post.title</title>
+    <link>https://hecrenews.github.io/{{ post.url }}</link>
+  </item>
+  {% endfor %}
+</channel>
+
+</rss> 
