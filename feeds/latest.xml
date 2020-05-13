@@ -1,7 +1,8 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 <channel>
   <title>Hecrenews</title>
@@ -12,7 +13,7 @@
     <title>{{ post.title }}</title>
     <link>https://hecrenews.github.io/{{ post.url }}</link>
     <guid isPermaLink="true">https://hecrenews.github.io/{{ post.url }}</guid>
-    <description>{{ post.excerpt }}</description>
+    <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
   </item>
   {% endfor %}
