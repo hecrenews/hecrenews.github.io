@@ -7,7 +7,7 @@
   <title>Latest</title>
   <link>https://hecrenews.github.io</link>
   <description>Latest from Hecrenews</description>
-  {% for post in site.posts | limit:6 %}
+  {% for post in site.posts limit:6 %}
   <item>
     <title>post.title</title>
     <link>https://hecrenews.github.io/{{ post.url }}</link>
