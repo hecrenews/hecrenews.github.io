@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cause of Trees Swaying"
-date: 2020-05-42 22:10:00 -0500
+date: 2020-05-12 20:03:00 -0500
 categories: jekyll update
 thumb: "/assets/images/apple_tree.jpg"
 author: mister_mjir
