@@ -2,7 +2,7 @@ phone:
   size: 600px
 
 tablet:
-  size: 769px
+  size: 770px
 
 computer:
   size: 992px
