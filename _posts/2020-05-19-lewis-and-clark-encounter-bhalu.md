@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lewis and Clark Encounter Bhalu"
-date:   2020-05-19 17:00:00 -0500
+date:   2020-05-19 17:32:00 -0500
 categories: jekyll update
 thumb: "/assets/images/lewis_clark_bhalu.png"
 author: mister_mjir
