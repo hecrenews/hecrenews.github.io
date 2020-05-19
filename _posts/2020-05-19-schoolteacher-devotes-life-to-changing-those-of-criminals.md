@@ -42,7 +42,7 @@ Our correspondent was unable to continue the interview, for purposefully ambiguo
 
 A local woman's take on the situation:
 
-> When the gentlemen broke into my home to steal everything I owned, they apologized profusely. They didn't mouth off like normal criminals when they saw my kids. Overall, it was a very pleasurable experience. In the end, I was pleasantly chatting with one of them while the others were rifling through my cabinets. I would rate this a 10/10. Can't wait to get robbed again!
+"When the gentlemen broke into my home to steal everything I owned, they apologized profusely. They didn't mouth off like normal criminals when they saw my kids. Overall, it was a very pleasurable experience. In the end, I was pleasantly chatting with one of them while the others were rifling through my cabinets. I would rate this a 10/10. Can't wait to get robbed again!"
 
 Fearing for their mental sanity, our investigative team questioned no one else. The long-term effects of these new "Criminals that aren't Animals (CTAA)", as they call themselves, remain to be seen. This is Wopps Minor for the Hecrenews Crime and Punishment section, signing off.
 	
