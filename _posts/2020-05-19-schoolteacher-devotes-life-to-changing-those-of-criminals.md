@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schoolteacher Devotes Life to Changing Those of Criminals"
-date: 2020-04-09 19:42:45 -0500
+date: 2020-05-19 14:20:00 -0500
 categories: jekyll update
 thumb: "/assets/images/criminal_reform_school.png"
 author: wopps_minor
