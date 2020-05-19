@@ -45,3 +45,5 @@ recipies" but he cannot really remember much of it.
 Bears are fascinating creatures and hold deep symbolic meaning. The old days of frontier and exploration are long gone, but the
 expedition of Lewis and Clark gives us a wide view into the natural America and what it could have been like if it was not
 touched by humans.
+
+EDIT: After speaking to a bear expert, bears are actually very good at climbing trees. McNeal was quite lucky that day!
