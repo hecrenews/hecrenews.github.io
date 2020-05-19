@@ -36,7 +36,7 @@ Take: "Ahem, I thought you were interviewing me, not that poor boy"
 
 ![YEE](https://hecrenews.github.io/assets/images/criminal_manners_schedule.JPG)
 
-Pictured above is the usual schedule of a student as Ms. Take's. 
+Pictured above is the usual schedule of a student at Ms. Take's. 
 	
 Our correspondent was unable to continue the interview, for purposefully ambiguous reasons. We then inquired about Ms. Take's most recent graduating class. When the investigative team arrived at the nearest town, they were privy to a wasteland full of broken windows and looted storefronts. We inquired, and it seemed that the townspeople had experienced a massive surge of crime. However, they had nothing but good things to say about this.
 
