@@ -2,7 +2,7 @@ layout: post
 title:  "Due to Social Distancing, Gangstas Have Found New and Innovative Ways to Conduct Shady Deals"
 date:   2020-05-20 10:20:20 -0500
 categories: jekyll update
-thumb: "/assets/images/street-shutter-person-derelict.jpg"
+thumb: "/assets/images/street_shutter_person_derelict.jpg"
 author: banana_the_human
 tags:
 - News
