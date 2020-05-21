@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Local Zoo adds Homo Sapiens to its Exhibit"
-date:   2020-05-21 16:42:45 -0500
+date:   2020-05-21 17:17:00 -0500
 categories: jekyll update
 thumb: /assets/images/person_feeding_monkey.jpg"
 author: mister_mjir
