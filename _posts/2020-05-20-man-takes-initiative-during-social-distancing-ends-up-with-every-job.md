@@ -11,6 +11,7 @@ tags:
 ---
 
 Have you been doing anything productive during these times? For one local resident, the answer is a resounding YES. Fred Dome, 26, has taken it upon himself to self-improve with all of his free time. Just hours after the lockdown started, Fred Dome employed a variety of methods to improve himself mentally, physically, spiritually, and demographically. In an interview given to rookie reporter Fred Dome, Dome describes his training regimen:
+
 > "Yeah, it was pretty intense. I worked on improving myself for a solid, maybe 25-26 hours a day. But hey, I got through it, and so can you, by purchasing Fred Dune's Time Turners! Increase your productivity like you've never imagined!"
 > *Dome remarks that he was put up to this by the advertising agency that he works for*
 > "So, I decided to put all that work to good use. Was getting bored moping 'round the house, so I signed up for a couple jobs"
