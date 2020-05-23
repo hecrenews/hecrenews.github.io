@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Man Sues For Book not having any Images"
+title: "Man Sues Book For not having any Images"
 date:   2020-05-22 18:48:00 -0500
 categories: jekyll update
 thumb: "/assets/images/book.jpg"
@@ -16,7 +16,7 @@ interesting trial.
 
 The prosecution began. Sture's attorney was very eloquent and talked about the history of books and the accessibility of
 knowledge. "Knowledge should be open to everyone, it is knowledge which allows us to succeed in society, and to move society
-forwards." His speech went on for about 5 min. and then the defense began. Then the trial proceeded. Sture's attorney's
+forwards." His speech went on for about 5 minutes, and then the defense began. Then the trial proceeded. Sture's attorney's
 argument was basically how education should be made available to everyone, even those who couldn't read so pictures should be
 required in books.
 
