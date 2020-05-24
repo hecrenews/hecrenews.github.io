@@ -3,7 +3,7 @@ layout: post
 title:  "Man Takes Initiative during Social Distancing, Ends up with Every Job"
 date:   2020-05-20 16:42:45 -0500
 categories: jekyll update
-thumb: /assets/images/busy_man.jpg"
+thumb: "/assets/images/busy_man.jpg"
 author: wopps_minor
 tags:
 - News
