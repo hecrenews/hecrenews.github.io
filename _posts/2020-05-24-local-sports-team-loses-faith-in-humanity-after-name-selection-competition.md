@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Local Sports Team Loses Faith in Humanity After Name-selection Competition"
-date:   2020-05-24 12:42:45 -0500
+date:   2020-05-24 16:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/basketball.jpg"
 author: wopps_minor
