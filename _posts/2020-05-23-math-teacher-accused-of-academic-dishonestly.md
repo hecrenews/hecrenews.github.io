@@ -25,7 +25,7 @@ going to be terminated immediately and is suspended from future jobs at our dist
 
 Some supports of Jehonathan have argued for him. "The test didn't even have the same questions? Mr. Jehonathan gave the
 answers to completely different problems, they weren't on the test!" says Aquila Lalawethika. However, the test was about
-addition, and Jehonathan taught his students how to AD, therefore giving his students the test answers. "I'm just
+addition, and Jehonathan taught his students how to add, therefore giving his students the test answers. "I'm just
 disappointed," says Florencio Elzbieta, another student of Jehonathan. "Giving us the answers to the test doesn't show we
 learned anything, my 1st grade year has been wasted."
 
