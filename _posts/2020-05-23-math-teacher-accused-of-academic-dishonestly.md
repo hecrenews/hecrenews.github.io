@@ -11,7 +11,7 @@ tags:
 ---
 
 Schools take pride in education. Rasing and education the top of the notch kids is their priority, but some schools also
-believe in education kids morals. Academic Integrity is the honesty of the academics. Cheating causes grade inflations, and
+believe in teaching kids morals. Academic Integrity is the honesty of the academics. Cheating causes grade inflations, and
 does not properly evaluate the abilities of a kid. Unfortunately, math teacher Poldi Jehonathan was accused of academic
 dishonesty by revealing the test answers to his students just before the test.
 
