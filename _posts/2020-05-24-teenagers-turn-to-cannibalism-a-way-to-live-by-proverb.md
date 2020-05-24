@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teenagers Turn to Cannibalism as a Way to Live by Proverb"
-date:   2020-05-24 3:20:20 -0500
+date:   2020-05-24 3:45:20 -0500
 categories: jekyll update
 thumb: "/assets/images/potatocannibals.jpg"
 author: banana_the_human
