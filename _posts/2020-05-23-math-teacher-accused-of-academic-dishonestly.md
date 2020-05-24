@@ -21,9 +21,7 @@ fingers in total to get eight. The test had the exact same questions. I mean it 
 same trick."
 
 "We regret the actions of Jehonathan and truly apologize to our students," says Einarr Silge, the principal. "Jehonathan is
-going to be terminated immediately and suspend from future jobs at our district. We do not tolerate academic dishonestly,
-especially when a teacher is promoting it." Jeonathan's teaching of addition for the addition test proved to have many
-negative consequences, one cannot simply give the answers to a test without cheating.
+going to be terminated immediately and is suspended from future jobs at our district. We do not tolerate academic dishonestly, especially when a teacher is promoting it." Jeonathan's teaching of addition for the addition test proved to have many negative consequences, one cannot simply give the answers to a test without cheating.
 
 Some supports of Jehonathan have argued for him. "The test didn't even have the same questions? Mr. Jehonathan gave the
 answers to completely different problems, they weren't on the test!" says Aquila Lalawethika. However, the test was about
