@@ -57,7 +57,7 @@ Another boy, piped in, saying with a gruff voice “I’m going have to speak to
 
 “His name’s Karen?” I asked.
 
-“You’re name’s Banana.”
+“Your name’s Banana.”
 
 “Touche.”
 
@@ -77,4 +77,4 @@ The boys all grinned menacingly, and I knew there was only one way out. I grabbe
 
 “Alright, brace yourself”
 
-The boys didn’t know what hit them. From nowhere, a million gallons of soup flushed the entire forest, sweeping away the boys and being a better pollinator than those bees could ever be. I rode the wave out, never once looking back, silently thanking Wopps for his collection of Cambell. And that’s pretty much it. I deserve a Pulitzer for this article, if I say so myself(and I do).
+The boys didn’t know what hit them. From nowhere, a million gallons of soup flushed the entire forest, sweeping away the boys and being a better pollinator than those bees could ever be. I rode the wave out, never once looking back, silently thanking Wopps for his collection of Campbell. And that’s pretty much it. I deserve a Pulitzer for this article, if I say so myself(and I do).
