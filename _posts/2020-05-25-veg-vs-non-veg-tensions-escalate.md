@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vegetarian vs Non-Vegetarian Tensions Escalate"
-date:   2020-05-25 20:51:00 -0500
+date:   2020-05-25 20:44:00 -0500
 categories: jekyll update
 thumb: "/assets/images/chess_white_defeated.jpg"
 author: mister_mjir
