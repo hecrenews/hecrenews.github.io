@@ -8,7 +8,6 @@ author: banana_the_human
 tags:
 - News
 - Space
-- World-Threatening
 ---
 I had been sent out to Arkansas, where farmers said they’d been seeing another “mysterious visitor from space” in the sky. Fully expecting it to be just another interdimensional floating weasel, I took up the interview for one reason and one reason only: to pronounce Arkansas as Our Can Sauce in front of the locals.
 
