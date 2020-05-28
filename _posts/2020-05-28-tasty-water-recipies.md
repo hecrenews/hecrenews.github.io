@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tast Water Recipies"
+title: "Tasty Water Recipies"
 date: 2020-05-28 15:30:20 -0500
 categories: jekyll update
 thumb: "/assets/images/water_wave.jpg"
