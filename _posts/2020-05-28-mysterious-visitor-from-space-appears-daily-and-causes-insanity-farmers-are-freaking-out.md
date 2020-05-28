@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mysterious Visitor From Space Appears Daily and Causes Insanity, Farmers are Freaking Out"
-date:   2020-05-28 12:34:20 -0500
+date:   2020-05-28 13:30:20 -0500
 categories: jekyll update
 thumb: "/assets/images/dark-visitor.jpg"
 author: banana_the_human
@@ -62,4 +62,4 @@ I had to run, and run I did. I ran until I couldn’t anymore. Right before I co
 
 I was told Mjir found me, and using the tunnels that an old colleague of ours had built(he hadn’t been heard from for over 10 years, but that’s another story), he rushed me back to headquarters. Somehow they healed me, and I lived to tell the story.
 
-The visitor is not gone. Not by a longshot. The creature that saved me may be still around, but to find it would be to delve into an era long-gone. After much thinking, I have concluded that the creature and the visitor are both older than we thought was possible. Legends have detailed a few things about a shark-like creature, a lost king, and an army of unstoppable dairy byproducts. God knows if these beings will appear, but I only hope that if they do, our faith in the Secretary Bird’s power will be enough to protect our world.
+The visitor is not gone. Not by a longshot. The creature that saved me may be still around, but to find it would be to delve into an era long-gone. After much thinking, I have concluded that the creature and the visitor are both older than we thought was possible. Legends have detailed a few things about a shark-like creature, a lost king, and an army of unstoppable dairy byproducts. God knows if these beings will appear, but I only hope that if they do, our faith in the Hecretary Bird’s power will be enough to protect our world.
