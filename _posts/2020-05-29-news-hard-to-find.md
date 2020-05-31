@@ -3,7 +3,7 @@ layout: post
 title: "News Hard to Find"
 date: 2020-05-29 20:30:20 -0500
 categories: jekyll update
-thumb: "/assets/images/cpnfused_man_with_computer.jpg"
+thumb: "/assets/images/confused_man_with_computer.jpg"
 author: mister_mjir
 tags:
 - News
