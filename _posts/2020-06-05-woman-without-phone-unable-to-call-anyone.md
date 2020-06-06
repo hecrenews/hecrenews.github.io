@@ -32,7 +32,7 @@ Time travelers are a big problem. They cause too many paradoxes. Just because a 
 travel one way doesn't mean it's the correct or even only way. There are so many time travel paradoxes, it's like opening
 a can of worms and then trying to go into the past to tell yourself to not open the can of worms but by going into the past
 you have basically opened the can of worms again. The Grandfather paradox is a popular one. If you go back in time and kill
-your grandpa (why would you even do this, you wicked person!), what will happen? If you're grandpa is not alive, he would
+your grandpa (why would you even do this, you wicked person!), what will happen? If your grandpa is not alive, he would
 have never given birth to one of your parents and then you, meaning you do not exist and have never traveled back in time,
 but you do exist, so what happens? People like to think about this problem but philosophy is not a legitimate job anymore.
 Aristotle and Plato and Diogenes and all your favourite philosophers were seen as geniuses for their time, but in these times
