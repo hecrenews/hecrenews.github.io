@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Woman Without Phone Unable to Call Anyone"
-date: 2020-06-05 22:42:00 -0500
+date: 2020-06-05 23:06:00 -0500
 categories: jekyll update
 thumb: "/assets/images/rotary_phone.jpg"
 author: mister_mjir
@@ -41,4 +41,4 @@ paid because they are getting laid off! If I got a dollar for everytime I though
 I would already be retired, maybe I would have the boss even working for me!
 
 Anywho, I have gotten way past the effort point of writing this article in return for pay. If you want a better article (or
-the full version) make sure you download the DLC.
+the full version) make sure you purchase the DLC.
