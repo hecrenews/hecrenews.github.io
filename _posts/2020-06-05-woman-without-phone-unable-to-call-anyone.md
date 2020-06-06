@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Man Without Phone Unable to Call Anyone"
+title: "Woman Without Phone Unable to Call Anyone"
 date: 2020-06-05 22:42:00 -0500
 categories: jekyll update
 thumb: "/assets/images/rotary_phone.jpg"
