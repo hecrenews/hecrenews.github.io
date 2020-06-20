@@ -44,7 +44,7 @@ The Hecrenews Science and Research team is back again with another most interest
 		 
  The result was positive, if confusedly so. A few "people" began walking mechanically towards Beck and proceeded to kick him, one time each. Then they left. Beck, with a smarting backside, said that the situation was "real sus". 
     
-    The next design visited was a rather colorful one. Thinking that the bystanders would have grown bored of plain, black letters on cardboard, the research team decided to spice it up a bit and give each letter its own unique color. Hours were spent selecting just the right mix of colors to be extra persuasive, resulting in the image below:
+   The next design visited was a rather colorful one. Thinking that the bystanders would have grown bored of plain, black letters on cardboard, the research team decided to spice it up a bit and give each letter its own unique color. Hours were spent selecting just the right mix of colors to be extra persuasive, resulting in the image below:
     
   ![]https://hecrenews.github.io/assets/images/caps_lock8.JPG
      
