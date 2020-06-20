@@ -70,7 +70,7 @@ The Hecrenews Science and Research team is back again with another most interest
        
    But instead, those researchers, exhorted by al-Tawa, sent him out again, this time with an even more inflammatory text. Using what they had learned from previous trials, the researchers immediately sent Beck out with the same message, but this time with all caps and  puntuation at the end. The below image is how Beck looked immediately BEFORE going out, as the image after would have been too obscene to display on this article. 
        
-  ![](https://hecrenews.github.io/assets/images/caps_lock3.JPG)
+   ![](https://hecrenews.github.io/assets/images/caps_lock3.JPG)
         
 Blat Beck was completely fine and had a wonderful time, kappa. In reality, a lynch mob formed within seconds of Beck joining the protest and did what lynch mobs do best. Blat Beck was injured so severely, he had to be airlifted out of the situation. From a hospital bed in **[REDACTED]**, Beck describes his ordeal: "As soon as I stepped out, it was a tangled sea of limbs and tomatoes...and knives? My memory of the day isn't that great. It's almost like the mob was rented beforehand and just pounced when... wait a minute."
 				
