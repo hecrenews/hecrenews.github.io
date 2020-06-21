@@ -26,7 +26,7 @@ The Hecrenews Science and Research team is back again with another most interest
   
   Tragically, this message had almost a null result. Only one pedestrian even showed any notice to Blat Beck, and that was only to tell him to "shove off, you're in my way", at the unidentified pedestrian attempted to cross a street and found his path blocked by a protest, with Beck being the closest individual.
   
-  Resolving to try and make the message stand out more, the team decided to capitalize one letter at random, resulting in the below format. Completely by accident, the bumbling fools we feel ashamed to call researches had written the message in camel case. Their hypothesis for the bystnader interaction with this sign was that "the side-people, they're all too lazy to read all lowercase letters, so they'll skip to the second word, and recognize lil' Beck, even if they don't do any kicking. Soon, Blat Beck will get what he deserves. Soon...", according to Science and Research intern Eif al-Tawa. 
+  Resolving to try and make the message stand out more, the team decided to capitalize one letter at random, resulting in the below format. Completely by accident, the bumbling fools we feel ashamed to call researches had written the message in camel case. Their hypothesis for the bystander interaction with this sign was that "the side-people, they're all too lazy to read all lowercase letters, so they'll skip to the second word, and recognize lil' Beck, even if they don't do any kicking. Soon, Blat Beck will get what he deserves. Soon...", according to Science and Research intern Eif al-Tawa. 
 	
    ![](https://hecrenews.github.io/assets/images/caps_lock6.JPG)
    
