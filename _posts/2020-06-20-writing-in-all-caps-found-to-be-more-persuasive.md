@@ -12,7 +12,7 @@ tags:
 
 The Hecrenews Science and Research team is back again with another most interesting finding. In order to get to the root of persuasive editorial creation (coming soon to a hecrenews near you!), we measured the effects of various text formatting schemes on persuasive skills, and audience response in general. The highly esteemed Sheeple Dunell, official smartypants of the Science and Research team, presided over the investigation. In an excerpt from the upcoming paper on the findings, Dunnell describes the experimental setup:
 
- > The experiment was conducted by varying the size, capitalization, message, and colors of the text on a large poster board. Hecrenews's very own Blat Beck volunteered to hold the sign, letting passerby view the sign and react to it. We elected to thrust Blat into the midst of some random protest each time we conducted a trial, to make the sign seem more in place. The good thing is, there were lots of these protests, so we could practically just push Beck into one, record a couple reactions, then walk a block or two untitl we found the next one (find out why the people are in uproar soon!). I give it a 10/10, very easy process.
+ > The experiment was conducted by varying the size, capitalization, message, and colors of the text on a large poster board. Hecrenews's very own Blat Beck volunteered to hold the sign, letting passerby view the sign and react to it. We elected to thrust Blat into the midst of some random protest each time we conducted a trial, to make the sign seem more in place. The good thing is, there were lots of these protests, so we could practically just push Beck into one, record a couple reactions, then walk a block or two until we found the next one (find out why the people are in uproar soon!). I give it a 10/10, very easy process.
  
  As a control for the experiment, Dunnell and his team decided to have Beck tote around a very dry sign, with lots of body text and an actual link that people would have to fill out instead of a QR code. When asked why this obviously extreme sign should be used as a control, Dunnell said "E = mc^2, and Newton weighed more than Bohr." The control setup is pictured below:
  
@@ -24,9 +24,9 @@ The Hecrenews Science and Research team is back again with another most interest
  
   ![](https://hecrenews.github.io/assets/images/caps_lock5.JPG)
   
-  Tragically, this message had almost a null result. Only one pedestrian even showed any notice to Blat Beck, and that was only to tell him to "shove of, you're in my way", at the unidentified pedestrian attempted to cross a street and found his path blocked by a protest, with Beck being the closest individual.
+  Tragically, this message had almost a null result. Only one pedestrian even showed any notice to Blat Beck, and that was only to tell him to "shove off, you're in my way", at the unidentified pedestrian attempted to cross a street and found his path blocked by a protest, with Beck being the closest individual.
   
-  Resolving to try and make the message stand out more, the team decided to capitalize one letter at random, resulting in the below format. Completely by accident, the bumbling fools we feel ashamed to call researches had written the message in camel case. Their hypothesis for the bystnader interaction with this sign was that "the side-people, they're all too lazy to read all lowercase letters, so they'll skip to the second word, and recognize lil' Beck, even if they don't do any kicking. Soon, Bart Beck will get what he deserves. Soon...", according to Science and Research intern Eif al-Tawa. 
+  Resolving to try and make the message stand out more, the team decided to capitalize one letter at random, resulting in the below format. Completely by accident, the bumbling fools we feel ashamed to call researches had written the message in camel case. Their hypothesis for the bystnader interaction with this sign was that "the side-people, they're all too lazy to read all lowercase letters, so they'll skip to the second word, and recognize lil' Beck, even if they don't do any kicking. Soon, Blat Beck will get what he deserves. Soon...", according to Science and Research intern Eif al-Tawa. 
 	
    ![](https://hecrenews.github.io/assets/images/caps_lock6.JPG)
    
@@ -48,7 +48,7 @@ The Hecrenews Science and Research team is back again with another most interest
     
   ![](https://hecrenews.github.io/assets/images/caps_lock8.JPG)
      
-   Most people gave Beck a wide berth, and one was noted saying "MY EYES! OOHHH THE YELLOW!.." The research team is unsure as to whether this is a complement or criticism of the design, as at least the person noticeed the sign. 
+   Most people gave Blat a wide berth, and one was noted saying "MY EYES! OOHHH THE YELLOW!.." The research team is unsure as to whether this is a complement or criticism of the design, as at least the person noticeed the sign. 
      
    The next design visited was also a rather colorful one. Figuring that nobody would be enticed by normal letters, Donnell tried symbols. To be precise, he ordered al-Tawa to mash a couple numbers while holding the shift key, resulting in the image below.
     
