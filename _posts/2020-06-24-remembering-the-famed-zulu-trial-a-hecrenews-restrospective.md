@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Remembering the Famed Zulu Trial: A Hecrenews Retrospective"
-date:   2020-06-21 15:42:45 -0500
+date:   2020-06-24 05:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/gavel.jpg"
 author: wopps_minor
