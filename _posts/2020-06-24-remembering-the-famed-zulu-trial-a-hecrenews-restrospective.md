@@ -18,7 +18,7 @@ I had the privelege of being prosecuted during this defining moment of the HBA. 
 | :--: |
 | ![](https://hecrenews.github.io/assets/images/evidence_and_report_zulufied.JPG) | 
 |:--:| 
-| *Evidence submitted by the prosecution, utilizing a before-and-after view to display the degree of ~~damage~~ modification to the document done by ~~"that dunderhead"~~ Wopps Minor.* |
+| *Evidence submitted by the prosecution, utilizing a before-and-after view to display the degree of ~~damage~~ modification to the document done by ~~"that dunderhead"~~ **[REDACTED]**.* |
 
 The trial was increadibly chaotic, as all HBA trials were. It set an important precedent that the landmark Treason Trial followed in full. During the trial, nobody was really sure of their part, and there was absolutely no organization whatsoever. Several jury members were, in fact, unable to be present at the proceedings, as they were held captive at the time by a mysterious entity known only as Lun Schline. The others fared little better. At least the Zulu trial was worlds better than the Treason Trial, in which the defendant, **[REDACTED]**, somehow was acquitted with absolutely no evidence and for no reason at all, while the prosecution had solid *(even if untrue)* evidence of treasonous activities. In addition, that very same **[REDACTED]** ended up changing the focus of the trial so that another member was tried, and escaped completely. I suspect backroom deals.
 
