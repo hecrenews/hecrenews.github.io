@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ring of Propaganda Bandits Post Defamatory Snaxe Propaganda"
-date:   2020-04-09 19:42:45 -0500
+date:   2020-06-26 09:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/snaxe.jpg"
 author: wopps_minor
