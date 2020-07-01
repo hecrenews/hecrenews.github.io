@@ -35,7 +35,7 @@ Historical jibber-jabber aside, what that statement attempted to demonstrate was
 These public reactions are quite alarming, for sure, but take into consideration that this wasn't the only piece of propaganda spread by the gang. 
 | ![](https://hecrenews.github.io/assets/images/AHPS2.JPG) |
 | :--: |
-| *The second piece of dreaded snaxe porpaganda sent to us by the good old folks at the Hecrenews kooky science nerd team* | 
+| *The second piece of dreaded snaxe porpaganda sent to us by the good old Hecrenews kooky sciencey people* | 
 
 The second poster, which seems to be the Propaganda People's own creation, was posted on a sign carried by someone named [Blat Beck](https://hecrenews.github.io/jekyll/update/2020/06/20/writing-in-all-caps-found-to-be-more-persuasive.html), all without him, or insidious intern Eif al-Tawa following him, realizing it. Beck carried the propaganda around for many long hours, which may have contributed to his horribly beaten state at the end of that day. Luckily, while Beck was in the hospital recovering from his numerous injuries (The fact that Beck was in the hospital in the first place was decidedly *not* lucky-- (remember, we do still have an ongoing lawsuit, best not to give the prosecution any more evidence of employee negligence)).
 
