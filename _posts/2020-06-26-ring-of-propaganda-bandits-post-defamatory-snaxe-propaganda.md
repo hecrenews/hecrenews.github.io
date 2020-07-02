@@ -22,15 +22,15 @@ This first bit of snaxe propaganda -- **WARNING: Don't look too close, or you'll
 
 Historical jibber-jabber aside, what that statement attempted to demonstrate was just how deadly this propaganda can be. Hecrenews investigative reporter Fred Dome had the pleasure of interviewing passerby near the hookah lounge. Below are some of their all-too-unsettling responses. We need to stop this. 
 
- > "the most beautiful work of art I've ever set my eyes on." - Margarine Lemonrind. 
+ > *"the most beautiful work of art I've ever set my eyes on."* - Margarine Lemonrind. 
  
- Obviously, Margarine was under the poster's spell at the time of uttering this quote, as no sane person would call this monstrosity *art*. 
+ Obviously, Mrs. Lemonrind was under the poster's spell at the time of uttering this quote, as no sane person would call this monstrosity *art*. 
 
-> "Well, pilfer m'kneecaps and feed me to vegans, ain't that the most compelling liddl' pitcher you ever saw!" - Usnavi
+> *"Well, pilfer m'kneecaps and feed me to vegans, ain't that the most compelling liddl' pitcher you ever saw!"* - Usnavi
 
-> "Thisssss piece isss quite ssssplendid" - "Unknown figure, prone to meowing, slithering, and acting very snaxely in general
+> *"Thisssss piece isss quite ssssplendid"* - "Unknown figure, prone to meowing, slithering, and acting very snaxely in general
 
-> "Yooo, that's some pretty stankin' fine propaganda" - Very shady character who's only distinguishing feature was a permanently arched eyebrow.
+> *"Yooo, that's some pretty stankin' fine propaganda"* - Very shady character who's only distinguishing feature was a permanently arched eyebrow.
 
 These public reactions are quite alarming, for sure, but take into consideration that this wasn't the only piece of propaganda spread by the gang. 
 | ![](https://hecrenews.github.io/assets/images/AHPS2.JPG) |
