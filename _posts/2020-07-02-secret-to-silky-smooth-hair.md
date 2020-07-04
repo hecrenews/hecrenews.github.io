@@ -6,7 +6,6 @@ categories: jekyll update
 thumb: "/assets/images/abstract_water_background.jpg"
 author: mister_mjir
 tags:
-- HBA
 - Health
 - Fashion
 ---
