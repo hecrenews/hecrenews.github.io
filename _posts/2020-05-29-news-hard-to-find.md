@@ -7,6 +7,7 @@ thumb: "/assets/images/confused_man_with_computer.jpg"
 author: mister_mjir
 tags:
 - News
+- Meta
 ---
 
 A barren desert. There is nothing but sand, pehaps a dead bush rolling along the valleys.
