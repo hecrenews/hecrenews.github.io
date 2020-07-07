@@ -7,6 +7,7 @@ thumb: "/assets/images/dirt.jpg"
 author: wopps_minor
 tags:
 - News
+- Meta
 ---
 
 As you may have already deducted from our recent lack of article flow, the Hecrenews isn't currently at maximum productivity. We have commented on this sad, sad fact already (see [this article](https://hecrenews.github.io/jekyll/update/2020/05/30/news-hard-to-find.html)). However, **This is NOT Our Fault!** The Hecrenews has always strove to deliver the highest of news quality, so what can we do when the news dries up? That's right, the world is experiencing a dearth of dirt; nobody's doing anything interesting! 
