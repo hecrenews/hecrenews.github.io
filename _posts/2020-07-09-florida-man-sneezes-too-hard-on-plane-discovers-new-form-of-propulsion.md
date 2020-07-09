@@ -26,7 +26,7 @@ Yes, a UFO! I thought. I turned around, albeit kind of groggily, for I had just 
 
 “Hey sir, are you.... Banana the Human?” A voice called.
 
-I whipped to the source of the sound. It was a short, bearded man, with a friendly smile and whatnot descriptions(don’t judge, it's not like I write for a living).
+I ~~whipped~~ wopped to the source of the sound. It was a short, bearded man, with a friendly smile and whatnot descriptions(don’t judge, it's not like I write for a living).
 
 “Why yes, yes I am. Are you Ki Lhaim, my dude?”
 
