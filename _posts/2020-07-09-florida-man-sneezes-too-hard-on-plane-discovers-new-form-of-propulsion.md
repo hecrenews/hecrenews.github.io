@@ -8,7 +8,7 @@ author: banana_the_human
 tags:
 - News
 - Aviation
-- Sneezing
+- Health
 ---
 You know what, the boss said I had to try something different. Not my usual 1st person view style, but your classic 3rd person definitely not objective Hecrenews style. I guess why not.
 
