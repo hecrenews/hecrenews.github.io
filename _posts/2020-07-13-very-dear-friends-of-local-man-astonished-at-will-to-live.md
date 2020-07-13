@@ -65,7 +65,7 @@ In recent news, two very dear friends of local dyude John Orblong have expressed
 
 > Mammo: "I hear that John Orblong has survived some very life-threatening events recently. Could you elaborate on this?"
 
-> Jonas: "Well, last tuesday, John was mugged by two brothers, one considerably more attractive than the others. W-- Sorry. *They* wanted the deed to Orblong's property, but for some reason Orblong wasn't carrying the deed on his person."
+> Jonas: "Well, last tuesday, John was mugged by two brothers, one considerably more attractive than the other. W-- Sorry. *They* wanted the deed to Orblong's property, but for some reason Orblong wasn't carrying the deed on his person."
 
 > Robald: "Last Wednesday, Orblong ran into two figures at the County Legal Office trying to slide their way into John Orblong's last will and testament as his sole heirs. Their names were--"
 
