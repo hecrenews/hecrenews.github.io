@@ -91,14 +91,15 @@ In recent news, two very dear friends of local dyude John Orblong have expressed
 
 *Eif al-Tawa hands all three cups of coffee to Biggin Mammo, then exits*
 
-
-*Biggin Mammo takes a sip of the coffee and promptly spits it out*
+*Biggin Mammo takes a sip of the coffee and promptly spits it out, then expertly throws the remaining two coffee cups into a trash can in the corner of the room*
 
 > Mammo: "Gosh darn intern keeps putting rosemary or something in my coffee to spite me, I'm going to have a talk with him after ~~school~~ this is over. Anyways, what became of Orblong on the rails, Shickner #1?"
 
 > Robald: "For the last time, Why is he Shickner #1?"
 
 > Mammo: "Foolboy, I ask the questions around here. Sit down or I'll have a talk with *you* after ~~school~~ this is over as well."
+
+*Robald Shickner sits down*
 
 > Jonas: "So, apparently the trains weren't even running that day! Can you believe it?"
 
