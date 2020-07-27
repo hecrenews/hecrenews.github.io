@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Billa: The Rise and Fall of an Underground School Organization"
-date: 2020-07-26 20:00:00 -0500
+date: 2020-07-26 20:51:00 -0500
 categories: jekyll update
 thumb: "/assets/images/ipad_with_stonks_and_paper.jpg"
 author: mister_mjir
