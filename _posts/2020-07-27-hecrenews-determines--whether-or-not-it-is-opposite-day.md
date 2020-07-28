@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hecrenews Determines Whether or not it is Opposite Day"
-date:   2020-07-26 16:42:45 -0500
+date:   2020-07-27 16:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/pepe_inverted.jpg"
 author: wopps_minor
