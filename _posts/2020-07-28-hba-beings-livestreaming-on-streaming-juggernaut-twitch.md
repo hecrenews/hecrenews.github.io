@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HBA Beings Streaming on Streaming Juggernaut Twitch"
-date: 2020-07-28 16:42:45 -0500
+date: 2020-07-28 18:56:00 -0500
 categories: jekyll update
 thumb: "/assets/images/twitch_logo.jpg"
 author: mistermjir
