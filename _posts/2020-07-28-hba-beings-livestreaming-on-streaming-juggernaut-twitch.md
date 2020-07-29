@@ -27,7 +27,7 @@ them to surpass 10 views at a time (which is much greater than 2).
 Currently the HBA videos are claiming to be a Hecretary Bird Association fundraiser, but was pretty lackluster. It was simply a screen displaying some epic HBA
 propoganda (gotta love that stuff man) but the main manager of the account has souped it up by adding GIFs and we can not forget about our main man Cromwell in the
 King Henry video displayed. Some local people have speculated a strange incident. Apparently yesterday and today the HBA actually started streaming stuff. One local
-man said the game looked like League of Legends but wasn't too sure as most of the stream was just a black screen with a cursor bouncing around. The strangst part
+man said the game looked like League of Legends but wasn't too sure as most of the stream was just a black screen with a cursor bouncing around. The strangest part
 was that the videos were taken down.
 
 Why are the HBA taking down their old streams? What kind of secrets were exposed then? We are not too sure, some locals report they were probably just testing it out
