@@ -90,7 +90,8 @@ layout: default
         </div>
       </div>
       <!-- HBA Section -->
-      {% assign posts = site.posts | where_exp: "item", "item.tags contains 'News' or item.tags contains 'HBA'" | slice: 11, site.posts.size | where: "tags", "HBA" %}
+      {% assign posts = site.posts | where_exp: "item", "item.tags contains 'News' or item.tags contains 'HBA'" | slice: 11, site.posts.size %}
+      {% assign posts = posts | where: "tags", "HBA" %}
       {% comment %}
       <div class="hba-section">
         <h2 class="post-list-heading">HBA</h2>
