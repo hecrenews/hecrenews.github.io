@@ -90,6 +90,7 @@ layout: default
           </div>
         </div>
       </div>
+      {% endcomment %}
       <!-- HBA Section -->
       {% assign posts = site.posts | where_exp: "item", "item.tags contains 'News' or item.tags contains 'HBA'" | slice: 11, site.posts.size | where: "tags", "HBA" %}
       <div class="hba-section">
@@ -118,7 +119,6 @@ layout: default
         </div>
       </div>
     </div>
-    {% endcomment %}
   {% endif %}
 
 </div>
