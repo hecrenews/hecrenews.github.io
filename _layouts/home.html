@@ -37,7 +37,6 @@ layout: default
           </div>
           {%- endfor -%}
         </div>
-        {% comment %}
         <!-- Article List -->
         <div class="post-list-container container">
           <ul class="post-list">
@@ -61,7 +60,6 @@ layout: default
         </div>
       </div>
     </div>
-    {% endcomment %}
     {% comment %}
     <!-- News and HBA Section -->
     {% assign posts = site.posts | slice: 6, site.posts.size | where: "tags", "News" %}
