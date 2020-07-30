@@ -62,7 +62,6 @@ layout: default
     </div>
     <!-- News and HBA Section -->
     {% assign posts = site.posts | slice: 6, site.posts.size | where: "tags", "News" %}
-    {% comment %}
     <div id="news-hba-section">
       <!-- News Section -->
       <div class="news-section">
@@ -91,6 +90,7 @@ layout: default
         </div>
       </div>
       <!-- HBA Section -->
+      {% comment %}
       {% assign posts = site.posts | where_exp: "item", "item.tags contains 'News' or item.tags contains 'HBA'" | slice: 11, site.posts.size | where: "tags", "HBA" %}
       <div class="hba-section">
         <h2 class="post-list-heading">HBA</h2>
