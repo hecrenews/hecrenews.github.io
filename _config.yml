@@ -1,13 +1,6 @@
 title: Hecrenews
-email: hecretarybird@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  The world's most reliable news source.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# Build settings
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
