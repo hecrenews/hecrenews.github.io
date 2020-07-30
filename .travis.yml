@@ -1,4 +1,8 @@
 language: ruby
 rvm:
   - 2.3
+before_install:
+  - echo "BEFORE INSTALL START"
+  - gem install bundler
+  - echo "BEFORE INSTALL END"
 script: "bundle exec jekyll build"
