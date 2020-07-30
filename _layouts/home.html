@@ -62,6 +62,7 @@ layout: default
     </div>
     <!-- News and HBA Section -->
     {% assign posts = site.posts | slice: 6, site.posts.size | where: "tags", "News" %}
+    {% comment %}
     <div id="news-hba-section">
       <!-- News Section -->
       <div class="news-section">
@@ -116,6 +117,7 @@ layout: default
         </div>
       </div>
     </div>
+    {% endcomment %}
   {% endif %}
 
 </div>

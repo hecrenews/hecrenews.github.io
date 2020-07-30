@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "bundle"
 
-gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/8047"
+gem "jekyll", "~> 4.1.1"
 
 gem "minima", "~> 2.5"
 
