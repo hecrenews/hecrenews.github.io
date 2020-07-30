@@ -1,0 +1,10 @@
+nav {
+
+  ul {
+    flex-direction: row;
+
+    :nth-child(even) {
+      background-color: transparent;
+    }
+  }
+}

@@ -1,0 +1,181 @@
+// From authors
+.author-card {
+  transition: 0.3s;
+
+  &-top {
+
+    img {
+      transition: 0.3s;
+    }
+  }
+
+  &:hover {
+    box-shadow: 0 10px 30px rgba(0,0,0,.25);
+
+    &-top {
+
+      img {
+        transform: rotate(360deg);
+      }
+    }
+  }
+}
+
+// From general
+a {
+  text-decoration: none;
+
+  &:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: #33a5ff;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: 0.3s;
+  }
+
+  &:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+  }
+}
+
+// From home
+.post-card-container {
+
+  .post-card {
+    transition: 0.3s;
+
+    &-author {
+
+      :nth-child(1) {
+        transition: 0.3s;
+      }
+
+      :nth-child(2) {
+        left: 8px;
+        opacity: 0;
+        transition: 0.3s;
+      }
+
+      &:hover {
+        :nth-child(1) {
+          //transform: rotate(45deg); This is causing browser to freak out
+        }
+
+        :nth-child(2) {
+          opacity: 1;
+          left: 54px;
+        }
+      }
+    }
+
+    &:hover {
+      box-shadow: 0 10px 30px rgba(0,0,0,.25);
+    }
+  }
+}
+
+.post-list-container {
+
+  .post-list {
+
+    &-item {
+
+      .post-list-thumb {
+
+        img {
+          transition: 0.3s;
+
+          &:hover {
+            box-shadow: 0 10px 30px rgba(0,0,0,.25);
+          }
+        }
+      }
+    }
+  }
+}
+
+// From nav
+nav {
+  width: 100%;
+
+  ul {
+    list-style: none;
+    background-color: #ff4d4d;
+    box-shadow: 0 1px 3px rgba(0,0,0,.25);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    overflow: hidden;
+
+    img {
+      width: 64px;
+      height: 64px;
+    }
+
+    li {
+      display: flex;
+      align-items: center;
+      transition: 0.3s;
+
+      a {
+
+        &:before {
+          width: 0;
+          height: 0;
+        }
+
+        .nav-link {
+
+          p {
+            transition: 0.3s;
+          }
+
+          i {
+            transition: 0.3s;
+          }
+        }
+      }
+
+      &:hover {
+        background-color: #ee2323;
+
+        a {
+
+          &:before {
+            visibility: hidden;
+            transform: scaleX(0);
+          }
+
+          .nav-link {
+
+            p {
+              transform: translateY(-64px);
+            }
+
+            i {
+              transform: translateY(0);
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// From post
+.post-tag-container {
+
+  .post-tag {
+    transition: 0.3s;
+
+    &:hover {
+      box-shadow: 0 10px 30px rgba(0,0,0,.25);
+    }
+  }
+}
