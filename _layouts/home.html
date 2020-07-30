@@ -90,7 +90,7 @@ layout: default
         </div>
       </div>
       <!-- HBA Section -->
-      {% assign posts = site.posts | where_exp: "item", item.tags contains 'HBA'" %}
+      {% comment %}{% assign posts = site.posts | where_exp: "item", item.tags contains 'HBA'" %}{% comment %}
       {% assign posts = posts | slice: 11, site.posts.size %}
       {% assign posts = posts | where: "tags", "HBA" %}
       {% comment %}
