@@ -2,9 +2,6 @@
 layout: default
 ---
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
   {{ content }}
 
@@ -63,7 +60,6 @@ layout: default
         </div>
       </div>
     </div>
-    {% comment %}
     <!-- News and HBA Section -->
     {% assign posts = site.posts | slice: 6, site.posts.size | where: "tags", "News" %}
     <div id="news-hba-section">
@@ -147,4 +143,3 @@ layout: default
     }
 );
 </script>
-{% endcomment %}
