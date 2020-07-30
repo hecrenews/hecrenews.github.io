@@ -5,8 +5,9 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {% if site.posts.size > 0 %}
     <!-- Latest news sections -->
+    {% comment %}
     <div id="latest-section">
       <h2 class="post-list-heading">Latest</h2>
       <div id="latest" class="flex-section">
@@ -60,6 +61,8 @@ layout: default
         </div>
       </div>
     </div>
+    {% endcomment %}
+    {% comment %}
     <!-- News and HBA Section -->
     {% assign posts = site.posts | slice: 6, site.posts.size | where: "tags", "News" %}
     <div id="news-hba-section">
@@ -72,9 +75,6 @@ layout: default
             <ul class="post-list">
               {% for post in posts limit:5 %}
               <li class="post-list-item" thumb="{{ post.thumb }}">
-                <!--<div class="post-list-thumb">
-                  <img src="{{ post.thumb }}">
-                </div>-->
                 <div class="post-list-info">
                   <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                   <span class="post-list-date">{{ post.date | date: "%B %-d, %Y | %R" }}</span>
@@ -102,9 +102,6 @@ layout: default
             <ul class="post-list">
               {% for post in posts limit:5 %}
               <li class="post-list-item" thumb="{{ post.thumb }}">
-                <!--<div class="post-list-thumb">
-                  <img src="{{ post.thumb }}">
-                </div>-->
                 <div class="post-list-info">
                   <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                   <span class="post-list-date">{{ post.date | date: "%B %-d, %Y | %R" }}</span>
@@ -123,7 +120,8 @@ layout: default
         </div>
       </div>
     </div>
-  {%- endif -%}
+    {% endcomment %}
+  {% endif %}
 
 </div>
 <script>
