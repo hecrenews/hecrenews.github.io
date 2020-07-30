@@ -7,7 +7,6 @@ layout: default
 
   {% if site.posts.size > 0 %}
     <!-- Latest news sections -->
-    {% comment %}
     <div id="latest-section">
       <h2 class="post-list-heading">Latest</h2>
       <div id="latest" class="flex-section">
@@ -38,6 +37,7 @@ layout: default
           </div>
           {%- endfor -%}
         </div>
+        {% comment %}
         <!-- Article List -->
         <div class="post-list-container container">
           <ul class="post-list">
