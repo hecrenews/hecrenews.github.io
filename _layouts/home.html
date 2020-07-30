@@ -1,0 +1,149 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <!-- Latest news sections -->
+    <div id="latest-section">
+      <h2 class="post-list-heading">Latest</h2>
+      <div id="latest" class="flex-section">
+        <!-- Big Card -->
+        <div class="post-card-container container">
+          {%- for post in site.posts limit:1 -%}
+          <div class="post-card">
+            <div class="post-card-author">
+              {% include authors/{{ post.author }}/icon.html %}
+              <p>{% include authors/{{ post.author }}/name.html %}</p>
+            </div>
+            <div class="post-tag-container">
+              {% for tag in post.tags %}
+              <p class="post-tag">{{ tag }}</p>
+              {% endfor %}
+            </div>
+            <div class="post-card-thumb" >
+              <div class="post-card-thumb-blur" style="background-image:url({{ post.thumb }})"></div>
+              <img src="{{ post.thumb }}">
+            </div>
+            <div class="post-card-info">
+              <a class="post-card-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <span class="post-card-date">{{ post.date | date: date_format }}</span>
+            </div>
+          </div>
+          {%- endfor -%}
+        </div>
+        <!-- Article List -->
+        <div class="post-list-container container">
+          <ul class="post-list">
+            {% for post in site.posts offset:1 limit:5 %}
+            <li class="post-list-item">
+              <div class="post-list-thumb">
+                <img src="{{ post.thumb }}">
+              </div>
+              <div class="post-list-info">
+                <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                <span class="post-list-date">{{ post.date | date: date_format }}</span>
+                <div class="post-tag-container">
+                  {% for tag in post.tags %}
+                  <p class="post-tag">{{ tag }}</p>
+                  {% endfor %}
+                </div>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- News and HBA Section -->
+    {% assign posts = site.posts | slice: 6, site.posts.size | where: "tags", "News" %}
+    <div id="news-hba-section">
+      <!-- News Section -->
+      <div class="news-section">
+        <h2 class="post-list-heading">News</h2>
+        <div id="news" class="flex-section">
+          <!-- Article List -->
+          <div class="post-list-container container">
+            <ul class="post-list">
+              {% for post in posts limit:5 %}
+              <li class="post-list-item" thumb="{{ post.thumb }}">
+                <!--<div class="post-list-thumb">
+                  <img src="{{ post.thumb }}">
+                </div>-->
+                <div class="post-list-info">
+                  <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <span class="post-list-date">{{ post.date | date: "%B %-d, %Y | %R" }}</span>
+                  <div class="post-tag-container">
+                    {% for tag in post.tags %}
+                    <p class="post-tag">{{ tag }}</p>
+                    {% endfor %}
+                  </div>
+                </div>
+                <div class="post-list-tool-tip">
+                </div>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- HBA Section -->
+      {% assign posts = site.posts | where_exp: "item", "item.tags contains 'News' or item.tags contains 'HBA'" | slice: 11, site.posts.size | where: "tags", "HBA" %}
+      <div class="hba-section">
+        <h2 class="post-list-heading">HBA</h2>
+        <div id="hba" class="flex-section">
+          <!-- Article List -->
+          <div class="post-list-container container">
+            <ul class="post-list">
+              {% for post in posts limit:5 %}
+              <li class="post-list-item" thumb="{{ post.thumb }}">
+                <!--<div class="post-list-thumb">
+                  <img src="{{ post.thumb }}">
+                </div>-->
+                <div class="post-list-info">
+                  <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <span class="post-list-date">{{ post.date | date: "%B %-d, %Y | %R" }}</span>
+                  <div class="post-tag-container">
+                    {% for tag in post.tags %}
+                    <p class="post-tag">{{ tag }}</p>
+                    {% endfor %}
+                  </div>
+                </div>
+                <div class="post-list-tool-tip">
+                </div>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  {%- endif -%}
+
+</div>
+<script>
+  $('.post-list-item .post-list-info .post-list-link').hover(
+    function() {
+      var target = $(this).parents('.post-list-item');
+      if ($(target).children('.post-list-tool-tip').children().length == 0) {
+        var thumb = $(target).attr('thumb');
+        $(target).children('.post-list-tool-tip').append("<img src=" + thumb +">");
+      }
+      else {
+        $(this).parents('.post-list-item').children('.post-list-tool-tip').removeClass('close')
+      }
+    },
+    function() {
+      $(this).parents('.post-list-item').children('.post-list-tool-tip').addClass('close');
+    }
+);
+</script>
