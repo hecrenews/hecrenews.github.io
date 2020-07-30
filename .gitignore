@@ -5,6 +5,7 @@ _site
 vendor
 exclude
 
+_layouts
 _layouts/home.html
 _layouts/post.html
 _layouts/page.html
