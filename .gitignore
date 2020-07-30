@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 exclude
+
+_layouts/home.html
+_layouts/post.html
+_layouts/page.html
