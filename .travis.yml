@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.3
+  - 2.5
 before_install:
   - echo "BEFORE INSTALL START"
   - gem install bundler
