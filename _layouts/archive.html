@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="archive-wrapper">
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <div class="post-list-container container">
+      <ul class="post-list">
+        {% for post in site.posts %}
+        <li class="post-list-item">
+          <div class="post-list-thumb" src="{{ post.thumb }}">
+            <img src="{{ post.thumb }}">
+          </div>
+          <div class="post-list-info">
+            <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-list-date">{{ post.date | date: date_format }}</span>
+            <div class="post-tag-container">
+              {% for tag in post.tags %}
+              <p class="post-tag">{{ tag }}</p>
+              {% endfor %}
+            </div>
+          </div>
+        </li>
+        {% endfor %}
+    </ul>
+  </div>
+  {%- endif -%}
+</div>
