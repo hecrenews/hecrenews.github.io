@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Local Man eats Cloud: Tastes like Cotton Candy"
-date: 2020-07-29 15:56:00 -0500
+date: 2020-07-29 22:33:00 -0500
 categories: jekyll update
 thumb: "/assets/images/fluffy_clouds.jpg"
 author: mister_mjir
