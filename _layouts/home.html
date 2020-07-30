@@ -60,7 +60,6 @@ layout: default
         </div>
       </div>
     </div>
-    {% comment %}
     <!-- News and HBA Section -->
     {% assign posts = site.posts | slice: 6, site.posts.size | where: "tags", "News" %}
     <div id="news-hba-section">
@@ -90,7 +89,6 @@ layout: default
           </div>
         </div>
       </div>
-      {% endcomment %}
       <!-- HBA Section -->
       {% assign posts = site.posts | where_exp: "item", "item.tags contains 'News' or item.tags contains 'HBA'" | slice: 11, site.posts.size | where: "tags", "HBA" %}
       <div class="hba-section">
@@ -106,12 +104,11 @@ layout: default
                   <span class="post-list-date">{{ post.date | date: "%B %-d, %Y | %R" }}</span>
                   <div class="post-tag-container">
                     {% for tag in post.tags %}
-                    <p class="post-tag">{{ tag }}</p>
+                      <p class="post-tag">{{ tag }}</p>
                     {% endfor %}
                   </div>
                 </div>
-                <div class="post-list-tool-tip">
-                </div>
+                <div class="post-list-tool-tip"></div>
               </li>
               {% endfor %}
             </ul>
