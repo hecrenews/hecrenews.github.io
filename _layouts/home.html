@@ -93,7 +93,6 @@ layout: default
       {% comment %}{% assign posts = site.posts | where_exp: "item", item.tags contains 'HBA'" %}{% endcomment %}
       {% assign posts = posts | slice: 11, site.posts.size %}
       {% assign posts = posts | where: "tags", "HBA" %}
-      {% comment %}
       <div class="hba-section">
         <h2 class="post-list-heading">HBA</h2>
         <div id="hba" class="flex-section">
@@ -119,7 +118,6 @@ layout: default
         </div>
       </div>
     </div>
-    {% endcomment %}
   {% endif %}
 
 </div>
