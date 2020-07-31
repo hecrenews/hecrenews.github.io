@@ -24,11 +24,15 @@ jobs:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
   update-master:
+    needs: github-pages
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-      with:
-        ref: 'master'
-    - run: |
-        git checkout origin/gh-pages
+    - name: Merge gh-pages -> master
+    uses: devmasx/merge-branc@v1.3.0
+    with:
+      type: now
+      from_branch: gh-pages
+      targest_branch: master
+      github_token: ${{ secrets.PUSH_TOKEN }}
