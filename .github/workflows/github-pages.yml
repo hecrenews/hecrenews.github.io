@@ -31,5 +31,5 @@ jobs:
       with:
         ref: gh-pages
     - run: |
-      git checkout -b master
-      git push origin --set-upstream-origin master
+        git checkout -b master
+        git push origin --set-upstream-origin master
