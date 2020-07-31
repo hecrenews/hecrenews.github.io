@@ -5,6 +5,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
+  worflow_dispatch:
   push:
     branches:
       - new-articles
@@ -19,6 +20,8 @@ jobs:
     - uses: helaili/jekyll-action@2.0.1
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+    - uses: actions/checkout@v2
+      with:
+        ref: 'master'
     - run: |
-        git checkout master
-        git pull gh-pages
+        git checkout https://github.com/hecrenews/hecrenews.github.io.git/gh-pages -- .
