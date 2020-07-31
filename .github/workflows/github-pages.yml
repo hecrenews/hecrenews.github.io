@@ -23,27 +23,13 @@ jobs:
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
-  pull:
-    needs: github-pages
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: vsoch/pull-request-action@1.0.6
-      env:
-        GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
-        PULL_REQUEST_BRANCH: "master"
-        PULL_REQUEST_FROM_BRANCH: "gh-pages"
-
-  merge:
-    needs: [github-pages, pull]
+  checkout:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: Merge gh-pages -> master
-      uses: devmasx/merge-branch@v1.3.0
       with:
-        type: now
-        head_to_merge: gh-pages
-        target_branch: master
-        github_token: ${{ secrets.PUSH_TOKEN }}
+        ref: gh-pages
+    - run: |
+      git checkout -b master
+      git push origin --set-upstream-origin master
