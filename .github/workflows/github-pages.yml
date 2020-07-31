@@ -23,18 +23,27 @@ jobs:
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
 
-  update-master:
+  pull:
     needs: github-pages
+    steps:
+    - uses: actions/checkout@v2
+    - uses: peter-evans/creae-pull-request@v3
+      with:
+        token: ${{ secrets.PUSH_TOKEN }}
+        branch: master
+        base: gh-pages
+        title: 'Match master with gh-pages'
+
+  merge:
+    needs: [github-pages, pull]
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-      with:
-        ref: gh-pages
     - name: Merge gh-pages -> master
       uses: devmasx/merge-branch@v1.3.0
       with:
         type: now
-        head_to_merge: gh-pages 
+        head_to_merge: gh-pages
         target_branch: master
         github_token: ${{ secrets.PUSH_TOKEN }}
