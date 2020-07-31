@@ -7,7 +7,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - new-article
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
