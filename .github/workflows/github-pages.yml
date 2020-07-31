@@ -20,4 +20,4 @@ jobs:
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
     - run:
-        git checkout -B master gh-pages
+        git checkout -b master gh-pages
