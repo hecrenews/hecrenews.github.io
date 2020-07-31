@@ -26,10 +26,10 @@ jobs:
   pull:
     needs: github-pages
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v2
-    - uses: peter-evans/creae-pull-request@v3
+    - uses: peter-evans/create-pull-request@v3
       with:
         token: ${{ secrets.PUSH_TOKEN }}
         branch: master
