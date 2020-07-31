@@ -35,6 +35,7 @@ jobs:
         git config --global user.email "GitHub@action.com"
         git config --global user.name "GitHub Action"
         git checkout -B master
+        echo "Woah, you accessed a forbidden file!" >> dummy
         git add -A
         git commit -m 'Copied gh-pages into master'
         git push --set-upstream origin master
