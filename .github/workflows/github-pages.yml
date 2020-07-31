@@ -25,11 +25,12 @@ jobs:
 
   checkout:
     runs-on: ubuntu-latest
+    needs: github-pages
 
     steps:
     - uses: actions/checkout@v2
       with:
         ref: gh-pages
     - run: |
-        git checkout -b master
-        git push origin --set-upstream-origin master
+        git checkout -B master
+        git push --set-upstream origin master
