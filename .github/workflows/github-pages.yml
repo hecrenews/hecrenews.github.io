@@ -31,4 +31,4 @@ jobs:
       with:
         ref: 'master'
     - run: |
-        git checkout https://github.com/hecrenews/hecrenews.github.io.git/gh-pages -- .
+        git checkout origin/gh-pages
