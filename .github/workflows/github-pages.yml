@@ -19,5 +19,6 @@ jobs:
     - uses: helaili/jekyll-action@2.0.1
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-    - run:
-        git checkout -b master gh-pages
+    - run: |
+        git checkout master
+        git pull gh-pages
