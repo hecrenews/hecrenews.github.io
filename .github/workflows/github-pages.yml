@@ -34,5 +34,5 @@ jobs:
       with:
         type: now
         from_branch: gh-pages
-        targest_branch: master
+        target_branch: master
         github_token: ${{ secrets.PUSH_TOKEN }}
