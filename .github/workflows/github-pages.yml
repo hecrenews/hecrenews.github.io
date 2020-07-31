@@ -42,10 +42,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          persist-credentials: false
-      - uses: JamesIves/github-pages-deploy-action@3.5.9
-        with:
-          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
-          BRANCH: master
-          FOLDER: .
+          github_token: ${{ secrets.PUSH_TOKEN }}
+          publish_dir: .
+          publish_branch: master
