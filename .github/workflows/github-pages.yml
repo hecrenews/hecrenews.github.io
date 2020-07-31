@@ -32,5 +32,6 @@ jobs:
       with:
         ref: gh-pages
     - run: |
+    git push origin --delete master
         git checkout -B master
         git push --set-upstream origin master
