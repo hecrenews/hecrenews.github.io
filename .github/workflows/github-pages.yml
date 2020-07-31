@@ -23,4 +23,4 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref: master
-      run: git pull origin gh-pages
+    - run: git pull origin gh-pages
