@@ -28,13 +28,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - uses: peter-evans/create-pull-request@v3
-      with:
-        token: ${{ secrets.PUSH_TOKEN }}
-        branch: master
-        base: gh-pages
-        title: 'Match master with gh-pages'
+    - uses: vsoch/pull-request-action@1.0.6
+      env:
+        GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
+        PULL_REQUEST_BRANCH: "master"
+        PULL_REQUEST_FROM_BRANCH: "gh-pages"
 
   merge:
     needs: [github-pages, pull]
