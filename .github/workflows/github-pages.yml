@@ -29,10 +29,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        ref: gh-pages
     - name: Merge gh-pages -> master
       uses: devmasx/merge-branch@v1.3.0
       with:
         type: now
-        from_branch: gh-pages
+        head_to_merge: gh-pages 
         target_branch: master
         github_token: ${{ secrets.PUSH_TOKEN }}
