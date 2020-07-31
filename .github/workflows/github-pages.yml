@@ -31,7 +31,9 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: gh-pages
+        token: ${{ PAT_TOKEN }}
     - run: |
+        git push origin --delete master
         git config --global user.email "GitHub@action.com"
         git config --global user.name "GitHub Action"
         git checkout -B master
