@@ -32,6 +32,8 @@ jobs:
       with:
         ref: gh-pages
     - run: |
+        git config --global user.email "GitHub@action.com"
+        git config --global user.name "GitHub Action"
         git checkout -B master
         git add -A
         git commit -m 'Copied gh-pages into master'
