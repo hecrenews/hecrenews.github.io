@@ -30,9 +30,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Merge gh-pages -> master
-    uses: devmasx/merge-branc@v1.3.0
-    with:
-      type: now
-      from_branch: gh-pages
-      targest_branch: master
-      github_token: ${{ secrets.PUSH_TOKEN }}
+    - uses: devmasx/merge-branc@v1.3.0
+      with:
+        type: now
+        from_branch: gh-pages
+        targest_branch: master
+        github_token: ${{ secrets.PUSH_TOKEN }}
