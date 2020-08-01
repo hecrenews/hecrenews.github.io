@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blat Beck sues Hecc out of Hecrenews (An Update on Our Legal Troubles pt.2)"
-date:   2020-07-31 06:42:45 -0500
+date:   2020-08-01 06:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/sad_lawyer.jpg"
 author: wopps_minor
