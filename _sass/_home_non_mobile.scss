@@ -46,6 +46,7 @@
     min-height: 15%;
 
     &-item {
+      position: relative;
 
       .post-list-thumb {
         width: 15%;
@@ -54,10 +55,6 @@
 
       .post-list-tool-tip {
         width: 15%;
-        padding-top: 15%;
-        position: relative;
-        margin-right: 16px;
-        align-self: flex-start;
         display: inline-block;
         transition: 0.3s;
 
@@ -65,14 +62,38 @@
           opacity: 0;
         }
 
-        img {
-          object-fit: cover;
-          border-radius: 4px;
+        &-img {
           width: 100%;
-          height: 100%;
+          padding-top: 100%;
+          position: relative;
+          margin-right: 16px;
+          align-self: flex-start;
+          display: inline-block;
+
+          img {
+            object-fit: cover;
+            border-radius: 4px;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            box-shadow: 0 1px 3px rgba(0,0,0,.25);
+          }
+        }
+
+        &-txt {
+          display: none; /* in development */
           position: absolute;
-          top: 0;
+          background: #fff;
+          left: 0;
+          right: 0;
+          padding: 16px;
+          opacity: 1 !important;
           box-shadow: 0 1px 3px rgba(0,0,0,.25);
+          border-radius: 8px;
+          z-index: 1;
+          overflow: auto;
+          max-height: 5vw;
         }
       }
 

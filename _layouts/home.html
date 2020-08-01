@@ -9,7 +9,24 @@ layout: default
     <!-- Latest news sections -->
     <div id="latest-section">
       <h2 class="post-list-heading">Latest</h2>
-      <div id="latest" class="flex-section">
+      <div id="latest">
+        <div class="post-grid">
+          {% for post in site.posts offset:0 limit:4 %}
+          <div class="post-grid-card-wrapper" style="background-image:url('{{ post.thumb }}')">
+            <div class="post-grid-card">
+              <div class="post-grid-card-tags">
+                {% for tag in post.tags %}
+                  <p class="post-grid-card-tag">{{ tag }}</p>
+                {% endfor %}
+              </div>
+              <div class="post-grid-card-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        {% comment %}
         <!-- Big Card -->
         <div class="post-card-container container">
           {%- for post in site.posts limit:1 -%}
@@ -58,6 +75,7 @@ layout: default
             {% endfor %}
           </ul>
         </div>
+        {% endcomment %}
       </div>
     </div>
     <!-- News and HBA Section -->
@@ -81,7 +99,10 @@ layout: default
                     {% endfor %}
                   </div>
                 </div>
-                <div class="post-list-tool-tip">
+                <div class="post-list-tool-tip close">
+                  <div class="post-list-tool-tip-img"></div>
+                  <!-- Later figure out how to make this load dynamically -->
+                  <div class="post-list-tool-tip-txt">{{ post.excerpt }}</div>
                 </div>
               </li>
               {% endfor %}
@@ -108,7 +129,11 @@ layout: default
                     {% endfor %}
                   </div>
                 </div>
-                <div class="post-list-tool-tip"></div>
+                <div class="post-list-tool-tip close">
+                  <div class="post-list-tool-tip-img"></div>
+                  <!-- Later figure out how to make this load dynamically -->
+                  <div class="post-list-tool-tip-txt">{{ post.excerpt }}</div>
+                </div>
               </li>
               {% endfor %}
             </ul>
@@ -123,13 +148,11 @@ layout: default
   $('.post-list-item .post-list-info .post-list-link').hover(
     function() {
       var target = $(this).parents('.post-list-item');
-      if ($(target).children('.post-list-tool-tip').children().length == 0) {
+      if ($(target).find('.post-list-tool-tip-img').children().length == 0) {
         var thumb = $(target).attr('thumb');
-        $(target).children('.post-list-tool-tip').append("<img src=" + thumb +">");
+        $(target).find('.post-list-tool-tip-img').append("<img src=" + thumb +">");
       }
-      else {
-        $(this).parents('.post-list-item').children('.post-list-tool-tip').removeClass('close')
-      }
+      $(this).parents('.post-list-item').children('.post-list-tool-tip').removeClass('close');
     },
     function() {
       $(this).parents('.post-list-item').children('.post-list-tool-tip').addClass('close');
