@@ -6,10 +6,13 @@ description: "Search the Hecrenews for an article"
 
 This is very basic, don't expect (still getting upgraded)
 
+<h1 style="display:flex;justify-content:center">Search</h1>
 <form onSubmit="return search()">
   <input type="text" id="search-query" value="News" />
-  <input type="submit" value="Search" />
+  <button type="submit" value="Search"><i class="fas fa-search fa-2x"></i></button>
 </form>
+<div class="tag-container">
+</div>
 
 <div class="search-results">
   <div class="post-list-container container">
@@ -26,11 +29,6 @@ This is very basic, don't expect (still getting upgraded)
             {% endfor %}
           </div>
         </div>
-        <div class="post-list-tool-tip close">
-          <div class="post-list-tool-tip-img"></div>
-          <!-- Later figure out how to make this load dynamically -->
-          <div class="post-list-tool-tip-txt">{{ post.excerpt }}</div>
-        </div>
       </li>
       {% endfor %}
     </ul>
@@ -40,6 +38,7 @@ This is very basic, don't expect (still getting upgraded)
 <script type="text/javascript">
 
   postTags = [];
+  allTags = [];
   for (var i = 0; i < $('.post-list-item').length; i++) {
     var tags = $($('.post-list-item')[i]).attr('tags').split(" ");
     var realTags = []
@@ -47,18 +46,32 @@ This is very basic, don't expect (still getting upgraded)
       if (tags[j] === "\n" || tags[j] === "") {
       } else {
         realTags.push(tags[j]);
+        if (!allTags.includes(tags[j])) {
+          allTags.push(tags[j]);
+        }
       }
     }
     postTags.push(realTags);
   }
-  console.log(postTags);
+  allTags.sort();
 
-  function search() {
-    if (!$("input#search-query").val())
-      return false;
+  for (var i = 0; i < allTags.length; i++) {
+    $('.tag-container').append("<p class='tag' onclick='search(\"" + allTags[i] + "\")'>" + allTags[i] + "</p>");
+  }
+
+  function search(query) {
     $('.post-list-item').addClass('hidden');
-    var query = $("input#search-query").val();//.toLowerCase();
-    query = query[0].toUpperCase() + query.slice(1);
+    if (!query)
+    {
+      if (!$("input#search-query").val()) {
+        return false;
+      }
+      query = $("input#search-query").val();//.toLowerCase();
+      query = query[0].toUpperCase() + query.slice(1);
+    }
+    else {
+      $("input#search-query").val(query);
+    }
 
     for (var i = 0; i < $('.post-list-item').length; i++) {
       if (postTags[i].includes(query)) {
@@ -71,7 +84,57 @@ This is very basic, don't expect (still getting upgraded)
 </script>
 
 <style>
+  form {
+    display: flex;
+    justify-content: center;
+  }
+
+  form input[type=text] {
+    margin-right: 16px;
+    padding: 8px;
+    border-radius: 16px;
+    border: 1px solid #ccc;
+  }
+
+  form button[type=submit] {
+    padding: 0;
+    border-radius: 50%;
+    border: none;
+    background: transparent;
+  }
+
+  .search-results {
+    padding: 16px;
+  }
+
+  .post-list-container .post-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .post-list-item {
+    width: calc(50% - 8px)
+  }
+
   .hidden {
     display: none;
+  }
+
+  .tag-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px;
+  }
+
+  .tag {
+    padding: 8px;
+    background-color: #ff4d4d;
+    color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,.25);
+    font-size: .8rem;
+    margin: 8px 8px 0 0;
+    cursor: pointer;
   }
 </style>
