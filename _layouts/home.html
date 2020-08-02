@@ -42,6 +42,11 @@ layout: default
               <li class="post-list-item" thumb="{{ post.thumb }}">
                 <div class="post-list-info">
                   <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <div class="post-tag-container">
+                    {% for tag in post.tags %}
+                    <p class="post-tag">{{ tag }}</p>
+                    {% endfor %}
+                  </div>
                 </div>
                 <div class="post-list-tool-tip close">
                   <div class="post-list-tool-tip-img"></div>
@@ -64,6 +69,11 @@ layout: default
               <li class="post-list-item" thumb="{{ post.thumb }}">
                 <div class="post-list-info">
                   <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <div class="post-tag-container">
+                    {% for tag in post.tags %}
+                      <p class="post-tag">{{ tag }}</p>
+                    {% endfor %}
+                  </div>
                 </div>
                 <div class="post-list-tool-tip close">
                   <div class="post-list-tool-tip-img"></div>
@@ -83,7 +93,10 @@ layout: default
     if ($(window).width() <= {{ site.data.devices['computer'].size | remove: "px" }})
       return;
 
+    $('.post-tag-container').remove();
+
     for (var i = 0; i < $('.post-list-item').length; i++)
       $($('.post-list-item')[i]).css('background-image', 'url("' + $($('.post-list-item')[i]).attr('thumb') + '")');
+
   });
 </script>
