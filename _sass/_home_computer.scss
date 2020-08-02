@@ -30,10 +30,8 @@
 .post-list-container {
 
   .post-list {
-    min-height: 15%;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(4, 1fr);
-    height: calc(50vw - 16px);
 
     &-item {
       background-size: cover;
@@ -41,20 +39,6 @@
 
       .post-list-info {
         padding: 8px;
-        background: rgba(0,0,0,.6);
-        height: calc(100% - 16px;);
-
-        a {
-          color: #fff;
-          font-size: 0.8rem;
-          margin: 0;
-          font-weight: bold;
-          text-decoration: none;
-
-          &:hover::before {
-            visibility: hidden;
-          }
-        }
       }
     }
   }

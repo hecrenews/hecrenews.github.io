@@ -88,15 +88,3 @@ layout: default
   {% endif %}
 
 </div>
-<script>
-  $(document).ready(function(){
-    if ($(window).width() <= {{ site.data.devices['computer'].size | remove: "px" }})
-      return;
-
-    $('.post-tag-container').remove();
-
-    for (var i = 0; i < $('.post-list-item').length; i++)
-      $($('.post-list-item')[i]).css('background-image', 'url("' + $($('.post-list-item')[i]).attr('thumb') + '")');
-
-  });
-</script>
