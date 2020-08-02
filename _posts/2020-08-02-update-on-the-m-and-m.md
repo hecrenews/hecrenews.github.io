@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update on the M&M (New Progress)"
-date: 2020-08-02 18:59:00 -0500
+date: 2020-08-02 18:03:00 -0500
 categories: jekyll update
 thumb: "/assets/images/person_writing.jpg"
 author: mister_mjir
