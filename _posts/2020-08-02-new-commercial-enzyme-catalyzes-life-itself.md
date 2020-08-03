@@ -39,11 +39,11 @@ A new commercial enzyme has made a giant splash on the health supplement scene l
 
 > Von Oriole: “I said don’t interrupt me, foolboy. This enzyme is world-class! It’s simply astounding! Amazing! Actively bad-for-health! It’s commendable! Creative! Constipation-inducing! I tell you, this enzyme is impeccable! Immaculate! It’ll make you Impecunious!
 
-> *Dixon von Oriole then proceeded to strangely tout and then belittle his enzyme until he had done around 17 letters. At that point, his voice got hoarse and he excused himself from the interview, promptly*
+> *Dixon von Oriole then proceeded to strangely tout and then belittle his enzyme until he had done around 17 letters. At that point, his voice got hoarse and he excused himself from the interview promptly*
 
 This enzyme has caused quite a stir, and many people, curious, have tried it to see if it really does catalyze life itself. Unfortunately, they were not available for comment. Bingus Tingus III was reportedly sighted ingesting said enzyme, but declined to be interviewed. He was too busy sleeping, and nothing our interviewer did would wake him up.
 
-It remains to be seen just what this miracle enzyme can do. Multiple big corporate firms had hired teams of scientists to try and reverse engineer the magical substance, but they all mysteriously dropped dead after testing it.
+It remains to be seen just what this miracle enzyme can do. Multiple big corporate firms had hired teams of scientists to try and reverse engineer the magical substance, but they all mysteriously dropped dead after testing it. Highly sus, if I do say so myself.
 
 ---
 
