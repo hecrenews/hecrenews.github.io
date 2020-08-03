@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Commercial Enzyme Catalyzes Life Itself"
-date:   2020-08-02 6:59:59 -0500
+date:   2020-08-02 18:59:59 -0500
 categories: jekyll update
 thumb: "/assets/images/sciencey_liquids.jpg"
 author: wopps_minor
