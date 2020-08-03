@@ -12,7 +12,7 @@ tags:
 
 You, the dear and loyal Renews reader who has diligently read every article to date, may have noticed the recent lack of articles by one Banana The Human, who commonly goes by Banana. Although we recently suspected that he was away on some pear-related business (as usual), Banana’s prolonged disappearance makes us think that this is no longer the case.
 
-Banana hasn’t clocked in for an article-writing shift in days, weeks even. After the first death threats from the boss, the rest of us hecrenews staff got worried (at that point in time, we were still called hecrenews). Where had he gone? After lengthy deliberations, we decided to put search posters all over the area. Maybe somebody had seen Banana recently.
+Banana hasn’t clocked in for an article-writing shift in days, weeks even. After the first death threats from the boss, the rest of us staff got worried (at that point in time, we were still called Hecrenews). Where had he gone? After lengthy deliberations, we decided to put search posters all over the area. Maybe somebody had seen Banana recently.
 
 ![](hecrenews.github.io/assets/images/banana_the_human_search_poster.JPG)
 
