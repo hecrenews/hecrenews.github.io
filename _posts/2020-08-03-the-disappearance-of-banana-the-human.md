@@ -14,7 +14,7 @@ You, the dear and loyal Renews reader who has diligently read every article to d
 
 Banana hasn’t clocked in for an article-writing shift in days, weeks even. After the first death threats from the boss, the rest of us staff got worried (at that point in time, we were still called Hecrenews). Where had he gone? After lengthy deliberations, we decided to put search posters all over the area. Maybe somebody had seen Banana recently.
 
-![](hecrenews.github.io/assets/images/banana_the_human_search_poster.JPG)
+![](https://hecrenews.github.io/assets/images/banana_the_human_search_poster.JPG)
 
 Unfortunately, nobody called the number or visited the ~~interrogation~~ meeting spot. We were dismayed. Sunken into the depths of depression, we feared that Banana was gone for good. To try and salvage our own happiness, Mister Mjir tuned into the ongoing HBA [Twitch stream](https://hecrenews.github.io/jekyll/update/2020/07/28/hba-begins-livestreaming-on-streaming-juggernaut-twitch.html) and we were in for quite the surprise.
 
