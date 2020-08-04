@@ -67,5 +67,4 @@ It's strange cause we didn't even set foot on the Sun. Anywho, this was Mister M
 
 ---
 
-HAC Editor's Note: We had to redact all the alien speech under an order from the HBA, it was for our protection, apparently writing in the alien language was
-dangerous, we do not know how Mister Mjir casually conversed with them.
+Edit by Hecrenews Article Quality Control (HAC): We had to redact all the alien speech under an order from the HBA, it was for our protection, apparently writing in the alien language was dangerous, we do not know how Mister Mjir casually conversed with them.
