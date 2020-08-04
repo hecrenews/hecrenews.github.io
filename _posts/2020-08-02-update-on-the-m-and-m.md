@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update on the M&M (New Progress)"
+title: "Update on the M and M (New Progress)"
 date: 2020-08-02 18:03:00 -0500
 categories: jekyll update
 thumb: "/assets/images/person_writing.jpg"
@@ -31,3 +31,7 @@ we will still take your suggestions and implement them, we just can't spend the 
 small screens, and big computer screens. Our search feature now allows you to search by tags so you can quickly find articles you're interested in.
 
 Guess that's it for me, spread the Hecrenews today and say 'Good Day' to the HBA!
+
+---
+
+Edit by Hecrenews Article Quality Control (HAC): It's the M&M but the title of this article is M and M due to technical reasons, please refer to it as the M&M
