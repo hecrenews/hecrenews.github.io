@@ -53,7 +53,7 @@ I sat down with deMoleish unpaid intern Kons Truckson Jr.(he was the only one av
 
 “Oh, nothing” I smiled and said. “Well, it's been a pleasure interviewing you about… whatever we were talking about. Have a nice day, and don’t forget your Anti-Snake Spray, 100% more effective than its competitor Snaxe Spray”
 
-Truck looked confused, but such is the fate of one named Truck. I popped out of the deMoleish HQ, got into my automobile, and drove back to the office furiously. I may have accidentally broken a few of those glass cubes myself, but the information I received was way to important, and these glass cubes were not.
+Truck looked confused, but such is the fate of one named Truck. I popped out of the deMoleish HQ, got into my automobile, and drove back to the office furiously. I may have accidentally broken a few of those glass cubes myself, but the information I received was way too important, and these glass cubes were not.
 
 I rushed into the office, starting Wopps, who was quietly snarfing chips while sitting on top of the copy machine.
 
