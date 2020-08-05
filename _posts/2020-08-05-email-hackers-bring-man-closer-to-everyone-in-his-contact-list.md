@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Email Hackers Bring Man Closer to Everyone in His Contact List"
-date:   2020-08-05 10:42:45 -0500
+date:  2020-08-05 10:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/fancy_computer_talk.jpg"
 author: hector
