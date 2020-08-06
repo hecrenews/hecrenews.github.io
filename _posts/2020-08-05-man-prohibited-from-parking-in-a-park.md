@@ -4,7 +4,7 @@ title: "Man Prohibited from Parking in a Park"
 date:  2020-08-05 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/traffic_ham_at_the_parking_lot.jpg"
-author: mister_mijr
+author: mister_mjir
 tags:
 - News
 ---
