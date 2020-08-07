@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The hunt for H-E-C (An Update on our Legal Troubles pt. 3)"
-date:   2020-08-07 11:42:45 -0500
+date:  2020-08-07 11:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/man_looking_into_distance.jpg"
 author: hector
