@@ -74,7 +74,8 @@ This is very basic, don't expect (still getting upgraded)
     }
 
     for (var i = 0; i < $('.post-list-item').length; i++) {
-      if (postTags[i].includes(query)) {
+      if (postTags[i].includes(query) ||
+          $($('.post-list-item')[i]).find('.post-list-link').html().includes(query)) {
         $($('.post-list-item')[i]).removeClass('hidden');
       }
     }

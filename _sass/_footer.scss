@@ -5,8 +5,41 @@ footer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  box-shadow: 0 -1px 3px 1px rgba(0,0,0,.25);
+
+  .footer-sections-container {
+    margin-top: 32px;
+
+    .footer-section {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 16px;
+
+      span {
+        display: flex;
+        margin-bottom: 4px;
+        justify-content: center;
+
+        &:first-child {
+          font-size: 1.1rem;
+          margin-bottom: 8px;
+        }
+
+        i {
+          margin-right: 8px;
+        }
+      }
+    }
+  }
+
+  .footer-bottom {
+    margin-top: 32px;
+    font-size: 0.8rem;
+    color: #202020
+  }
 
   span, p, a {
-    color: #fff;
+    color: #fff0f0;
+    margin: 0;
   }
 }

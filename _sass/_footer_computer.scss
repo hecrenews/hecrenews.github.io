@@ -1,0 +1,22 @@
+footer {
+  .footer-sections-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    .footer-section {
+      margin-right: 32px;
+
+      &:not(:last-child) {
+        padding-right: 32px;
+        border-right: 1px solid #202020;
+      }
+    }
+  }
+
+  a {
+    &:hover:before {
+      visibility: hidden;
+    }
+  }
+}
