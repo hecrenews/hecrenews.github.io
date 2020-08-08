@@ -10,7 +10,7 @@ tags:
 - Legal
 ---
 
-We had a problem. Although the (former) [He](https://melnewzers.blogspot.com/)crenews had somehow avoided the courtroom (mostly due to the powers of a certain Af Roman), masterful litigator Hon Hon Taj Boxes demanded nothing less than the H-E-C from the (former) Hecrenews. We were reduced to Renews, a frankly quite poor name.
+We had a problem. Although the (former) Hecrenews had somehow avoided the courtroom (mostly due to the powers of a certain Af Roman), masterful litigator Hon Hon Taj Boxes demanded nothing less than the H-E-C from the (former) Hecrenews. We were reduced to Renews, a frankly quite poor name.
 
 But there was still hope.
 
