@@ -10,7 +10,7 @@ tags:
 - Health
 ---
 
-In recent news, local resident Wimbe Wampa has recently taken ill. He was allegedly enjoying his 26th ice cream cup in an all-you-can-eat promotion of local eatery “Stuff Yer Gob”, w[he](https://melnewzers.blogspot.com/)n he suddenly felt faint. After a good night’s sleep, it was confirmed (by multiple insider sources) that Wampa had the sniffles.
+In recent news, local resident Wimbe Wampa has recently taken ill. He was allegedly enjoying his 26th ice cream cup in an all-you-can-eat promotion of local eatery “Stuff Yer Gob”, when he suddenly felt faint. After a good night’s sleep, it was confirmed (by multiple insider sources) that Wampa had the sniffles.
 
 Now, there’s no need for alarm. After reviewing the facts of the case, experts have decided not to call a public health emergency, because Wimbe Wampa’s sniffles are not, in fact, highly contagious. However, these experts also frown upon Wampa’s apparent disregard for his personal safety, as demonstrated by his not wearing a helmet of any kind. This was a major cause of his sickness, obviously.
 
