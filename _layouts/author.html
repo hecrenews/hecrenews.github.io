@@ -16,7 +16,8 @@ layout: default
 
 <div class="author-stats">
   <h1 style="margin-top:0">Stats</h1>
-  <p>Percentage of articles written: {{ posts.size | times: 100 | divided_by: site.posts.size }}%</p>
+  {% assign float_post = posts.size | times: 1.0 %}
+  <p>Percentage of articles written: {{ float_post | divided_by: site.posts.size | times: 100 | round: 2 }}%</p>
   <div class="progress-bar"></div>
 </div>
 
