@@ -5,13 +5,15 @@ layout: default
 
   {{ content }}
 
-  {% for author in site.data.authors %}
+  {% for author in site.authors %}
   <div class="author-card">
     <div class="author-card-top">
-      {% include authors/{{ author.author }}/icon.html %}
-      <p class="author-name">{% include authors/{{ author.author }}/name.html %}</p>
+      <img src="{{ author.icon_src }}">
+      <a href="{{ author.url}}">
+        <p class="author-name">{{ author.title }}</p>
+      </a>
     </div>
-    <p class="author-bio">{% include authors/{{ author.author }}/bio.html %}</p>
+    <p class="author-bio">{{ author.content }}</p>
   </div>
   {% endfor %}
 

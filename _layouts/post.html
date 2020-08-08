@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% assign author = site.authors | where_exp: "item", "item.name == page.author" %}
+{% assign author = author[0] %}
+
 <div class="post-banner">
   <div class="post-banner-blur" style="background-image: url('{{ page.thumb }}')"></div>
   <img src="{{ page.thumb }}">
@@ -17,7 +20,10 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
     </p>
-    <p class="post-author">{% include authors/{{ page.author }}/name.html %}</p>
+    <div class="post-author">
+      <img src="{{ author.icon_src }}">
+      <p>{{ author.title }}</p>
+    </div>
     <div class="post-tag-container">
       {% for tag in page.tags %}
       <p class="post-tag">{{ tag }}</p>

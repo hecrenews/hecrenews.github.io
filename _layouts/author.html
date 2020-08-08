@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+{% assign posts = site.posts | where_exp: "item","item.author ==  page.name" %}
+
+<div class="author-info">
+  <div class="author-info-header">
+    <img src="{{ page.icon_src }}">
+    <h1>{{ page.title }}</h1>
+  </div>
+  <div class="author-info-bio">
+    <p>{{ content }}</p>
+  </div>
+</div>
+
+<div class="author-stats">
+  <h1 style="margin-top:0">Stats</h1>
+  <p>Percentage of articles written: {{ posts.size | times: 100 | divided_by: site.posts.size }}%</p>
+  <div class="progress-bar"></div>
+</div>
+
+<div class="author-post-container">
+  <h1>Articles</h1>
+  <div class="post-list-container container">
+    <ul class="post-list">
+      {% for post in posts %}
+      <li class="post-list-item" thumb="{{ post.thumb }}">
+        <div class="post-list-info">
+          <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <span class="post-list-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+          <div class="post-tag-container">
+            {% for tag in post.tags %}
+            <p class="post-tag">{{ tag }}</p>
+            {% endfor %}
+          </div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<style>
+  .progress-bar {
+    width: 100%;
+    background-color: #ccc;
+    height: 32px;
+    position: relative;
+  }
+
+  .progress-bar:after {
+    content: "";
+    background-color: #ff4d4d;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: calc(100% * calc({{ posts.size }} / {{ site.posts.size }}));
+  }
+</style>
