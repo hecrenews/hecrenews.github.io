@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hecrenews to take Legal Action against Houston, Texas HecreTaries"
-date: 2020-08-08 18:46:00 -0500
+date: 2020-08-09 18:46:00 -0500
 categories: jekyll update
-thumb: "/assets/images/coutrroom_meeting.jpg"
+thumb: "/assets/images/coutroom_meeting.jpg"
 author: mister_mjir
 tags:
 - News
