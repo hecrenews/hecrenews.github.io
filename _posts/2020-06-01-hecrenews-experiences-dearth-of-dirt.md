@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hecrenews Authors Experience Dearth of Dirt"
+title:  "Hecrenews Experiences Dearth of Dirt"
 date:   2020-06-01 17:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/dirt.jpg"
