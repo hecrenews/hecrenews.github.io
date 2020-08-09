@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Man Falls Ill, Experts Say Could have been Prevented by Wearing Helmet"
-date:   2020-08-09 11:42:45 -0500
+date:   2020-08-08 11:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/bike_helmet.jpg"
 author: hector
