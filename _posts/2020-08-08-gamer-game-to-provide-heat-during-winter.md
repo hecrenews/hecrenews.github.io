@@ -35,7 +35,7 @@ heavy, high-power usage games on his computer and after a few minutes the temper
 his experiment with the others in his community, and soon all the children began hooking up their computers to their central heating unit and in the recent years,
 not a single person has died in Gabriel's community due to the cold weather. He became a hero in his community and we are here to document his story.
 
-While the common person reading this article may believe it's impossible to reach the levels of stoisism as Gabriel, he just followed a few simple steps. He identified
+While the common person reading this article may believe it's impossible to reach the levels of stoicism as Gabriel, he just followed a few simple steps. He identified
 a problem, observed, researched, and implemented a solution. However, for most people there are a few more steps involved: make errors and repeat. Sometimes a solution
 will not work the first time, that is a mistake. One must then identify what went wrong during that experiment and make adjustments to correct that mistake. But
 with perseverance, anyone is able to solve any problem they encounter and make their world a better place to live in.
