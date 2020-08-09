@@ -10,7 +10,7 @@ tags:
 - Science
 ---
 
-Post-doctoral student Hooshar Manus has devised a quite ingenious device. In his groundbreaking paper, he details a patent-pending invention that, quite frankly, has t[he](https://melnewzers.blogspot.com) power to change life as we know it. The unique piece of technology can, almost miraculously, make traffic lights go from red to green. One instant you’re waiting in line, and the next instant you can zoom! How awesome is that?
+Post-doctoral student Hooshar Manus has devised a quite ingenious device. In his groundbreaking paper, he details a patent-pending invention that, quite frankly, has the power to change life as we know it. The unique piece of technology can, almost miraculously, make traffic lights go from red to green. One instant you’re waiting in line, and the next instant you can zoom! How awesome is that?
 
 Hooshar hopes to rake in millions of shimilac with his new invention, and is currently selling devices for a steep, steep price of $5,000.00 + tax. But who knows? It may yet be worth it, to control the very fabric of time as you make all the red lights turn green. Just push a single button, and after a minute or two the horrid red light turns green, almost by magic.
 
@@ -34,4 +34,4 @@ The sea of opportunity that this great device will create will surely be vast. H
 
 ---
 
-Well, that’s it for now. Hooshar Manus will definitely go down in history as the inventor of something truly great. But now, it’s time for me to tell you one of my gramps’s most famous sayings: “rat-a-tat-tat-tat-tat-tat!”
+Well, that’s it for now. Hooshar Manus will definitely go down in history as the inventor of something truly great. But now, it’s time for me to tell you one of my gramps’s most famous sayings: “rat-a-ta
