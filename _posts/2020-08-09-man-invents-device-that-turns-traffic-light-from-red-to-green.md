@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Man Invents Device that turns Traffic Light from Red to Green"
-date:   2020-08-10 11:42:45 -0500
+date:   2020-08-09 11:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/traffic_light.jpg"
 author: hector
