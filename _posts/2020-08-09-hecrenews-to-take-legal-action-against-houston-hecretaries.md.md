@@ -12,8 +12,7 @@ tags:
 - HBA
 ---
 
-A few months ago a [coach lost all hope in humanity due to a name selection competition]
-(https://hecrenews.github.io/jekyll/update/2020/05/24/local-sports-team-loses-faith-in-humanity-after-name-selection-competition.html). The HBA was busy with other
+A few months ago a [coach lost all hope in humanity due to a name selection competition](https://hecrenews.github.io/jekyll/update/2020/05/24/local-sports-team-loses-faith-in-humanity-after-name-selection-competition.html). The HBA was busy with other
 pressing issues but they finally got a chance to look at the article and they are not happy. While the HBA loves the appreciation, dedication, and following of them
 or the Hecretary Bird, a sports team naming themselves after the Hecretary Birds has caught their radar.
 
