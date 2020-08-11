@@ -10,7 +10,7 @@ tags:
 ---
 
  Sung-Min Saško was at a meeting for work on day and decided to turn his phone on silent, or do not disturb. While we do not understand the specifics of what the
- mode is actually called, we doo know that it prevented the phone from vibrating or making any kind of sound. Saško made a lot of strong points during the meeting
+ mode is actually called, we do know that it prevented the phone from vibrating or making any kind of sound. Saško made a lot of strong points during the meeting
  and his co-wokers say he carried the meeting and is soon going to carry the company. "He's gonna become a big man and perhaps a big boss too while he's at it" says
  Raja Bharat, a member of the sales team. However, Saško made one vital mistake. Saško lost his phone, and now there was no way to find it.
  
