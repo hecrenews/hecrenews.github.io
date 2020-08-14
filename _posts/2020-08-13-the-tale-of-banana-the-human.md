@@ -21,13 +21,13 @@ Banana was fed up with these abnormalities. He cornered Wopps at the copier mach
 
 “What’s going on Wopps? Why hasn’t the boss shown up? And since when has Mjir developed a fear of lead-contaminated water?”
 
-Wopps tried to look calm, but he fidgeted with his hands. “Look Banana, I don’t know much. All I know is they are back.”
+Wopps tried to look calm, but he fidgeted with his hands. “Look Banana, I don’t know much. All I know is *they* are back.”
 
 Banana looked at Wopps suspiciously. “You sure?”
 
 “Positive”
 
-Banana’s face was deep with contemplation. He didn’t know whether to stop them or not. Last time they appeared, he(along with Wopps and Mr Mjir), had lost a good friend. But his heart didn’t have the strength to lose any more.
+Banana’s face was deep with contemplation. He didn’t know whether to hunt *them* or not. Last time they appeared, he(along with Wopps and Mr Mjir), had lost a good friend. His heart didn’t have the strength to lose any more.
 
 “Okay Wopps. Thanks for letting me know.”
 
@@ -39,7 +39,7 @@ The day was rainy, and much too cold. Banana took out his umbrella, and with a g
 
 It was as lively as it always had been. Dube was at the counter, shimmying up the glasses, humming to the pop beats blaring from the speaker behind. He waved at Banana, a grin lighting up his face. Banana smiled back, but memories of Dube memory wipe after his encounter with the Roller surfaced in his mind. He pushed them away, trying to focus on the task at hand. He grabbed a seat and the counter, and started to talk to Dube.
 
-“Dube, I need some information. Apparently they are back.”
+“Dube, I need some information. Apparently *they* are back.”
 
 Dube’s eyes widened, and he stopped whatever he was doing at once.
 
@@ -55,19 +55,19 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 The flight had been uneventful, if not borderline boring. The channels on the TV were all news, but none matched up to the brilliance of Hecrenews, so Banana decided to avoid them. He settled on taking a long nap.
 
-As he got off at Aswan, he was greeted by a blast of hot air, and the smoldering sun. Welcome to the desert, Banana thought to himself. But Banana smiled, remembering his roots in the Deserts of Mangifera. Then his thoughts drew to his banishment, his exile from his homeworld. How the Yak Cats found him, raised him as one of their own.
+As he got off at Aswan, he was greeted by a blast of hot air, and the smoldering sun. *Welcome to the desert*, Banana thought to himself. But Banana smiled, remembering his roots in the Deserts of Mangifera. Then his thoughts drew to his banishment, his exile from his homeworld. How the Yak Cats found him, raised him as one of their own.
 
 “Are you Banana?,” a man’s voice called out.
 
 Banana directed his attention to the source of the voice, and found his taxi driver. He was a friendly chap by the name of Robin, and as they drove towards Abu Simbel, he delighted Banana with his stories of his time as a sailor. Once they reached Abu Simbel, Banana paid the man, gave his number to Robin, and said goodbye to his new friend.
 
-He headed towards the Rameses statues, wondering which one was the third one. As he approached them, he noticed one with a faint purple haze around it. That’s gotta be it. Now what was that about the haze Dube had said. Ah, yes avoid it. But, Banana being Banana, went right up to the statue, pushed through the purple haze, and touched the smooth sandstone.
+He headed towards the Rameses statues, wondering which one was the third one. As he approached them, he noticed one with a faint purple haze around it. *That’s gotta be it. Now what was that about the haze Dube had said. Ah, yes avoid it.* But, Banana being Banana, went right up to the statue, pushed through the purple haze, and touched the smooth sandstone.
 
 He suddenly heard faint, hissing noises, growing louder every second. He turned around, his back to the statue, and found himself being watched by four creatures. They had short, stubby legs, trunks as wide as a cedar tree, and elongated serpentine bodies. But what really surprised him was their faces. They had the face of a cat.
 
 Banana staggered back into the statue, shocked. He knew that they were back, but he had forgotten how the beasts sent waves of fear through the body.And these looked different, more ancient than the generic snake with a cat face that he had encountered. For the first time, the idea of multiple Snaxii species entered his mind.
 
-Think Banana. Where have you seen these things before. Banana vaguely remembered the Egyptian exhibit at the MOMA, and paintings of snakes with feet and cat faces. Serpopards. These are Serpopards. And as he realized what they were, the 4 ancient Egyptian snaxii opened their maws and darted at him.
+*Think Banana. Where have you seen these things before*. Banana vaguely remembered the Egyptian exhibit at the MOMA, and paintings of snakes with feet and cat faces. *Serpopards. These are Serpopards*. And as he realized what they were, the 4 ancient Egyptian snaxii opened their maws and darted at him.
 
 End of Part 1
 
