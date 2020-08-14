@@ -11,7 +11,7 @@ tags:
 - Big Boom Booms
 - Space
 ---
-Yo. What is this? Banana the Human posting two articles in the span of 24 hours. Surely the World Is Turn’d Upside Down(heh, Yorktown reference).
+Yo. What is this? Banana the Human posting *two* articles in the span of 24 hours. Surely the World Is Turn’d Upside Down(heh, Yorktown reference).
 
 Antarctican Peary Roberts is the pride of our planet today. He has achieved the impossible, proving to the galaxy once and for all that Earthlings are somewhat competent at things they do. His name will no doubt be remembered along with greats like Eif al-Tawa, Sheesh Kai Bob, and possibly me if I ever get that Pulitzer. I sat down with this fine gentleman to discuss his triumph.
 
