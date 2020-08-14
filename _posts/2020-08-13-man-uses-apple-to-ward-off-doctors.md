@@ -38,5 +38,5 @@ That's all from the SAR today.
 Anywho, Svetlana went into the room waiting for the doctor to come. The doctor soon came in, asking "How are you today" and had an assortment of needles and syringes
 and other scary stuff with him. Svetlana was going crazy on the inside due to his fear, but on the outside (the real world) he calmly took the apple out of his pocket.
 The doctor wasn't looking at the apple at first but once he saw the apple, he immediately broke into a cold sweat. The doctor's breathing change, becoming heavier
-and faster. Goosebumps roose all over. The doctor tried to run but fainted before reaching the door and the doctor had to be sent to the hospital. Svetlana survived
+and faster. Goosebumps rose all over. The doctor tried to run but fainted before reaching the door and the doctor had to be sent to the hospital. Svetlana survived
 the doctor visit this time, but will he be so lucky the next? He sure is getting it from his family. Anywho, this has been Mister Mjir popping in and now popping out.
