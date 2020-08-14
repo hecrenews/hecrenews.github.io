@@ -7,7 +7,7 @@ thumb: "/assets/images/busy_man.jpg"
 author: wopps_minor
 tags:
 - News
-- Economics
+- Finance
 ---
 
 Have you been doing anything productive during these times? For one local resident, the answer is a resounding YES. Fred Dome, 26, has taken it upon himself to self-improve with all of his free time. Just hours after the lockdown started, Fred Dome employed a variety of methods to improve himself mentally, physically, spiritually, and demographically. In an interview given to rookie reporter Fred Dome, Dome describes his training regimen:
@@ -21,6 +21,8 @@ With his newfound skill, Dome decided to apply for a couple of jobs online, "par
 Currently, an average day in the life of Dune starts at 12:00 am and ends at 6:00 am. He starts by going on his mail route, which takes him to his supermarket job, after which he drives a delivery truck halfway across the country, after which he works as a TSA Official in an almost-empty airport. After working his first four shifts, Fred Dome opens his eyes. After mowing dozens of lawns, designing a website or two, and streaming some Hecretary Bird TCG: Online, Dome stretches a bit. This pattern continues well into the day and night, when at 6:00 am Dome realizes that he's about six hours late for his job at the Post Office. Godspeed, Fred Dome.
 
 Once president Dome ends the quarantine and people can work like normal again, there may be some unemployment issues as people whose jobs have been taken by Dome have nowhere to go. But eh, that's tomorrow's problem.
+
+---
 
 What have you been up to in the past couple of weeks? Is it pathetically worthless in comparison to the astounding productivity of Fred Dome? Comment down below! (jk we don't have comments)
 
