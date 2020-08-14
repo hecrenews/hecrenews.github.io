@@ -7,7 +7,7 @@ thumb: "/assets/images/question_mark.jpg"
 author: banana_the_human
 tags:
 - News
-- Snaxii
+- Environment
 ---
 What’s up peeps. I know, I know, I said I might post a bit more, but hey, I’m lazy. But I’m going to tell you where I was during my prolonged absence(before my drivers article). And no, I was not playing on the HBA twitch stream the whole time. Let’s get to it.
 
