@@ -29,7 +29,7 @@ As the addage goes, "An apple a day keeps the doctor away." Doctors may be Svetl
 apple, doctors will run for their lives if they notice an apple in the near vicinity. SAR encourages individuals, especially young and learning kids, to test out the
 experiment for themselves. While my article quality is not good enough to have images like
 [Wopp's great example](https://hecrenews.github.io/jekyll/update/2020/06/20/writing-in-all-caps-found-to-be-more-persuasive.html), SAR has provided the instruction to
-run the experiment and it's not that hard. Ouse one day as a control. Do not bring anything sus, meaning any type of food, to the doctor, and see what happens. Then
+run the experiment and it's not that hard. Use one day as a control. Do not bring anything sus, meaning any type of food, to the doctor, and see what happens. Then
 switch up the type of food you bring. This is call an independent variable, it is what the experimenter can change and is what the dependent variable (which is the
 doctor's reaction) relies on. After getting your control and recording your observations, try bringing in a vegetable and then a fruit other than an apple. Finally,
 bring an apple and see what happens. For extra flavor, try bringing in a tomato, which experts cannot determine if it's a fruit or a vegetable, and see what happens.
