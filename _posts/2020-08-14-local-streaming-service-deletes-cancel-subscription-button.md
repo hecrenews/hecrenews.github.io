@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Local Streaming Service Deletes ‘Cancel Subscription’ Button"
-date:   2020-08-14 11:42:45 -0500
+date:  2020-08-14 11:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/streaming_service.jpg"
 author: hector
