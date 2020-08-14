@@ -8,7 +8,6 @@ author: banana_the_human
 tags:
 - News
 - Aviation
-- Big Boom Booms
 - Space
 ---
 Yo. What is this? Banana the Human posting *two* articles in the span of 24 hours. Surely the World Is Turn’d Upside Down(heh, Yorktown reference).
