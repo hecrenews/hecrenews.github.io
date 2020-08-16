@@ -31,5 +31,5 @@ and some updated their snapchat stories, one woman even got a streak of 17 years
 safely and quickly reached their destination.
 
 "This is my favourite train, always super fast and super reliable," said one of the passengers. I was about to ask the conductor for an interview but he dipped as he
-had to go to the next stop. Trains are truly magnificent, and maybe soon this train will interrupt fire traffic, then interrupting traffic of all the five elements.
+had to go to the next stop. Trains are truly magnificent, and maybe soon this train will interrupt fire traffic, then interrupting traffic of all four elements.
 Until then, this has been Mister Mjir, popping in and now popping out.
