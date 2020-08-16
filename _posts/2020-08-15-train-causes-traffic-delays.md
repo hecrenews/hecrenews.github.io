@@ -16,8 +16,7 @@ has achieved a milestone of ruining traffic all around.
 
 "Was just driving in me car," said a local man, whoops, I forgot to take his name. You'll have to trust me on this interview. "See I was about to go forward, I bought
 the [magic device which turns the signal](https://hecrenews.github.io/jekyll/update/2020/08/09/man-invents-device-that-turns-traffic-light-from-red-to-green.html) and
-I was just waiting for the signal to turn green. It finally turned green and I was ready and rarring to go but the railroad crossing stopped me in my tracks! Guess
-I'll have to get a refund." The train stopped a couple of cars from passing but the traffic chaos did not stop there.
+I was just waiting for the connection to stabilize so that the signal would magically turn green. It finally turned green and I was ready and raring to go but the railroad crossing stopped me in my tracks! Guess I'll have to get a refund." The train stopped a couple of cars from passing but the traffic chaos did not stop there.
 
 This train also blocked the traffic of 7 ships passing by. "How in the world did the train even start going on the water?" said the captain of one of the ships. The
 train was just cruising along the water like it did in the Polar Express but on water instead of ice. Usually most people do not care about water traffic, but in the
