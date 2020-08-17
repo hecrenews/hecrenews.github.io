@@ -18,7 +18,7 @@ And legal action was indeed taken. The HBA was very intent on taking the issue r
 
 As the designated court reporter (you can’t imagine the hours of Typing Trainer required to land that gig), I was shocked when Af Roman coolly walked into the room. Apparently he had finished that tour of his former empire, and deciding to reclaim it some other day, had gotten back into the professional intimidation business. 
 
-| ![](https://hecrenews.github.io/assets/images/houston_hecretaries_in_action.jpg)  |
+| ![](https://hecrenews.github.io/assets/images/houston_texas_hecretaries_in_action.jpg)  |
 |:-:|
 | *An image of the Houston, Texas HecreTaries soccer team in action. They’ve attracted much criticism for their violent play and constant handballing, but that’s their personal choice, I guess. Too bad 87.6% of their team gets red carded each game, on average. *  |
 
