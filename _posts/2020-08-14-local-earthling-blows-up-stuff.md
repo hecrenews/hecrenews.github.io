@@ -3,7 +3,7 @@ layout: post
 title:  "Local Earthing Blows Up Small One Man Spaceship With Colossal Destructive Space Station"
 date:   2020-08-14 14:05:45 -0500
 categories: jekyll update
-thumb: "/assets/images/Death Star.PNG"
+thumb: "/assets/images/death_star.png"
 author: banana_the_human
 tags:
 - News
