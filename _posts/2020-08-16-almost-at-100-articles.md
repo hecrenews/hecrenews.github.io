@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Almost at 100 articles"
-date: 2020-08-17 18:59:00 -0500
+date: 2020-08-16 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/megaphone_man.jpg"
 author: mister_mjir
