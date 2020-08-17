@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Woman Refuses to drink Water because of Sus Origins"
-date: 2020-08-17 19:43:00 -0500
+date: 2020-08-16 19:43:00 -0500
 categories: jekyll update
 thumb: "/assets/images/woman_drinking_glass_of_water.jpg"
 author: mister_mjir
