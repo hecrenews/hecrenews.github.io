@@ -20,7 +20,7 @@ As the designated court reporter (you can’t imagine the hours of Typing Traine
 
 | ![](https://hecrenews.github.io/assets/images/houston_texas_hecretaries_in_action.jpg)  |
 |:-:|
-| *An image of the Houston, Texas HecreTaries soccer team in action. They’ve attracted much criticism for their violent play and constant handballing, but that’s their personal choice, I guess. Too bad 87.6% of their team gets red carded each game, on average. *  |
+| *An image of the Houston, Texas HecreTaries soccer team in action. They’ve attracted much criticism for their violent play and constant handballing, but that’s their personal choice, I guess. Too bad 87.6% of their team gets red carded each game, on average.*  |
 
 The case started out pretty lacklusterly, as most cases these days do. Just a bunch of people talking legal whatnot. But then the fireworks began. We all learned the HBA’s secret plan in bringing Af Roman. He was to cross-examine the Houston, Texas HecreTaries’ witnesses so intimidatorily that they would faint on the spot, or something like that.
 
