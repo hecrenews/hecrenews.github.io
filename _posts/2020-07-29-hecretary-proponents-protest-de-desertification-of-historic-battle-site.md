@@ -26,8 +26,4 @@ But for now, Bulstrode digs. And digs. And digs some more.
 
 Well, it seems like old Wopps is the first to break from the daily article regimen. I sure do hope the boss doesn't notice, or you may not hear from me ever again. Wopps out, for hopefully less than 24 hours.
 
-EDIT (By Hecrenews Historical Analysis Team (HAT)): Please note the actual history of the battle between the Hecretary Bird and the Evil Snaxe are still not set and
-stone, it is a very challenging feat for us historians to handle because a long time back there was a project where our ancestors had to recite the story, while
-most extrapolated like they should've one guy fabricated the story causing many inconsistencies and we cannot figure out the true history, thus it remains a mystery.
-(In detail, some versions don't have a name for the Hecretary Bird, and other versions the Hecretary Bird does not turn into pebbles, may need to update Hecrepedia
-about this...)
+EDIT by Hecrenews Article Quality Control - The Hecrenews Historical Analysis Team (HAT tells us to tell you to please note that the actual history of the battle between the Hecretary Bird and the Evil Snaxe are still not set in stone; it is a very challenging feat for groups of historians like HAT to handle because a long time back there was a project where our ancestors had to recite the story, while most extrapolated like they should've one guy fabricated the story causing many inconsistencies and we cannot figure out the true history, thus it remains a mystery.(In detail, some versions don't have a name for the Hecretary Bird, and other versions the Hecretary Bird does not turn into pebbles, may need to update Hecrepedia about this...)
