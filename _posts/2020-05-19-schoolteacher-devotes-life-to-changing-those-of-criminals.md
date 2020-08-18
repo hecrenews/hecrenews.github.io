@@ -14,7 +14,7 @@ When most of us hear about break-ins and robberies, we shake our heads and move 
 
 Down: "Well, it's great to finally meet you Miss Take. I mean, er, my mistake, I meant Mrs. Take. You are married, right? Um.. HEY, SCRAWNY SCRIBE BOY! DONT YOU DARE WRITE DOWN WHAT IM SAYING RIGHT NOW CUT IT RIGHT NOW THIS PART-- OUT OF THE INTERVIEW CU--"
 
-*[Down continues to abuse the handsome, muscular scribe for some time, who takes advantage of the fact that the Hecrenews doesn't have an editor]*
+*[Down continues to abuse the ~~handsome, muscular~~ altogether quite scrawny scribe for some time, ~~who takes advantage of the fact that the Hecrenews doesn't have an editor~~]*
 
 Take: "Ahem, I thought you were interviewing me, not that poor boy"
 
@@ -45,4 +45,8 @@ A local woman's take on the situation:
 "When the gentlemen broke into my home to steal everything I owned, they apologized profusely. They didn't mouth off like normal criminals when they saw my kids. Overall, it was a very pleasurable experience. In the end, I was pleasantly chatting with one of them while the others were rifling through my cabinets. I would rate this a 10/10. Can't wait to get robbed again!"
 
 Fearing for their mental sanity, our investigative team questioned no one else. The long-term effects of these new "Criminals that aren't Animals (CTAA)", as they call themselves, remain to be seen. This is Wopps Minor for the Hecrenews Crime and Punishment section, signing off.
+
+---
+
+EDIT by Hecrenews Article Quality Control (HAC) - Hecrenews actually does have an editing team now, mwahahahaha!
 	
