@@ -15,6 +15,8 @@ In very topical news, something is happening somewhere. First reported by Someon
  
  Somebody's insight was very insightful. Sometime later, we figured out that somebody somewhere else also did something newsworthy, be prepared for a story on that newsworthy topic coming soon!
 
-Note from the Hecrenews:
+---
+
+Note from Hecrenews Article Quality Control (HAC):
 
 Since we are currently experiencing a [dearth of newsworthy information](https://hecrenews.github.io/jekyll/update/2020/06/01/hecrenews-authors-experiencing-dearth-of-dirt.html), the never-flagging Hecrenews staff has been hard pressed to come up with a solution. In an effort to maintain the pristine article quality you know and tolerate, the Hecrenews will only report on truly newsworthy events. While this sometimes means that we leave the specifics of the articles to the minds of the readers, rest assured that we will always only post newsworthy content (Subjectively determined by people who are definitely in no way related to the Hecrenews). See [this article](https://hecrenews.github.io/yeet) for an example of quality content. As always, keep on keeping on, dear Hecrenews readers.
