@@ -21,10 +21,7 @@ tags:
  install it himself but he was too lazy to do so and did not install the quintessential amenity.
  
  When Saško returned to work next day he checked his cubicle. It wasn't a big place but after rummaging through all his drawers for about 10 min. he was unable to find
- it. He asked his boss if he had left his phone at the meeting but his boss did not see anything. Saško was starting to become more anxious. He did not know where his
- phone was now and he was probably having a bunch of missed calls from his girlfriend, 100% not a good thing for Saško, he was going to get it when she finally returned
- from her overseas work. The boss decided to offer a helping hand to Saško and called over law enforcement to devise a search and rescue opeartion for the phone. Saško
- thought that this was too much but the boss assured him this was proper, it had happened once before when he too was a corporate slave not living the high life.
+ it. He asked his boss if he had left his phone at the meeting but his boss did not see anything. Saško was starting to become more anxious. He had suffered the same fate as a certain [Elisaveta Eógan](https://hecrenews.github.io/jekyll/update/2020/06/06/woman-without-phone-unable-to-call-anyone.html) did two months prior. He did not know where his phone was now and he was probably having a bunch of missed calls from his girlfriend, 100% not a good thing for Saško, he was going to get it when she finally returned from her overseas work. The boss decided to offer a helping hand to Saško and called over law enforcement to devise a search and rescue opeartion for the phone. Saško thought that this was too much but the boss assured him this was proper, it had happened once before when he too was a corporate slave not living the high life.
  
  The Phone Search and Rescue Squad (PS) arrived shortly onto the scene and began questioning the boss and then Saško. Soon they began question the other employees at
  Saško's company and no one was suspected of lying and no one noticed anyting about the phone. The PS said there were two possibilites: a simple phone theif (which was
