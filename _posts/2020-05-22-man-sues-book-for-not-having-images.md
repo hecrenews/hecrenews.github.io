@@ -7,6 +7,7 @@ thumb: "/assets/images/book.jpg"
 author: mister_mjir
 tags:
 - News
+- Legal
 ---
 
 Local Palve Sture was one day reading a book, but the book did not have any pictures. To Sture, this was an atrocious act, and
