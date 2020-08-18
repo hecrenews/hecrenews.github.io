@@ -16,7 +16,7 @@ In recent news, a suspicious gang has been terrorizing the city for the past cou
 
 | ![](https://hecrenews.github.io/assets/images/AHPS1.jpg) |
 | :--: |
-| *The first piece of dreaded snaxe porpaganda sent to us, originally posted on the side entrance of a well-known hookah lounge* | 
+| *The first piece of dreaded snaxe propaganda sent to us, originally posted on the side entrance of a well-known hookah lounge* | 
 
 This first bit of snaxe propaganda -- **WARNING: Don't look too close, or you'll be converted to their side. Never underestimate the persuasive prowess of the Yiper.** -- is believed to be penned by the Yiper itself. Dating back to the Hecretarian Revolution/Snaxely Uprising, this model of propaganda was last seen hung up by a "Skulking Shadow" in the town of Snaskatoon. It was very dangerous stuff, even during that archaic time. Threatening to convert a group of innocent townspeople, it took every rhetorical device in a local Narrator's briefcase to persuade them (after a fair bit of roasting) to not heed the propaganda, and instead take the fight to the snaxii, where the conniving snaxii wouldn't be able to use their words. This led to the famed Battle of Snaxington, as you well know. A similar incident happened in the nearby town of Conbird, and these two incidents helped spark the Revolution.
 
@@ -41,5 +41,5 @@ The second poster, which seems to be the Propaganda People's own creation, was p
 
 The second piece of propaganda, much like the first, is visually, spiritually, mentally, and even dentally disturbing. It depicts a snaxe presiding over the somewhat-flatter-than-normal earth, ruling with an ~~iron fist~~  gentle touch. It goes without saying that you, dear reader of the hecrenews, should stay far, far away from this one as well. In fact, it may be prudent to scream and run in the other direction whenever you see a flat Earth. 
 
-That's all for now, dear Hecrenews reader (Oh, I hope there's at least one of you). Stay strong and be wary. The Propaganda People may yet strike again, but if they do, the Hecrenews will be right there to cover the incident! (After a healthy week-lonng bout of procrastination, of course).
+That's all for now, dear Hecrenews reader. (Oh, how I hope there's at least one of you!) Stay strong and be wary. The Propaganda People may yet strike again, but if they do, the Hecrenews will be right there to cover the incident! (After a healthy week-lonng bout of procrastination, of course).
 
