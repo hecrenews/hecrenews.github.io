@@ -44,3 +44,7 @@ happy for what he good, the most critical moment of his life.
 Lucilla is now a meterologist working somewhere but surely the HBA will recruit a talent like him soon so guess we'll be seeing him again. Anyone can achieve their
 dreams if they believe and work hard like Lucilla, at Hecrenews we report the big stories of big mans, in hopes that one day you too can become a big man. Chase after
 your dreams and don't regret not chasing them.
+
+---
+
+EDIT by Hecrenews Article Quality Control (HAC) - We don't like that. Slip up again Mjir and the pay's getting cut, says the boss.
