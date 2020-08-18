@@ -17,7 +17,7 @@ Earlier this week, local citizen Usnavi Komse Foroil reported a strage influx of
 -Foroil, when asked about the cause of this mysterious event
 
 
-We sent the Youtube Propaganda to the Hecrenews Analytics team, and the conclusion was most surprising. The initial assumption was that the propaganda would be communist. Usnavi's search history (procured with consent) revealed that (among other more questionable things), he often searched for [Russian Propaganda](https://https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union). Given the frequency of communist words in Usnavi's autofill suggestions, our team tried to test for any instances of left-wing ideals. However, this search disappointingly resulted in only one instance of the word "us".
+We sent the Youtube Propaganda to Hecrenews's Science and Research team (SAR), and the conclusion was most surprising. The initial assumption was that the propaganda would be communist. Usnavi's search history (procured with consent) revealed that (among other more questionable things), he often searched for [Russian Propaganda](https://https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union). Given the frequency of communist words in Usnavi's autofill suggestions, our team tried to test for any instances of left-wing ideals. However, this search disappointingly resulted in only one instance of the word "us".
 
 With this lack of evidence pointing towards communism, our team of self-proclaimed experts concluded that this propaganda was created by something else entirely. Something bearing no resemblance to the Hecretary Bird vs. Snaxe conflict, or any other recorded schism. 
 
