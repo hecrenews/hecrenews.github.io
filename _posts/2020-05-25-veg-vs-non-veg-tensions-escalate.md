@@ -10,7 +10,7 @@ tags:
 ---
 
 Clara Dita was walking home from work when she was jumped by a gang of non-vegetarians. They threatened Dita with knives and
-stones and stole her purse. Why do people do such a terrible thing? -Because Dita is a vegetarian.
+stones and stole her purse. Why did they do such a terrible thing? -Because Dita is a vegetarian.
 
 "Vegetarian and Non-Vegetarian are not simply choices of our diet, they define us," said Koppel Burcu in 5000 B.C.E.
 colorized. The diet people choose are raising tensions much more than race and religion. Fights are breaking out across the
