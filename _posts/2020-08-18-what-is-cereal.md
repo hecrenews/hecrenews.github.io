@@ -19,11 +19,11 @@ difference between a soup and a stew? Thankfully, unlike the SAR, I'm not a prof
 out juicy information. So the difference between a soup and a stew is the amount of liquid it contains. A soup is more "liquidy" or more watery than your local stew,
 and you might additionally find more vegetables (or/and other ingredients like meat) in a stew than in soup, but this could vary. Something similar to a stew is a
 curry, but a curry does not really mean anything as it's a general, very vague word describing various gravies and sauces used in foreign cuisine. Now we won't dive
-to deep into sauces (I hope) but there is also gravy, but let's just go with gravy is a suace for now. Suaces could be similar to soups/stews, but a sauce is a
+to deep into sauces (I hope) but there is also gravy, but let's just go with gravy is a sauce for now. Sauces could be similar to soups/stews, but a sauce is a
 seasoning, something you put on top of your meal. But here's the deal with this, sauces are usually heated up, boiled even with the solid food matter in them. So the
 question is do you add warm milk to your cereal or do you heat up your cereal and milk on a stove or in a microwave?
 
-How about a salad? A salad is a mixture of food. Suaces don't have 'liquids' per say but can contain suaces. So plain cereal is not a salad, because a salad needs to
+How about a salad? A salad is a mixture of food. Sauces don't have 'liquids' per say but can contain sauces. So plain cereal is not a salad, because a salad needs to
 have multiple food types in it. Some cereals decide to go the extra healthy route and include everyone's favourite, fruits! so if you eat your cereal without milk
 and it has strawberries or blueberries then you might be looking at a salad. However, it may be a requirement to have a green substance in the salad. By substance I
 am talking about something which is probably a leaf, lettuce being the most common one. By no means am I a salad, or even food expert, but when I think of salad I
@@ -39,3 +39,7 @@ that's right. We just answered one of the biggest questions. I hope SAR (Hecrene
 
 Now the question remains? What do you put in first: the cereal or the milk? Some experts say it's the bowl but we will have to come back to it another day. This
 has been Mister Mjir, popping in and now popping out.
+
+---
+
+Edit by Hecrenews Article Quality Control (HAC): It is spelt sauce, not suace.
