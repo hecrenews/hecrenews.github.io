@@ -26,7 +26,7 @@ What could have caused this massive spike in cyberbullying. Experts disagree, bu
 
 So, what to do now? Well, there’s two ways we can go about fixing this problem. We can either fix the problem ourselves by ELIMINATING all cyberbullies, or we can raise awareness about the issue so that they slowly disappear by choosing to act different. Personally, I think the first method has a lot of merit but Wopps once told me that doing those kind of things puts a lot of stress on the one-man legal department of the Hecrenews, and I wouldn’t want to do that.
 
-How can we prevent cyberbullying? Well, here’s an excellent [article](https://melnewzers.blogspot.com/2020/07/how-to-stay-positive-when-people.html) that will tell you how to bounce back, if you feel bullied or demotivated in any way. Quite a piece of work, if I do say so myself. Yup, definitely check that stuff out. Very good things in there.
+How can we prevent cyberbullying? Well, here’s an excellent <a href="https://melnewzers.blogspot.com/2020/07/how-to-stay-positive-when-people.html" target="_blank">article</a> that will tell you how to bounce back, if you feel bullied or demotivated in any way. Quite a piece of work, if I do say so myself. Yup, definitely check that stuff out. Very good things in there.
 
 
 ---
