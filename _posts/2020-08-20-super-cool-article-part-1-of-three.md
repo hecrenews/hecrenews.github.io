@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Super-cool Article (part 1 of three)"
-date:  2020-08-17 12:42:45 -0500
+date:  2020-08-20 12:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/the.jpg"
 author: hector
