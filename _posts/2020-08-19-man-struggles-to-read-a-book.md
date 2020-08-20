@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man Struggles to Read a Book"
-date: 2020-08-18 18:39:00 -0500
+date: 2020-08-19 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/books_next_to_a_plant.jpg"
 author: mister_mjir
