@@ -31,11 +31,11 @@ and trading cards! I would understand if he took away people's Pokemon cards but
 horrible, this man is committing crimes! Mr. Carl [Mugabe] is the only reason why I can stand attending this school. He's made my life so much better by providing
 free ice cream during recess. Mr. Carl is a good person, I think he should be the principal of our school." This student may seem like an outlier, but it turns out many
 students share this sentiment. They are unhappy with the current state of their school and want reform. The understand words like reform and confiscate, this is not
-normal for Elementary school students. While parents are impressed they are looking at their students grades, not their emotional health. "Schoo should be about fun,"
+normal for Elementary school students. While parents are impressed they are looking at their students grades, not their emotional health. "School should be about fun,"
 said one student, "Learning can come second. If we can't have fun at school, then there's no point. I understand there's a limit to fun, but there's also a limit
 on the restrictions of fun. These are unreasonable demands, this is tyranny!" These students formed a coalition and their slogan is "Unity or Tyranny!"
 
-Anywho, to get into the meat of the topic, the method schools use to reduce the loss of consciousness. It is hideous but the results are true. Schools bombard their
+Anywho, to get into the meat *(EDIT by HAC: yum)* of the topic, the method schools use to reduce the loss of consciousness. It is hideous but the results are true. Schools bombard their
 students with loads upon loads of homework. "I have no idea how I still have a C" said the top student at a local middle school. She gets 100 on all assignments,
 but only from those she turns in." "We are so focused on our grades it's impossible to lose consciousness. I do feel bad for the students at schools like
 Leafblower Elementary, but at least schools are solving a huge world problem. I don't forsee myself losing any consciousness until winter break."
