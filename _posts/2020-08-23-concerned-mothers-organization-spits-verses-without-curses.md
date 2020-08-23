@@ -28,7 +28,7 @@ Verses With Curses also has several songs in the album in collaboration with oth
 
 > *VWC(together)*:       
 > Red and green, red and green, best holiday there can be       
-> Red and green, red and green, we believe work makes you free      
+> Red and green, red and green, we believe ~~work makes you free~~      
 
 Quite a banger, no? For more hip tunes you can always visit VWC’s website [here](https://tinyurl.com/abcde). The band has also recently announced that they’ll go on tour. I don’t know how that’ll work out because of the whole quarantine thing, but they’re free to try, I guess.
 
