@@ -24,9 +24,9 @@ natural at it. Of course she wasn't running for the Presidency, but there was a 
 to join the student council. Džana was disinterested of course but her friend told her to run for president. For some reason, Džana suddenly became interested in the
 organization. She was going to run for president, and she was going to win. The other candidate were cold-blooded seasoned veterans, being in the student council since
 its inception in 3rd grade and never letting go of their positions. Džana wasn't even trying to target their weakest member, she was going straight for the Presidency.
-Giman B., the current president thought Džana wouldn't even pose a minor threat and doubted she would get more than 2 votes. Howeverm Giman B. greatly underestimated
+Giman B., the current president, thought Džana wouldn't even pose a minor threat and doubted she would get more than 2 votes. However, Giman B. greatly underestimated
 Džana's charisma and her ability to communicate with the student body. It was as if Džana was a siren when she was rallying up the students to vote for her. Giman B.
-soon got insight that he was going to lose the presidency. He played hard and rough, resorting to many underhand tactics and even blackmail, but he lost the
+soon got insight that he was going to lose the presidency. He played hard and rough, resorting to many underhanded tactics and even blackmail, but he lost the
 presidency. The former power structure of the student council immediately collapsed and Džana was president.
 
 At this point in time the adminstration did not even notice anything was wrong. They thought, "Eh, these are just Elementary kids. We show up, they show up, we get
@@ -35,7 +35,7 @@ to be the president of all the clubs in the school. All the sports club, the ner
 and other various clubs like underwater basket weaving. At this point the administration noticed Džana's influence, but they were too late in their realization. As
 uncontested president of all the clubs in the school, Džana had an incredible amount of power, and you may be wondering, what is power? In government courses, power
 is the ability to make someone do what you want, and Džana could easily do this. Džana had more power than the principal, Mr. Karo Cann. Cann was starting to get
-worried. His first slip up was removing fun from the school but Mugabe was their to satisfy the kids so they did not revolt. There was no one to stop Džana though,
+worried. His first slip up was removing fun from the school but Mugabe was there to satisfy the kids so they did not revolt. There was no one to stop Džana though,
 she could easily mobilze the entire student body to do as she wishes. Her charisma was so powerful she even influenced the other grades. Under Džana, grades were
 solid 100s and the teachers had to bring in top-level professors to make the tests. They tried to make the tests almost impossible but the students were so smart
 everyone aced it flawlessly. Cann knew he was the next target.
