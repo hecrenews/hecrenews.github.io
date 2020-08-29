@@ -6,6 +6,8 @@ categories: jekyll update
 thumb: "/assets/images/little_man_doing_some_high_level_engineering_stuff.jpg"
 author: mister_mjir
 tags:
+- News
+- Education
 ---
 
 You may remember Anna Džana and her
