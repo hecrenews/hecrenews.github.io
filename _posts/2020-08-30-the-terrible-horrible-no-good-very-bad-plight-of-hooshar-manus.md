@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Terrible, Horrible, no good, very bad plight of Hooshar Manus"
-date:  2020-08-28 00:42:45 -0500
+date:  2020-08-30 00:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/woman_crying.jpg"
 author: wopps_minor
