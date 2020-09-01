@@ -8,6 +8,7 @@ author: wopps_minor
 tags:
 - Sports
 - News
+- Rops
 ---
 
 A local soccer team has recently announced their view of the complete and utter lack of humanity in humans after holding a community name-suggestion campaign. Having no idea what to call themselves, the group decided to hold an online name-selection competition in which the team would use the best community-suggested name. Whimpering, curled-into-a-fetal-position team captain Joke Hoes (pronounced Yok-Hoz) spoke with our reporters about the results:
