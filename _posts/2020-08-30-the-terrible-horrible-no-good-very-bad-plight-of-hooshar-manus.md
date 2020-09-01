@@ -7,6 +7,7 @@ thumb: "/assets/images/woman_crying.jpg"
 author: wopps_minor
 tags:
 - News
+- Rops
 ---
 
 You may have heard about Hooshar Manus, or even read the article the Hecrenews posted on one of his [ingenious inventions](https://hecrenews.github.io/jekyll/update/2020/08/09/man-invents-device-that-turns-traffic-light-from-red-to-green.html). Well, it turns out that Manus has gotten himself into quite the pickle since we last met him, almost three weeks ago. But before getting to that, we should probably go over how Manus’s proposed line of inventions went over. He was indeed able to produce them all and they were delightfully purchased en masse by the masses. However, something most curious happened.
