@@ -7,6 +7,7 @@ thumb: "/assets/images/oogway.jpg"
 author: mister_mjir
 tags:
 - News
+- Rops
 ---
 
 The world mourns today. Trillions across the globe are in sadness. How can so many people be in agreement about the same thing? We do not know but even writing
