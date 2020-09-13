@@ -3,7 +3,7 @@ layout: post
 title:  "Scandal: Candidate cares more about staying alive than his position on Snaxing rights"
 date:  2020-09-13 06:42:45 -0500
 categories: jekyll update
-thumb: "/assets/images/man_that_got_hacked.jpg"
+thumb: "/assets/images/election_day.jpg"
 author: hector
 tags:
 - News
