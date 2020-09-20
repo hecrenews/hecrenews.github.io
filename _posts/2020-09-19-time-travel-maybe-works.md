@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time Travel Maybe Works?"
-date: 2020-09-19 18:59:00 -0500
+date: 2020-09-19 19:15:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_with_clock_on_table.jpg"
 author: mister_mjir
@@ -10,7 +10,7 @@ tags:
 ---
 
 So after getting
-[exclusive access to the world's first time trvaeling appartus](https://hecrenews.github.io/jekyll/update/2020/09/06/adalbert-bulstrode-invents-time-travel.html),
+[exclusive access to the world's first time traveling appartus](https://hecrenews.github.io/jekyll/update/2020/09/06/adalbert-bulstrode-invents-time-travel.html),
 Bulstrode decided to take me back in time to restore my streak. We were only in the machine for about a second and I was ready to step out and restore the honor
 of the legendary streak.
 
