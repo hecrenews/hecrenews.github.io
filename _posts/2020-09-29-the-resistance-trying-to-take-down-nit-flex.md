@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Resistance: Trying to Take Down Nit Flex"
-date:  2020-09-029 00:42:45 -0500
+date:  2020-09-29 00:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/man_that_got_hacked.jpg"
 author: hector
