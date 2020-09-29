@@ -34,6 +34,6 @@ Oh, those hackers are sooo screwed now.
 
 ---
 
-Bruh, Wopps stole the part two of this article. Good thing I can count on his inherent laziness to know that he won’t publish anything else before me anytime this century. Nit Flex’s ~~dungeons~~Customer Service Center ~~are~~is probably filled to the brim. It’s got Hooshar Manus, Gordon Oohbeedoo, SnaxelyLeftButtock_012, and who knows how many else inside it. I’m not sure what others are saying about this ~~violation of human rights~~testimonial-collection, but I sure know what my grandaddy would have said: “rat-a-tat-t
+Bruh, Wopps stole the part two of this article. Good thing I can count on his inherent laziness to know that he won’t publish anything else before me anytime this century. Nit Flex’s ~~dungeons~~Customer Service Center ~~are~~is probably filled to the brim. It’s got Hooshar Manus, Gordon Oohbeedoo, SnaxelyLeftButtock_012, and who knows how many else inside it. I’m not sure what others are saying about this ~~violation of human rights~~large-scale testimonial-collection of Nit Flex, but I sure know what my grandaddy would have said: “rat-a-tat-t
 
 
