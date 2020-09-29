@@ -8,7 +8,7 @@ author: banana_the_human
 tags:
 - News
 - Writing
-- How-To
+- Guide
 ---
 Yo yo yo([my name is Baby Joe](https://hecrenews.github.io/jekyll/update/2020/05/20/due-to-social-distancing-gangstas-have-found-new-and-innovative-ways-to-conduct_shady-deals.html)), I’m gonna impart some great wisdom on you readers today. In fact, I’m probably going to change your lives(Don’t mention it). I’m going to teach you on how to become the Plorificarest-that’s a real word, take my word for it(I’ll drop it off near the shady water fountains near Leafblower Elementary)-writer there ever t’was.
 
