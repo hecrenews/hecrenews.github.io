@@ -28,7 +28,7 @@ The self-described “bunch of ragtag hackers” was super close to getting past
 
 However, HOSTAGE, for all their cold-blooded efficiency, forgot something. Lefty, during the HOSTAGE raid, was able to smuggle a flip-phone with him, keeping it hidden next to that oh-so-snaxely body part of his. And while sandwiched between HOSTAGE operatives in a black SUV, in a final feat of almost inhuman dexterity, SnaxelyLeftButtock_012 was able to break through the firewall and retrieve the ‘Cancel Subscription’ button. But for all of Left’s gluteal prowess, he couldn’t type out the address of his offshore associate, BoneyMeerkat. 
 
-Guess who the message containing the all-important location of the ‘Cancel Subscription’ button got sent to? I’ll give you a hint: He gets a kick out of bashing in baboons’ heads together.
+Guess who the message containing the all-important location of the ‘Cancel Subscription’ button got sent to? I’ll give you a hint: He gets a kick out of bashing in baboons’ heads.
 
 Oh, those hackers are sooo screwed now.
 
