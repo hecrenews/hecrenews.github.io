@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Properly Wallop a Simian"
-date:  2020-09-01 00:42:45 -0500
+date:  2020-10-05 00:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/alarmed_monkey.jpg"
 author: wopps_minor
