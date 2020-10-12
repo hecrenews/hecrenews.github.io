@@ -7,6 +7,12 @@ layout: null
       <loc>https://hecrenews.github.io/sitemaps/sitemap.xml</loc>
     </sitemap>
     <sitemap>
+      <loc>https://hecrenews.github.io/sitemaps/2020/2020-10.xml</loc>
+    </sitemap>
+    <sitemap>
+      <loc>https://hecrenews.github.io/sitemaps/2020/2020-09.xml</loc>
+    </sitemap>
+    <sitemap>
       <loc>https://hecrenews.github.io/sitemaps/2020/2020-08.xml</loc>
     </sitemap>
     <sitemap>
