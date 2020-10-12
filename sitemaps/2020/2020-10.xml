@@ -1,0 +1,26 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+{% for post in site.posts %}
+{% assign y = post.date | date: "%Y" %}
+{% assign m = post.date | date: "%m" %}
+  {% if y == "2020" and m == "10" %}
+    <url>
+      <loc>https://hecrenews.github.io{{ post.url }}</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Hecrenews</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>{{ post.date | date: "%Y-%m-%d" }}</news:publication_date>
+        <news:title>{{ post.title }}</news:title>
+      </news:news>
+    </url>
+  {% endif %}
+{% endfor %}
+
+</urlset>
