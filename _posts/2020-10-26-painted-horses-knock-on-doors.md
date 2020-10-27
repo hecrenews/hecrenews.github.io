@@ -10,7 +10,7 @@ tags:
 
 Local resident Jordi Emilia was not expecting any visitors when we woke up at 2:29 AM in the morning, but yet he had. There was already no expectation for visitors,
 and there was an even lower expectation it would be a horse, the percentage of it being a painted horse too was impossible, virtually 0! I am sensing a negative
-expectation, I'll just wit here for Sheeple, the head of Hecrenews Science and Research (SAR) to confirm me on this. In the meanwhile, Emilia was not the only one
+expectation, I'll just wait here for Sheeple, the head of Hecrenews Science and Research (SAR) to confirm me on this. In the meanwhile, Emilia was not the only one
 to experience this phenomenom. All across the local town painted horses were knocking on people's doors.
 
 The police arrived at about 7:00 AM, they couldn't function until they got their dosage of coffee and donuts. However, the cops could not disperse the painted horses,
