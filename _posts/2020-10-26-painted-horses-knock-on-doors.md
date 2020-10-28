@@ -6,6 +6,7 @@ categories: jekyll update
 thumb: "/assets/images/very_angry_looking_zebra.jpg"
 author: mister_mjir
 tags:
+- News
 ---
 
 Local resident Jordi Emilia was not expecting any visitors when we woke up at 2:29 AM in the morning, but yet he had. There was already no expectation for visitors,
