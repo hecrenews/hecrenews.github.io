@@ -6,6 +6,8 @@ categories: jekyll update
 thumb: "/assets/images/mans_zooming_on_a_bike.jpg"
 author: mister_mjir
 tags:
+- News
+- Education
 ---
 
 Nadya Ségolène was an avid learner even in her youngest years. She learned how to read a book before her parents could even teach her what an apple was. She was doing
