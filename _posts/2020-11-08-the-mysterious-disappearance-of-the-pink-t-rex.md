@@ -6,6 +6,8 @@ categories: jekyll update
 thumb: "/assets/images/pink_dinosaur_vibing_at_the_bar.jpg"
 author: mister_mjir
 tags:
+- News
+- Mystery
 ---
 
 Zoos may seem all casual and whatnot but all the industry zoo'ers know it's a fierce and competitive battlefield. A few months back a local zoo made it's spotlight
