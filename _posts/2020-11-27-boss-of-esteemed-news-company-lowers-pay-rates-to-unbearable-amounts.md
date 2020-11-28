@@ -11,7 +11,7 @@ tags:
 ---
 
 So there has been a lack of articles once again. It seems we are running into one of
-[these[(https://hecrenews.github.io/jekyll/update/2020/06/01/hecrenews-experiences-dearth-of-dirt.html) problems once again. My legendary streak has been broken, and
+[these](https://hecrenews.github.io/jekyll/update/2020/06/01/hecrenews-experiences-dearth-of-dirt.html) problems once again. My legendary streak has been broken, and
 my heart along with it. Not to worry, it is an emotional problem, not a physical one. The loss of my streak has been all the rave in these recent times, and there have
 been a few major questions on everyone's mind. First, "why did this happen?" and two, "when will Mister Mjir post another article?" Well to answer the latter question,
 that is today itself! Yes, I have returned once more. To answer the former question, I must first tell you loyal Hecrenews readers a true story.
