@@ -20,7 +20,7 @@ When the updating finally finished, Dobrila's body was stiff for sitting in the 
 
 Suddenly, Dobrila's discord dinged. In came a very unsettling message at first, but as Dobrila interacted with this hacker-type (who was last seen [trying to take down Nit Flex](https://hecrenews.github.io/jekyll/update/2020/09/29/the-resistance-trying-to-take-down-nit-flex.html), wonder what happened to that story?), he realized something. He could use this! Through a sequency of cleverly manipulating messages, Dobrila got the hacker to reveal his own password to him. Genius, if I say so myself. Dobrila, armed with both his login credentials, could now successfully sink the rest of his life into playing that meaningless video game. Hooray!
 
-![](https://github.com/hecrenews/hecrenews.github.io/blob/new-articles/assets/images/cheeky_hacker_dms.JPG)
+![](/assets/images/cheeky_hacker_dms.JPG)
 
 Above are messages sent by Dobrila and SnaxelyLeftButtock_012. Oh, how Dobrila bamboozled that man!
 
