@@ -1,7 +1,7 @@
 ---
 title: "Pablo"
 name: "pablo"
-icon_src: "/assets/images/authors/pablo.png"
+icon_src: "/assets/images/authors/pablo.jpg"
 layout: author
 ---
 
