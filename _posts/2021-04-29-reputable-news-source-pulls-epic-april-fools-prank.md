@@ -15,7 +15,7 @@ Hecrenews hasn't been posting many articles, and that's the prank! Can you belie
 fact, skeptics speculate there were also no articles in March, but only time will tell. Many a time has the Hecrenews had a lack of news. Once it was simple laziness,
 once it was an inability to find anything interesting, and once it was problems with the management. The management does seem to be a lot better than what it has
 reported to be, there have been 0 reports to HR these past few months, and that's a 420% decrease! I really do wonder how they manage this, probably being 'run by the
-HBA' is what gets everyone by. Do they even pay attention? Who knows. The ![latest article on the hecrenet](https://hecrenet.github.io/update/2021/02/28/new-design.html)
+HBA' is what gets everyone by. Do they even pay attention? Who knows. The [latest article on the hecrenet](https://hecrenet.github.io/update/2021/02/28/new-design.html)
 was from all the way back in the end of February, and that was just about the site design update (gotta say, I do love the design though). No updates on Hecrepedia
 and the twitter either, what happened to the HBA? Maybe they are just so effective at weeding out the snaxii we aren't hearing much from them, but this is still rather
 disappointing.
