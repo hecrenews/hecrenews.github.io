@@ -1,0 +1,17 @@
+.post-grid { grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(2, 1fr); height: 40vw; }
+
+.post-grid-card-wrapper:nth-child(1) { grid-column: 1 / span 2; grid-row: 1 / span 2; }
+
+.post-grid-card-wrapper:nth-child(2) { grid-column: 3 / span 2; grid-row: 1 / span 1; }
+
+.post-grid-card-wrapper:nth-child(3) { grid-column: 3 / span 1; grid-row: 2 / span 1; }
+
+.post-grid-card-wrapper:nth-child(4) { grid-column: 4 / span 1; grid-row: 2 / span 1; }
+
+.post-list-container .post-list { grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(4, 1fr); }
+
+.post-list-container .post-list-item { background-size: cover; background-position: center; }
+
+.post-list-container .post-list-item .post-list-info { padding: 8px; }
+
+/*# sourceMappingURL=computer.css.map */

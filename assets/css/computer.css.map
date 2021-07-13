@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "computer.css",
+	"sources": [
+		"computer.scss",
+		"_sass/_home_computer.scss"
+	],
+	"sourcesContent": [
+		"@import\n  \"home_computer\"\n;\n",
+		".post-grid {\n  grid-template-columns: repeat(4, 1fr);\n  grid-template-rows: repeat(2, 1fr);\n  height: 40vw;\n\n  &-card-wrapper {\n\n    &:nth-child(1) {\n      grid-column: 1 / span 2;\n      grid-row: 1 / span 2;\n    }\n\n    &:nth-child(2) {\n      grid-column: 3 / span 2;\n      grid-row: 1 / span 1;\n    }\n\n    &:nth-child(3) {\n      grid-column: 3 / span 1;\n      grid-row: 2 / span 1;\n    }\n\n    &:nth-child(4) {\n      grid-column: 4 / span 1;\n      grid-row: 2 / span 1;\n    }\n  }\n}\n\n.post-list-container {\n\n  .post-list {\n    grid-template-columns: repeat(4, 1fr);\n    grid-template-rows: repeat(4, 1fr);\n\n    &-item {\n      background-size: cover;\n      background-position: center;\n\n      .post-list-info {\n        padding: 8px;\n      }\n    }\n  }\n}\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,UAAU,CAAC,EACT,qBAAqB,EAAE,cAAc,EACrC,kBAAkB,EAAE,cAAc,EAClC,MAAM,EAAE,IAAI,GAwBb;;AA3BD,AAOI,uBAPM,CAOJ,SAAU,CAAA,CAAC,EAAE,EACb,WAAW,EAAE,UAAU,EACvB,QAAQ,EAAE,UAAU,GACrB;;AAVL,AAYI,uBAZM,CAYJ,SAAU,CAAA,CAAC,EAAE,EACb,WAAW,EAAE,UAAU,EACvB,QAAQ,EAAE,UAAU,GACrB;;AAfL,AAiBI,uBAjBM,CAiBJ,SAAU,CAAA,CAAC,EAAE,EACb,WAAW,EAAE,UAAU,EACvB,QAAQ,EAAE,UAAU,GACrB;;AApBL,AAsBI,uBAtBM,CAsBJ,SAAU,CAAA,CAAC,EAAE,EACb,WAAW,EAAE,UAAU,EACvB,QAAQ,EAAE,UAAU,GACrB;;AAIL,AAEE,oBAFkB,CAElB,UAAU,CAAC,EACT,qBAAqB,EAAE,cAAc,EACrC,kBAAkB,EAAE,cAAc,GAUnC;;AAdH,AAMI,oBANgB,CAElB,eAAU,CAID,EACL,eAAe,EAAE,KAAK,EACtB,mBAAmB,EAAE,MAAM,GAK5B;;AAbL,AAUM,oBAVc,CAElB,eAAU,CAQN,eAAe,CAAC,EACd,OAAO,EAAE,GAAG,GACb"
+}
