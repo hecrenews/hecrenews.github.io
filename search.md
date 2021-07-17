@@ -3,9 +3,6 @@ layout: default
 title: "Hecrenews | Search"
 description: "Search the Hecrenews for an article"
 ---
-
-This is very basic, don't expect (still getting upgraded)
-
 <h1 style="display:flex;justify-content:center">Search</h1>
 <form onSubmit="return search()">
   <input type="text" id="search-query" value="News" />
@@ -106,17 +103,6 @@ This is very basic, don't expect (still getting upgraded)
 
   .search-results {
     padding: 16px;
-  }
-
-  .post-list-container .post-list {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-between;
-  }
-
-  .post-list-item {
-    width: calc(50% - 8px)
   }
 
   .hidden {

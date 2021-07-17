@@ -31,12 +31,16 @@
       margin-right: 16px;
     }
 
-    .author-name {
+    a {
       border-left: 1px solid #ccc;
+    }
+
+    .author-name {
       margin: 0;
       padding-left: 16px;
       display: flex;
       align-items: center;
+      height: 100%;
     }
   }
 
