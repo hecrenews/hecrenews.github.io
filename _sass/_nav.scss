@@ -11,8 +11,14 @@ nav {
     flex-direction: column;
     overflow: hidden;
 
+    li:first-child {
+      background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("/assets/images/hen.png");
+      background-position: center;
+      background-size: cover;
+    }
+
     :nth-child(even) {
-      background-color: #ee2323;
+      background-color: #fd4343;
     }
 
     img {
