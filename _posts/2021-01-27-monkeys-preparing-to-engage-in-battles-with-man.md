@@ -7,6 +7,7 @@ thumb: "/assets/images/monke_drinking_that_juice_fizz_fizz.jpg"
 author: mister_mjir
 tags:
 - News
+- Animals
 ---
 
 Return to monke. This is the phrase swarming the internet (ah, not really anymore, you know how that meme economy is constantly changing). Abandon humanity, and
