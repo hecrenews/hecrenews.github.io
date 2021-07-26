@@ -8,6 +8,7 @@ author: wopps_minor
 tags:
 - Environment
 - News
+- Animals
 ---
 
 This deer, and others like it, have been recently observed to be seen eating meat, on multiple occasions. What other words can we use to describe this event but simply wonderful? The first recorded sighting of a predominantly vegetarian creature eating nonveg food was actually recorded by Hecrenews's very own Banana the Human. During an interview, Banana describes the incident.
