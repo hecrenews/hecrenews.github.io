@@ -8,6 +8,7 @@ author: pablo
 tags:
 - News
 - Politics
+- Animals
 ---
 
 It is time to settle the debate, alpacas, or llamas?
