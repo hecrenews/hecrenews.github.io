@@ -7,6 +7,7 @@ thumb: "/assets/images/person_feeding_monkey.jpg"
 author: mister_mjir
 tags:
 - News
+- Animals
 ---
 
 The zoo is home to many exotic animals. Tigers, lions, turtles, scorpions, monkeys, penguins- an entire article could be written listing
