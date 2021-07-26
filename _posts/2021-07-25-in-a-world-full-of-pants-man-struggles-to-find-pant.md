@@ -7,6 +7,7 @@ thumb: "/assets/images/this_is_the_warehouse_where_they_store_the_goods_and_also
 author: pablo
 tags:
 - News
+- Fashion
 ---
 
 Here in the depths of Peru a man faces a great challenge. Jean Bule is on the search for a pant, but is only able to find pants. Throughout all the jeans and
