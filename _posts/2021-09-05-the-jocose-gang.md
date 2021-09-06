@@ -21,6 +21,7 @@ has got you covered.
 There is a new era of substances. The big three to be on the lookout for are [datil](https://hecrenews.github.io/jekyll/update/2020/05/05/datil-discovered.html),
 [jolly juice](https://hecrenews.github.io/jekyll/update/2020/07/03/secret-to-silky-smooth-hair.html), and jocose. The denotation of jocose is
 > "Playful or humorous"
+
 but the Jocose Joint deals with a jocose that is definitely not this. In fact, the Jocose Joint currently have a monopoly on jocose so nobody except for them really
 know what it is. I have taken the risks to find as much information as I could, and all I could find out was that there is a substance that they call jocose. Not only
 can they escape the authorities, but they can escape a Hecrenews Journalist!
