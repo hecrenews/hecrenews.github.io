@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alarming: Nearby Water Sources reach near-boiling levels Overnight"
-date: 2021-10-05 19:13:00 -0500
+date: 2021-10-06 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/river.jpg"
 author: hector
