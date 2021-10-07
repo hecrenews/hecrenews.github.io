@@ -8,6 +8,7 @@ author: hector
 tags:
 - News
 - Technology
+- Hacks
 ---
 
 As you may have heard, streaming giant [Nit Flex’s](https://hecrenews.github.io/jekyll/update/2020/08/14/local-streaming-service-deletes-cancel-subscription-button.html) recent decision to remove its ‘Cancel Subscription’ button has resulted in almost immediate extreme financial success. Nit Flex’s CEO, Nithin Felix, is “absolutely rolling in it” these days, as BananaTheHuman tells me teens are saying nowadays. Whatever Felix is rolling in, I sure do hope it’s sanitary!
