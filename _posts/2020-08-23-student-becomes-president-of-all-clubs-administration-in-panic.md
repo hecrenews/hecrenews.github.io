@@ -8,6 +8,7 @@ author: mister_mjir
 tags:
 - News
 - Education
+- Leafblower
 ---
 
 Leafblower Elementary school may look like just a regular elementary school on the outside, and it is. A place full of unique individuals, although students at
