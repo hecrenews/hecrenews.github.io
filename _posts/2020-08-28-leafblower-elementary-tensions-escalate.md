@@ -8,6 +8,7 @@ author: mister_mjir
 tags:
 - News
 - Education
+- Leafblower
 ---
 
 You may remember Anna Džana and her
