@@ -9,6 +9,7 @@ tags:
 - News
 - Education
 - Rops
+- Leafblower
 ---
 
 Right where we left off [last time](https://hecrenews.github.io/jekyll/update/2020/10/15/leafblower-tensions-climax.html), oh wait,
