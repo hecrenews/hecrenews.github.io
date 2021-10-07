@@ -8,6 +8,7 @@ author: mister_mjir
 tags:
 - News
 - Education
+- Leafblower
 ---
 
 Here at the Hecrenews we answer the big questions, and the biggest question on everyone's minds is "what is going on at Leafblower Elementary." It is truly
