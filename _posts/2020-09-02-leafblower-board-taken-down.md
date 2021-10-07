@@ -7,6 +7,7 @@ thumb: "/assets/images/modern_people_fighting_in_colonial_times.jpg"
 author: mister_mjir
 tags:
 - News
+- Leafblower
 ---
 
 ing and popping out. "And it should have worked," said Bulstrode. I didn't even get time to finish the article as we had traveled from September 20th GMT to September
