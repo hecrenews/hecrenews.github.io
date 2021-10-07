@@ -7,6 +7,7 @@ thumb: "/assets/images/white_van.jpg"
 author: wopps_minor
 tags:
 - News
+- Leafblower
 ---
 
 Carl Mugabe is a generous elderly man on a mission: to change local schoolkids' lives for the better. After retiring from the head position of an esteemed protein supplement manufacturer, Mugabe decided that he would attempt to put a smile on every child's face at a local school. Every day, Mugabe enters the parking lot in his white ice cream van, ready to serve the bored-out-of-their-minds students of Leafblower Elementary. Children flock to the van in droves, ready for sugary goodness to liberate them from the mind-numbing ordeals of K-5th grade. Mugabe tells us that since its creation, Free Ice Cream, inc. has been 100% non-profit. In  an interview, Mugabe tells Hecrenews reporter Fred Dome about how he started this oh-so-generous hobby. 
