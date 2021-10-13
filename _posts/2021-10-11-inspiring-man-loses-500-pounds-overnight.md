@@ -8,7 +8,7 @@ author: wopps_minor
 tags:
 - News
 - Health
-- Hacks
+- Crime
 ---
 
 Many people feel that keeping your weight in control is key to living a happy, healthy life. Area Britisher Josgot Rhobbed took this life lesson to the extreme just a couple of days ago, when he reported that he had lost 500 pounds in just a single night. What sorcery! Hope he gives me some good weight loss tips, ngl. 
