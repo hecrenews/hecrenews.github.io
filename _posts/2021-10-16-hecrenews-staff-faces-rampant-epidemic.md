@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hecrenews Staff Faces Rampant Epidemic"
-date: 2021-10-05 19:13:00 -0500
+date: 2021-10-16 11:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/woman_putting_mask_on_girl.jpg"
 author: hector
