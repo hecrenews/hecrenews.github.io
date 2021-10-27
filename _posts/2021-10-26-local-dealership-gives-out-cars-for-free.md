@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Local Dealership Gives out Cars for Free"
+title: Local Dealership Gives out Cars for Free
 date: 2021-10-26 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/suv.jpg"
