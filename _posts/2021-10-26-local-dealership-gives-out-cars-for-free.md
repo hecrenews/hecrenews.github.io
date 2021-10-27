@@ -16,7 +16,7 @@ Güet has owned the Güet ‘Em While They’re Hot! dealership for about 2years
 
 Just as Frankenstein came to Mary Shelley in a dream, so did Güet’s money-making banger of an idea. Amidst dreaming up other fantastical creations, very acid trip-like, he heard an eerie voice, described by himself as “not unlike a scrawny, slightly nefarious news intern.” Skåmyu quickly got to work. Even at 3 am, he was so spurred by this idea borne of seeming nothingness that he immediately got to work. By morning, it was evident that Skåmyu Güet had spent the entirety of the wee hours of the morning painting a huge sign that towered over the traditional “Scalding Steals!”
 
-![](https://hecrenews.github.io/assets/images/free_cars_sold_here.PNG)
+![](https://hecrenews.github.io/assets/images/free_cars_sold_here.jpg)
 
 The line at Guet ‘Em While They’re Hot! Was huge, snaking twice around the building and even onto the road. Everyone sure wanted them some free cars. However, no one, not a single soul was astute enough to notice a teeny weeny ~~[aubergenie](https://shirt.woot.com/offers/aubergenie)~~ asterisk cleverly placed there by Skåmyu, clearly living up to his name. 
 
