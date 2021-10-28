@@ -18,7 +18,7 @@ Just as Frankenstein came to Mary Shelley in a dream, so did Güet’s money-mak
 
 ![](https://hecrenews.github.io/assets/images/free_cars_sold_here.jpg)
 
-The line at Guet ‘Em While They’re Hot! Was huge, snaking twice around the building and even onto the road. Everyone sure wanted them some free cars. However, no one, not a single soul was astute enough to notice a teeny weeny ~~[aubergenie](https://shirt.woot.com/offers/aubergenie)~~ asterisk cleverly placed there by Skåmyu, clearly living up to his name. 
+The line at Güet ‘Em While They’re Hot! Was huge, snaking twice around the building and even onto the road. Everyone sure wanted them some free cars. However, no one, not a single soul was astute enough to notice a teeny weeny ~~[aubergenie](https://shirt.woot.com/offers/aubergenie)~~ asterisk cleverly placed there by Skåmyu, clearly living up to his name. 
 
 Once everyone had made it into the store and was marveling at their brand-spanking new cars, Güet dropped his (metaphorical) bombshell. While the cars were free, every breath of air would cost users $150,000. Quick as you can say “Nando Nanda, eso es mi apellido”, every customer was holding their breath and running out of the store as fast as they could.
 
@@ -26,6 +26,6 @@ Unfortunately (for them), it’s rather hard to do both of those things at once.
 
 Rops.
 
-—-
+---
 
 Well well well, that reminds me of the whole [Nit Flex](https://hecrenews.github.io/jekyll/update/2020/08/14/local-streaming-service-deletes-cancel-subscription-button.html) shenanigans, now doesn’t it? Gee, I hope those [hackers](https://hecrenews.github.io/jekyll/update/2020/09/29/the-resistance-trying-to-take-down-nit-flex.html) are doing alright. So much for the cure to that [epidemic](https://hecrenews.github.io/jekyll/update/2021/10/16/hecrenews-staff-faces-rampant-epidemic.html) that our SAR head found, I know I’m still feeling residual procrastinatovirus effects. Ok now I’m done trying to increase internal link impressions. Wopps out.
