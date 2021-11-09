@@ -7,6 +7,7 @@ thumb: "/assets/images/pen_and_paper.jpg"
 author: mister_mjir
 tags:
 - Opinion
+- Writing
 ---
 
 What's popping folks, I will begin a series of writing timed essays (30 min.) from [this pdf](https://www.misd.net/languageart/grammarinaction/501writingprompts.pdf). Let's just do one and see where it goes!
