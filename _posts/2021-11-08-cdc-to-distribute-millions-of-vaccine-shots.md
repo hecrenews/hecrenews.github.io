@@ -19,7 +19,7 @@ The inoculation station, as soon became called, traveled all across the country.
 
 And from this data-esque data, Sheeple Dunnel/Dunnell was able to extrapolate that most Americans, instead of taking to the wildly unique administrations like the mRNA moisturizer or the Viral Vector Vindaloo, just wanted regular old shots. Sheeple quickly contacted his fellow nerdy-buds at the CDC with his findings, and they contacted their nerdier-buds to start up some vaccine shot production.
 
-Needless to say, shots with an infusion of Covid vaccine will be nothing but an instant hit. Might even make them tastier, who knows :yum: ? Bars and other alcoholly places seem to be places of mass congregation as well that would greatly benefit from having a more vaccinated client population. 
+Needless to say, shots with an infusion of Covid vaccine will be nothing but an instant hit. Might even make them tastier, who knows😋? Bars and other alcoholly places seem to be places of mass congregation as well that would greatly benefit from having a more vaccinated client population. 
 
 ---
 
