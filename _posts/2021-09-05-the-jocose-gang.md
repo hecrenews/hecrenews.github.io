@@ -4,6 +4,7 @@ title: "The Jocose Gang"
 date: 2021-09-05 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/the_most_high_stakes_pin_the_tail_on_the_donkey.jpg"
+thumb_src: unknown
 author: pablo
 tags:
 - News

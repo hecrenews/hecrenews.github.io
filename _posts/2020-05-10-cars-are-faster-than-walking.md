@@ -4,6 +4,7 @@ title:  "Cars are faster than walking"
 date:   2020-05-10 11:15:00 -0500
 categories: jekyll update
 thumb: "/assets/images/car_fancy_red.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

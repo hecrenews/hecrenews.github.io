@@ -4,6 +4,7 @@ title:  "Email Hackers Bring Man Closer to Everyone in His Contact List"
 date:  2020-08-05 10:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/fancy_computer_talk.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - News
@@ -35,4 +36,3 @@ These email hackers had changed the course of Dobrila’s life, in a very much n
 ---
 
 There we go, second article all done and dusted and done and finished and done. As my grandaddy once said to me, “rat-a-tat-tat-tat-tat-tat”.
-

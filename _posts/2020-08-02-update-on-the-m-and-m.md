@@ -4,6 +4,7 @@ title: "Update on the M and M (New Progress)"
 date: 2020-08-02 18:03:00 -0500
 categories: jekyll update
 thumb: "/assets/images/person_writing.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

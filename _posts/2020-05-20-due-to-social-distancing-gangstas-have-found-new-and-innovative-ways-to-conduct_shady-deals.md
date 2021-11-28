@@ -4,6 +4,7 @@ title:  "Due to Social Distancing, Gangstas Have Found New and Innovative Ways t
 date:   2020-05-20 10:20:20 -0500
 categories: jekyll update
 thumb: "/assets/images/street_shutter_person_derelict.jpg"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

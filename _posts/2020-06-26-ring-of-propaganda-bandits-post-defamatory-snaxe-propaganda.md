@@ -4,6 +4,7 @@ title:  "Ring of Propaganda Bandits Post Defamatory Snaxe Propaganda"
 date:   2020-06-26 09:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/snaxe.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - HBA
@@ -16,15 +17,15 @@ In recent news, a suspicious gang has been terrorizing the city for the past cou
 
 | ![](https://hecrenews.github.io/assets/images/AHPS1.jpg) |
 | :--: |
-| *The first piece of dreaded snaxe propaganda sent to us, originally posted on the side entrance of a well-known hookah lounge* | 
+| *The first piece of dreaded snaxe propaganda sent to us, originally posted on the side entrance of a well-known hookah lounge* |
 
 This first bit of snaxe propaganda -- **WARNING: Don't look too close, or you'll be converted to their side. Never underestimate the persuasive prowess of the Yiper.** -- is believed to be penned by the Yiper itself. Dating back to the Hecretarian Revolution/Snaxely Uprising, this model of propaganda was last seen hung up by a "Skulking Shadow" in the town of Snaskatoon. It was very dangerous stuff, even during that archaic time. Threatening to convert a group of innocent townspeople, it took every rhetorical device in a local Narrator's briefcase to persuade them (after a fair bit of roasting) to not heed the propaganda, and instead take the fight to the snaxii, where the conniving snaxii wouldn't be able to use their words. This led to the famed Battle of Snaxington, as you well know. A similar incident happened in the nearby town of Conbird, and these two incidents helped spark the Revolution.
 
-Historical jibber-jabber aside, what that statement attempted to demonstrate was just how deadly this propaganda can be. Hecrenews investigative reporter Fred Dome had the pleasure of interviewing passerby near the hookah lounge. Below are some of their all-too-unsettling responses. We need to stop this. 
+Historical jibber-jabber aside, what that statement attempted to demonstrate was just how deadly this propaganda can be. Hecrenews investigative reporter Fred Dome had the pleasure of interviewing passerby near the hookah lounge. Below are some of their all-too-unsettling responses. We need to stop this.
 
- > *"the most beautiful work of art I've ever set my eyes on."* - Margarine Lemonrind. 
- 
- Obviously, Mrs. Lemonrind was under the poster's spell at the time of uttering this quote, as no sane person would call this monstrosity *art*. 
+ > *"the most beautiful work of art I've ever set my eyes on."* - Margarine Lemonrind.
+
+ Obviously, Mrs. Lemonrind was under the poster's spell at the time of uttering this quote, as no sane person would call this monstrosity *art*.
 
 > *"Well, pilfer m'kneecaps and feed me to vegans, ain't that the most compelling liddl' pitcher you ever saw!"* - Usnavi
 
@@ -32,14 +33,13 @@ Historical jibber-jabber aside, what that statement attempted to demonstrate was
 
 > *"Yooo, that's some pretty stankin' fine propaganda"* - Very shady character who's only distinguishing feature was a permanently arched eyebrow.
 
-These public reactions are quite alarming, for sure, but take into consideration that this wasn't the only piece of propaganda spread by the gang. 
+These public reactions are quite alarming, for sure, but take into consideration that this wasn't the only piece of propaganda spread by the gang.
 | ![](https://hecrenews.github.io/assets/images/AHPS2.JPG) |
 | :--: |
-| *The second piece of dreaded snaxe porpaganda sent to us by the good old Hecrenews kooky sciencey people* | 
+| *The second piece of dreaded snaxe porpaganda sent to us by the good old Hecrenews kooky sciencey people* |
 
 The second poster, which seems to be the Propaganda People's own creation, was posted on a sign carried by someone named [Blat Beck](https://hecrenews.github.io/jekyll/update/2020/06/20/writing-in-all-caps-found-to-be-more-persuasive.html), all without him, or insidious intern Eif al-Tawa following him, realizing it. Beck carried the propaganda around for many long hours, which may have contributed to his horribly beaten state at the end of that day. Luckily, while Beck was in the hospital recovering from his numerous injuries (The fact that Beck was in the hospital in the first place was decidedly *not* lucky-- (remember, we do still have an ongoing lawsuit, best not to give the prosecution any more evidence of employee negligence)).
 
-The second piece of propaganda, much like the first, is visually, spiritually, mentally, and even dentally disturbing. It depicts a snaxe presiding over the somewhat-flatter-than-normal earth, ruling with an ~~iron fist~~  gentle touch. It goes without saying that you, dear reader of the hecrenews, should stay far, far away from this one as well. In fact, it may be prudent to scream and run in the other direction whenever you see a flat Earth. 
+The second piece of propaganda, much like the first, is visually, spiritually, mentally, and even dentally disturbing. It depicts a snaxe presiding over the somewhat-flatter-than-normal earth, ruling with an ~~iron fist~~  gentle touch. It goes without saying that you, dear reader of the hecrenews, should stay far, far away from this one as well. In fact, it may be prudent to scream and run in the other direction whenever you see a flat Earth.
 
 That's all for now, dear Hecrenews reader. (Oh, how I hope there's at least one of you!) Stay strong and be wary. The Propaganda People may yet strike again, but if they do, the Hecrenews will be right there to cover the incident! (After a healthy week-lonng bout of procrastination, of course).
-

@@ -4,6 +4,7 @@ title:  "Child licks Candy Cane into Brutal Weapon During Lunchtime, Laughs Mani
 date:   2020-05-30 15:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/candy_cane.jpeg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
@@ -16,7 +17,7 @@ Our informants soon lost interest in the child's pathological licking, and we ar
 Passerby Horatio Fella was at the site of the confrontation as well, quickly drawing upon his considerable journalism skills to capture the image through the power of a No. 2 pencil and a legal pad. His shaky account of the battle reads as thus:
 
 > The kid and the other kids are squaring up, oh but the other kids don't have weapons while the kid has his candy cane menace.
-> Oh wait, they're buying popsicles! And thanking the lunch lady to boot. 
+> Oh wait, they're buying popsicles! And thanking the lunch lady to boot.
 > Oh my goodness! They're fencing! Or, at least the kids with the popsicles are fencing.
 > Oh no, the popsicles are melting. I repeat, THE POPSICLES ARE MELTING!
 > Oh... the candy cane child has them at cane-point. I can't write this..

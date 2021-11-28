@@ -4,6 +4,7 @@ title: "New Speedreading Tactics to Replace the Old"
 date: 2021-06-09 17:22:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_shocked_as_open_book_to_find_out_its_not_a_book_but_firefly_allusion.jpg"
+thumb_src: unknown
 author: pablo
 tags:
 - News

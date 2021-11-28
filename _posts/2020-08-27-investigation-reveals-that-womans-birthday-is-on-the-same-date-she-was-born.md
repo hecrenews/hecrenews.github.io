@@ -4,16 +4,17 @@ title:  "Investigation Reveals that Woman’s Birthday is on the date she was bo
 date:  2020-08-27 00:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/man_blowing_candles_out.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
 ---
 
-Today, we bring to you a very happy ending to what would otherwise have been a very sad story. You see, local resident Ana Tomi is a completely normal, functional member of society, except for one thing: she (prior to the writing of this article) had no clue when her birthday was. Ana, who works at the local Soybean Shoppe, remembers every bit of her childhood life, except the birthdays. “Highly sus”, mused Sheeple Dunnell, head of Hecrenews’s Science and Research team. 
+Today, we bring to you a very happy ending to what would otherwise have been a very sad story. You see, local resident Ana Tomi is a completely normal, functional member of society, except for one thing: she (prior to the writing of this article) had no clue when her birthday was. Ana, who works at the local Soybean Shoppe, remembers every bit of her childhood life, except the birthdays. “Highly sus”, mused Sheeple Dunnell, head of Hecrenews’s Science and Research team.
 
 Ana didn’t let her lack of knowledge of her birthday bother her. She just kept on keeping on, and strove to be the best she could be, regardless of one single day. How much does a single event that happens every year define you, anyways?
 
-It turns out that your birthday is pretty important. Tomi was prohibited from doing many beneficial things, such as signing up for an email address and creating accounts on many websites. How else was she going to be able to [help a mysterious Nigerian Prince](https://hecrenews.github.io/jekyll/update/2020/05/24/man-makes-big-bucks-with-the-help-of-nigerian-prince.html)? Or watch Official HBA [streams](https://hecrenews.github.io/jekyll/update/2020/07/28/hba-begins-livestreaming-on-streaming-juggernaut-twitch.html)? Let’s face it. The internet is a vitally central part of our society, and here Ana Tomi was, blocked off from a great deal of it. And this was nowhere close to being it, by any means. Tomi also tried, but failed to get a driver's license, passport, and even a birth certificate(duh)! 
+It turns out that your birthday is pretty important. Tomi was prohibited from doing many beneficial things, such as signing up for an email address and creating accounts on many websites. How else was she going to be able to [help a mysterious Nigerian Prince](https://hecrenews.github.io/jekyll/update/2020/05/24/man-makes-big-bucks-with-the-help-of-nigerian-prince.html)? Or watch Official HBA [streams](https://hecrenews.github.io/jekyll/update/2020/07/28/hba-begins-livestreaming-on-streaming-juggernaut-twitch.html)? Let’s face it. The internet is a vitally central part of our society, and here Ana Tomi was, blocked off from a great deal of it. And this was nowhere close to being it, by any means. Tomi also tried, but failed to get a driver's license, passport, and even a birth certificate(duh)!
 
 Without all these essential accounts and documents, it was hard, none can deny that. But Ana pushed through. She walks over three miles to her job and back every single day. She continually lives in fear of immigration officers knocking at her front door because of her non-existent passport *(@ICE, pretend you didn’t just read Ana Tomi’s full name)*. She even walks to the post office to send actual, physical mail every time she needs to contact someone. Only a madman (or woman) could maintain this lifestyle forever, and yet Tomi somehow manages it. On the plus side, her legs are super strong from walking all that much every day.
 
@@ -29,10 +30,9 @@ One person that I may have forgotten to mention is Ana’s life long friend, Ada
 
 It doesn’t need to be said that Tomi immediately called up all the investigation organizations she knew to see if anybody would help her in this quest. Sadly, many flat-out denied. “Finding someone’s address, their bathroom schedule, that we can do. But finding a birthday? That’s practically impossible!” said one source, whose name I won’t disclose out of confidentiality.  And so it went, Ana calling and getting denied, again and again until she was about 2/3 of the way through her address book. Ana called up the [Phone Search and Rescue Squad](https://hecrenews.github.io/jekyll/update/2020/08/10/phone-on-silent-lost-searchers-cannot-find.html)(PS), and they accepted!
 
-Although finding a birthdate was way out of their comfort zone (phones (duh)), the PS did not hesitate to delve right into the case. They combed through all manner of sources, including but not limited to gas station receipts, the statistic page of the Florida #$!$!@#$%#@-ers, and a very stinky, shady-looking dumpster. 
+Although finding a birthdate was way out of their comfort zone (phones (duh)), the PS did not hesitate to delve right into the case. They combed through all manner of sources, including but not limited to gas station receipts, the statistic page of the Florida #$!$!@#$%#@-ers, and a very stinky, shady-looking dumpster.
 
 Within a week, the results were ready. It turned out that Ana Tomi’s birthday was on the same day as her birth date! Ana was ecstatic! The mystery had been solved! Currently, happy as a lamb, Ana Tomi skips 3 miles to work every day. Now that she’s figured out that her birthday is the same as the date at which she was born, all she has to do is figure out when she was born. She’ll finally be able to drive up to the cafe in Mercedes Benz, and much, much more!
 
 ---
 Whew, article all done. This story may have looked really similar to a [recently published one](https://hecrenews.github.io/jekyll/update/2020/08/26/investigation-reveals-that-woman-was-born-on-her-birthday.html), but Hector piled this on me at the last minute, so it’s his fault, I guess. Well, all that’s left is what I’m legally required to say at the end of every article: Wopps out.
-

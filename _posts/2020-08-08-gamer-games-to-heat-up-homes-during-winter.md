@@ -4,6 +4,7 @@ title: "Gamer Games to Heat up Homes during Winter"
 date: 2020-08-08 18:58:00 -0500
 categories: jekyll update
 thumb: "/assets/images/wintry_forest.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -40,6 +41,6 @@ a problem, observed, researched, and implemented a solution. However, for most p
 will not work the first time, that is a mistake. One must then identify what went wrong during that experiment and make adjustments to correct that mistake. But
 with perseverance, anyone is able to solve any problem they encounter and make their world a better place to live in.
 
-Also we are continuing to make a lot of spicy updates to the Hecrenews, we just added more features for our author sections, check it out if you get time, and more 
+Also we are continuing to make a lot of spicy updates to the Hecrenews, we just added more features for our author sections, check it out if you get time, and more
 updates are coming. We are gonna release our roadmap sometime in the future so you can see how Hecrenews is getting updated.This was Mister Mjir, popping in and now
 popping out.

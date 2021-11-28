@@ -4,6 +4,7 @@ title:  "HBA Twitter Account Opened"
 date:   2020-04-22 11:05:00 -0500
 categories: jekyll update
 thumb: "/assets/images/hba_logo.png"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

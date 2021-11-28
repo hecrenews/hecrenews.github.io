@@ -4,6 +4,7 @@ title: "Cheating Club Disbanded as Schools Closes"
 date: 2020-09-03 9:46:00 -0500
 categories: jekyll update
 thumb: "/assets/images/child_committing_ad_by_copying_another_child.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

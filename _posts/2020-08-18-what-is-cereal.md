@@ -4,6 +4,7 @@ title: "What is Cereal?"
 date: 2020-08-18 18:39:00 -0500
 categories: jekyll update
 thumb: "/assets/images/wheat_cereal_in_green_bowl.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

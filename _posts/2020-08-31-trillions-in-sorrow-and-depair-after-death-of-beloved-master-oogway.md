@@ -4,6 +4,7 @@ title: "Trillions in Sorrow and Despair after Death of Beloved Master Oogway"
 date: 2020-08-31 18:58:45 -0500
 categories: jekyll update
 thumb: "/assets/images/oogway.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

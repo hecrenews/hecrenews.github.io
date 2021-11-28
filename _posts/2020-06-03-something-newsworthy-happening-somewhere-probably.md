@@ -4,6 +4,7 @@ title:  "Something Newsworthy Happening Somewhere, Probably"
 date:   2020-06-03 18:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/question_mark.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
@@ -12,7 +13,7 @@ tags:
 
 In very topical news, something is happening somewhere. First reported by Someone Somebody, this most likely newsworthy something is probably newsworthy. "Yadda Yadda Lorem Ipsum", reflected Somebody after the newsworthy event(s). In response to something, some group of some people are acting somewhat newsworthy as well. We take you to the streets of somewhere, where something is happening, and that this is newsworthy (probably). Someone tells us "Somebody did something!". Then somebody tells us "Someone did something!" From this we can conclude than something is happening somewhere, sometime. We go to somebody for further details:
  > Something somebody did is newsworthy! Um, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
+
  Somebody's insight was very insightful. Sometime later, we figured out that somebody somewhere else also did something newsworthy, be prepared for a story on that newsworthy topic coming soon!
 
 ---

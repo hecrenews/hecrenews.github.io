@@ -4,6 +4,7 @@ title: "Man Grows Hamburgers in his Backyard"
 date: 2020-06-15 21:42:00 -0500
 categories: jekyll update
 thumb: "/assets/images/burger_on_blue_plate.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -30,7 +31,7 @@ straight to the chase."
 I told her #23, 2 #41s, the #69, and the 3 #420s. I could tell by the look of her eyes what she was about to say, 'I'm so sorry
 sir, we are out of burgers for today.' I was heartbroken. My day was already going downhill but now it was too much. In fact,
 I was planning on ending everything right there." "I'mma gonna stop you right there, that's too dark for our viewers my friend."
-"Not to worry. See, I was about to end it all as soon as I got home, but for some reason I had a feeling to go and read the 
+"Not to worry. See, I was about to end it all as soon as I got home, but for some reason I had a feeling to go and read the
 Hecrenews. I don't know why but this was fate. The article I read was about a foolish man who thought he could turn back time
 by turning back all the clocks. That man was Adalbert Bulstrode." "Is, he still is." "Anyways, I saw his determination, his
 worth ethic, the article was pretty bad but I could feel all the sensation, I could feel his aura just from reading that

@@ -4,6 +4,7 @@ title:  "Changing the clock's time does not allow you to time travel"
 date:   2020-05-11 12:10:00 -0500
 categories: jekyll update
 thumb: "/assets/images/hourglass.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

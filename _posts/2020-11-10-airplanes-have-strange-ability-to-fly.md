@@ -4,6 +4,7 @@ title: "Airplanes have Strange Ability to Fly"
 date: 2020-11-10 13:15:00 -0500
 categories: jekyll update
 thumb: "/assets/images/airplane_nyoom.png"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -35,7 +36,7 @@ able to fly, and yet planes do. It must be some dark magic force.
 The boss doesn't pay me enough to do a comprehensive investigation and proper journalism on this matter so I will just leave it at that, planes are sus and can fly.
 Ulisses utilized this ability to travel overseas to Mount Sundoro and opened up a foreign branch of her local company. As Ulisses herself says, "business is booming,"
 and the company is doing pretty well with its overseas branch. Ulisses has to be careful not to expand too much, or else her business won't be local anymore, but
-the progress and profits are rolling in. 
+the progress and profits are rolling in.
 
 The strange ability of planes to fly is very intriuging though, I will pass this on to Wopps Minor, who has written many great articles about the science of our
 world and experiements. For now this has been Mister Mjir, popping in and popping out.

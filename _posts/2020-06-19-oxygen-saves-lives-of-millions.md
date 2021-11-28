@@ -4,6 +4,7 @@ title: "Oxygen saves lives of Millions"
 date: 2020-06-19 18:08:00 -0500
 categories: jekyll update
 thumb: "/assets/images/blue_sky_with_clouds.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

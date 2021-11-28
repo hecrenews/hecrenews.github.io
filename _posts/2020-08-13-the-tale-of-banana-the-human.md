@@ -4,6 +4,7 @@ title:  "The Tale Of Banana The Human/What I Was Doing While I Was Gone"
 date:   2020-08-13 18:25:45 -0500
 categories: jekyll update
 thumb: "/assets/images/question_mark.jpg"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

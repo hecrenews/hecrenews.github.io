@@ -4,6 +4,7 @@ title:  "Lewis and Clark Encounter Bhalu"
 date:   2020-05-19 17:32:00 -0500
 categories: jekyll update
 thumb: "/assets/images/lewis_clark_bhalu.png"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - History

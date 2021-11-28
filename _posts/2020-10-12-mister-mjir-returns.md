@@ -4,6 +4,7 @@ title: "Mister Mjir Returns"
 date: 2020-10-12 11:20:00 -0500
 categories: jekyll update
 thumb: "/assets/images/diver_swimming_to_surface.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags: News
 ---

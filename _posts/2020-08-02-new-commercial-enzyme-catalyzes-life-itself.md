@@ -4,31 +4,32 @@ title:  "New Commercial Enzyme Catalyzes Life Itself"
 date:   2020-08-02 18:59:59 -0500
 categories: jekyll update
 thumb: "/assets/images/sciencey_liquids.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
 - Health
 ---
 
-A new commercial enzyme has made a giant splash on the health supplement scene lately. Its creator, famed mad scientist Dixon von Oriole, says that this enzyme has the potential to “revolutionize the entire industry”. But what does this enzyme do, exactly? Von Oriole gives us more in an exclusive [Renews](https://hecrenews.github.io/jekyll/update/2020/08/01/hecrenews-gets-serach-feature.html) interview. 
+A new commercial enzyme has made a giant splash on the health supplement scene lately. Its creator, famed mad scientist Dixon von Oriole, says that this enzyme has the potential to “revolutionize the entire industry”. But what does this enzyme do, exactly? Von Oriole gives us more in an exclusive [Renews](https://hecrenews.github.io/jekyll/update/2020/08/01/hecrenews-gets-serach-feature.html) interview.
 
  > Interviewer: “So, what does this enzyme do exactly? I’ve heard a lot about it.”
- 
+
  > Von Oriole: “Well, enzymes catalyze things, right?”
- 
+
  > Interviewer: “Yep.”
- 
+
  > Von Oriole: “Don’t interrupt me. This enzyme acts ju--”
- 
+
  > Interviewer: “Didn’t you just ask me a question.”
- 
+
  > Von Oriole: “*Didn’t you just* INTERRUPT ME AGAIN!?”
- 
+
  > Interviewer: “...”
- 
+
  > Von Oriole: “Much better. As I was saying before I was so rudely interrupted, this enzyme catalyzes things just like other enzymes available on the market; however, it does have one major distinguishing quality.”
- 
- 
+
+
 > Interviewer: “And what wou--”
 
 *At this point, Dixon von Oriole has shot a lazer-like glare at the interviewer, which effectively shuts him/her up.*
@@ -48,6 +49,3 @@ It remains to be seen just what this miracle enzyme can do. Multiple big corpora
 ---
 
 Short Article, I know, but I had to get within that limit. Maybe the boss will stop threatening me now, but it remains to be seen. Wopps Out.
-
-
-

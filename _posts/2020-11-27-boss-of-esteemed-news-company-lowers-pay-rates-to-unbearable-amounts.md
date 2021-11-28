@@ -4,6 +4,7 @@ title: "Boss of Esteemed News Company Lowers Pay Rates to Unbearable Amounts"
 date: 2020-11-27 18:52:00 -0500
 categories: jekyll update
 thumb: "/assets/images/big_boss_meeting.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

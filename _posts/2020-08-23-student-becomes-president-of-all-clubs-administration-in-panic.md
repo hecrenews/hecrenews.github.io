@@ -4,6 +4,7 @@ title: "Student becomes President of All Clubs, Administration in Panic"
 date: 2020-08-23 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/little_dyude_with_big_red_backpack.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

@@ -4,6 +4,7 @@ title: "Man Brings Chair to Go-Kart Race, Wins"
 date: 2020-08-11 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/office_chair_and_small_desk.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

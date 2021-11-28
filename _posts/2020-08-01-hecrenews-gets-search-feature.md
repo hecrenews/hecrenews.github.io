@@ -4,6 +4,7 @@ title:  "Renews gets new search feature"
 date:   2020-08-01 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/magnifying_glass.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Meta

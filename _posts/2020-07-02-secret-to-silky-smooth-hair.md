@@ -4,6 +4,7 @@ title: "Secret to Silky Smooth Hair"
 date: 2020-07-02 022:33:00 -0500
 categories: jekyll update
 thumb: "/assets/images/abstract_water_background.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Health

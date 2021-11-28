@@ -4,6 +4,7 @@ title: "Getting Your Goat: A Literary Analysis"
 date: 2021-07-20 18:41:00 -0500
 categories: jekyll update
 thumb: "/assets/images/he_watches_your_every_step_from_the_shadows_judging_you_for_your_actions.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

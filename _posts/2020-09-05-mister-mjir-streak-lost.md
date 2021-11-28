@@ -4,6 +4,7 @@ title: "Mister Mjir Streak Lost"
 date: 2020-09-05 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/sad_man_scratching_nose.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

@@ -4,6 +4,7 @@ title: "The Mysterious Disapperance of the Pink T-Rex"
 date: 2020-11-08 3:24:00 -0500
 categories: jekyll update
 thumb: "/assets/images/pink_dinosaur_vibing_at_the_bar.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

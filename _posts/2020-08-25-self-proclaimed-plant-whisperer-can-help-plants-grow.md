@@ -4,6 +4,7 @@ title: "Self Procalimed Plant Whisperer Helps Plants Grow"
 date: 2020-08-25 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/very_nice_green_place_with_bench.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

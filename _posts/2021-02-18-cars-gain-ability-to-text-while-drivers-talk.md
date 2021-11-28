@@ -4,6 +4,7 @@ title: "Cars Gain Ability to Text While Drivers Talk"
 date: 2021-02-18 17:45:00 -0500
 categories: jekyll update
 thumb: "/assets/images/blue_car_in_fancy_place.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

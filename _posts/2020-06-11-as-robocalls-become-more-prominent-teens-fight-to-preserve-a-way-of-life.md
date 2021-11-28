@@ -4,6 +4,7 @@ title:  "As Robocalls Become More Prominent, Teens Fight to Preserve a Way of Li
 date:   2020-06-11 13:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/robot.jpg"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

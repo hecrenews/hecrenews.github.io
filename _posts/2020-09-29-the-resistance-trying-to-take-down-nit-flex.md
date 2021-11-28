@@ -4,6 +4,7 @@ title:  "The Resistance: Trying to Take Down Nit Flex"
 date:  2020-09-29 00:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/man_that_got_hacked.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - News
@@ -15,7 +16,7 @@ As you may have heard, streaming giant [Nit Flex’s](https://hecrenews.github.i
 
 But we’re not here to debate the purported health benefits of rolling in this ambiguous “it”. We’re here to talk about something *really* newsworthy. In a sudden turn of events, all-controlling behemoth Nit Flex has been completely, utterly rekt by a ragtag team of hackers. Kinda reminds you of that movie that’s more popular than Star Wars, doesn’t it? Anyways, let’s not pad the article length any more (I think these two paragraphs are good enough for HAC to “okay” this one) and delve right into it.
 
-It all began with Nit Flex’s decision to remove their subscribers’ option to cancel the subscription. As we’ve already established, this, combined with a massive rate increase, made it so that Nit Flex was “rolling in” that ambiguous hopefully-hygienic substance. In that article, Nit Flex’s Human Outreach and Surveying Them Association (minus Geriatric Elders) (HOSTAGE) was able to provide us with some very satisfactory customer reviews. 
+It all began with Nit Flex’s decision to remove their subscribers’ option to cancel the subscription. As we’ve already established, this, combined with a massive rate increase, made it so that Nit Flex was “rolling in” that ambiguous hopefully-hygienic substance. In that article, Nit Flex’s Human Outreach and Surveying Them Association (minus Geriatric Elders) (HOSTAGE) was able to provide us with some very satisfactory customer reviews.
 
 However, there was a problem. Hecrenews’s Science and Research department (SAR) ran an analysis on the customers’ comments, and came to a most surprising conclusion: many, if not all of the reviews seemed to be given unwillingly! Sheeple Dunnel, top smarty-pants at SAR, cited Bourd Gourd saying, “Stop the pain” as indicative of something mad sus, and also pointed out Kaker Neran’s saying “You can’t torture me” as a clue that the customers may have been coerced into giving a falsely positive review.
 
@@ -27,7 +28,7 @@ You may remember from a prior article that “a team of hacky-types is trying to
 
 The self-described “bunch of ragtag hackers” was super close to getting past Nit Flex’s great firewall (they discovered that throwing water at their computers was not the way to go) when disaster struck. HOSTAGE found them, rops. Every last member of the rebellion, taken away to wherever Nit Flex houses its ~~kidnapped people~~testimonial-givers. I bet they’ll all be ~~tortured~~questioned rather heavily.
 
-However, HOSTAGE, for all their cold-blooded efficiency, forgot something. Lefty, during the HOSTAGE raid, was able to smuggle a flip-phone with him, keeping it hidden next to that oh-so-snaxely body part of his. And while sandwiched between HOSTAGE operatives in a black SUV, in a final feat of almost inhuman dexterity, SnaxelyLeftButtock_012 was able to break through the firewall and retrieve the ‘Cancel Subscription’ button. But for all of Left’s gluteal prowess, he couldn’t type out the address of his offshore associate, BoneyMeerkat. 
+However, HOSTAGE, for all their cold-blooded efficiency, forgot something. Lefty, during the HOSTAGE raid, was able to smuggle a flip-phone with him, keeping it hidden next to that oh-so-snaxely body part of his. And while sandwiched between HOSTAGE operatives in a black SUV, in a final feat of almost inhuman dexterity, SnaxelyLeftButtock_012 was able to break through the firewall and retrieve the ‘Cancel Subscription’ button. But for all of Left’s gluteal prowess, he couldn’t type out the address of his offshore associate, BoneyMeerkat.
 
 Guess who the message containing the all-important location of the ‘Cancel Subscription’ button got sent to? I’ll give you a hint: He gets a kick out of bashing in baboons’ heads.
 
@@ -36,5 +37,3 @@ Oh, those hackers are sooo screwed now.
 ---
 
 Bruh, Wopps stole the part two of this article. Good thing I can count on his inherent laziness to know that he won’t publish anything else before me anytime this century. Nit Flex’s ~~dungeons~~Customer Service Center ~~are~~is probably filled to the brim. It’s got Hooshar Manus, Gordon Oohbeedoo, SnaxelyLeftButtock_012, and who knows how many else inside it. I’m not sure what others are saying about this ~~violation of human rights~~large-scale testimonial-collection of Nit Flex, but I sure know what my grandaddy would have said: “rat-a-tat-t
-
-

@@ -4,6 +4,7 @@ title: "Man Erects Wall to Deter Nut-Eating Rodents"
 date: 2020-08-14 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/typical_fence_sunset.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

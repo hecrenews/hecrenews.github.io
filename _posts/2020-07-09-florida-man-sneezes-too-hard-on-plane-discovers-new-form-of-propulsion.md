@@ -4,6 +4,7 @@ title:  "(Florida) Man Sneezes Too Hard on Plane, Discovers New Form of Propulsi
 date:   2020-07-09 10:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/sneeze.jpg"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

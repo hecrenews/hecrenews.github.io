@@ -4,6 +4,7 @@ title: "Man Sues Book For not having any Images"
 date:   2020-05-22 18:48:00 -0500
 categories: jekyll update
 thumb: "/assets/images/book.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

@@ -4,6 +4,7 @@ title: "Almost at 100 articles"
 date: 2020-08-16 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/megaphone_man.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Meta

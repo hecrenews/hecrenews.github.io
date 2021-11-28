@@ -4,6 +4,7 @@ title: "Internet Still Exists Reports Local"
 date: 2020-07-29 15:56:00 -0500
 categories: jekyll update
 thumb: "/assets/images/global_networking_binary.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

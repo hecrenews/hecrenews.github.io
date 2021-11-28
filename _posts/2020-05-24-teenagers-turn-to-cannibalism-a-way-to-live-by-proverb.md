@@ -4,6 +4,7 @@ title:  "Teenagers Turn to Cannibalism as a Way to Live by Proverb"
 date:   2020-05-24 15:51:20 -0500
 categories: jekyll update
 thumb: "/assets/images/potatocannibals.jpg"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

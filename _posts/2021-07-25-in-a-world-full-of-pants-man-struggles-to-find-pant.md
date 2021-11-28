@@ -4,6 +4,7 @@ title: "In a World Full of Pants, Man Struggles to Find Pant"
 date: 2021-07-25 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/this_is_the_warehouse_where_they_store_the_goods_and_also_the_last_place_we_saw_billy.jpg"
+thumb_src: unknown
 author: pablo
 tags:
 - News

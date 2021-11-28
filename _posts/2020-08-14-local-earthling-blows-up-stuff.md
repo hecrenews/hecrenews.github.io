@@ -4,6 +4,7 @@ title:  "Local Earthing Blows Up Small One Man Spaceship With Colossal Destructi
 date:   2020-08-14 14:05:45 -0500
 categories: jekyll update
 thumb: "/assets/images/death_star.png"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

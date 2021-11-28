@@ -4,6 +4,7 @@ title:  "Very Dear Friends of Local Man Astonished at Will to Live"
 date:   2020-07-13 10:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/human_being_alive.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
@@ -170,4 +171,3 @@ In recent news, two very dear friends of local dyude John Orblong have expressed
 > Mammo: "Wait a minute, the only way you could know so much about those two murderous figures is if you were those two murderous figures. Oh, oh no.. Nooooo!"
 
 And with that, the interview ended. In addition to our mounting mountain of legal battles, the Hecrenews now faces the costs to repair a broken window in the interview room and a broken mind in the body of loyal Biggin Mammo, who was so shaken by the relevation of the criminals' identities that he fell into a comma. Must've been a pretty dangerous comma, too. Like that one. That one seems pretty dangerous to me, but who am I to judge? Mandatory mininmum word count passed, story told, article title all SEO'd up, I'd say this article's done and dusted. Wopps Minor, signing off.
-

@@ -4,6 +4,7 @@ title:  "HBA Update"
 date:   2020-04-10 21:40:00 -0500
 categories: jekyll update
 thumb: "/assets/images/hbird.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

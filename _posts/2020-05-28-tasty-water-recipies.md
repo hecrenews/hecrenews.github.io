@@ -4,6 +4,7 @@ title: "Tasty Water Recipies"
 date: 2020-05-28 15:30:20 -0500
 categories: jekyll update
 thumb: "/assets/images/water_wave.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Food
@@ -16,7 +17,7 @@ in your taste buds.
 It started when the vegetarian vs. non-vegetarian calamity began. Being a vegetarian living in a non-vegetarian community, life
 was tough. As tensions escalated, it was actually getting rather dangerous, the non-vegetarians began persecuting thevegetarians
 they knew. It was then I knew I had to make my escape. Planes and boats were too dangerous, but I needed to get to the other
-side of the world. Luckily with my connections to the HBA, I was able to find a safe underground tunnel route one of my 
+side of the world. Luckily with my connections to the HBA, I was able to find a safe underground tunnel route one of my
 colleagues made a long time ago, and the tunnels lead practically everywhere. Anywho, the journey to the otherside of the
 planet took quite a while. I encountered a few plain snaxii and even some yellow snaxii (read more about snaxii at the
 [hecrepedia](https://hecrepedia.github.io)). Luckily I followed the

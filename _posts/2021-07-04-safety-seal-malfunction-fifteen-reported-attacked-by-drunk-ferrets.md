@@ -4,6 +4,7 @@ title: "Safety Seal Malfunction: 15 Reported Attacked by Drunk Ferrets"
 date: 2021-07-04 18:03:00 -0500
 categories: jekyll update
 thumb: "/assets/images/big_furry_getting_r_and_r_on_a_big_branch.jpg"
+thumb_src: unknown
 author: pablo
 tags:
 - News

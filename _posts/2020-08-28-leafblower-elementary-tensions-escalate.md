@@ -4,6 +4,7 @@ title: "Leafblower Elementary Tensions Escalate"
 date:  2020-08-28 18:28:00 -0500
 categories: jekyll update
 thumb: "/assets/images/little_man_doing_some_high_level_engineering_stuff.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

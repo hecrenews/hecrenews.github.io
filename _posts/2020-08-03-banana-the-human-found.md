@@ -4,6 +4,7 @@ title: "Banana the Human Found"
 date: 2020-08-03 18:59:59 -0500
 categories: jekyll update
 thumb: "/assets/images/monkey_eating_dat_banana.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -13,7 +14,7 @@ This is a quick turn of events. After the recent announcement of the [disappeara
 
 Banana risked his life multiple times and got up-close and personal for his journalism, all journalists should strive for the diligence Banana has. We are glad to see his return. While every author in the Renews are leagues above other news journalists (as we are the only ones covering the full range of the Hecresphere), Banana is a league above the other Renews authors.
 
-On another note, Renews is slowly expanding. Wopps Minor may have dipped on his daily articles but he recruited a new member, Hector from Hector’s House, a show where the main character, Hector, has the head of the Hecretary Bird and the body of a dog. We can’t wait to see these bright and coming authors and what knowledge they have ready to drop in to the whole of the Hecresphere. 
+On another note, Renews is slowly expanding. Wopps Minor may have dipped on his daily articles but he recruited a new member, Hector from Hector’s House, a show where the main character, Hector, has the head of the Hecretary Bird and the body of a dog. We can’t wait to see these bright and coming authors and what knowledge they have ready to drop in to the whole of the Hecresphere.
 
 Renews is also not in a good state. We did very well in the lawsuit (we have a whole suite of legal troubles, too much to list all so use Renews’ search feature and choose the legal tag). Af Roman was an absolute chad in the courtroom but Hon Hon Taj Boxes was persistent and sued the ‘Hec’ out of Hecrenews, turning us into Renews. This is not good as we will need to update our site name, logo, images, google news page, twitter, and a whole load of other stuff.
 

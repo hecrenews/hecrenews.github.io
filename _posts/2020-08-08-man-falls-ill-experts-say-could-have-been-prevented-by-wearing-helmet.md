@@ -4,6 +4,7 @@ title:  "Man Falls Ill, Experts Say Could have been Prevented by Wearing Helmet"
 date:   2020-08-08 11:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/bike_helmet.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - News
@@ -22,4 +23,4 @@ So take the pledge. ~~Eliminate the veg.~~ Pledge to wear a bike helmet, even if
 
 ---
 
-Apparently this daily article thing is hard. I can literally see the quality going down the drain. Just look at [the last article I wrote](https://hecrenews.github.io/jekyll/update/2020/08/07/the-hunt-for-h-e-c-an-update-on-our-legal-troubles-pt-3.html). Actual gold dyude. Anyways, 
+Apparently this daily article thing is hard. I can literally see the quality going down the drain. Just look at [the last article I wrote](https://hecrenews.github.io/jekyll/update/2020/08/07/the-hunt-for-h-e-c-an-update-on-our-legal-troubles-pt-3.html). Actual gold dyude. Anyways,

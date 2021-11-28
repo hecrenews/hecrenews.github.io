@@ -4,6 +4,7 @@ title:  "Datil Discovered"
 date:   2020-05-05 13:32:00 -0500
 categories: jekyll update
 thumb: "/assets/images/light_bulb.png"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

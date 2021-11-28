@@ -4,6 +4,7 @@ title: "Train Causes Traffic Delays"
 date: 2020-08-15 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/fancy_train_on_fancy_hill.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

@@ -4,6 +4,7 @@ title: "Another Victory for Hecrenews: Rival Newsite Loses by Default"
 date: 2021-07-05 20:41:00 -0500
 categories: jekyll update
 thumb: "/assets/images/conspicuous_man_chuckling_after_taking_out_the_trash.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Meta
@@ -28,7 +29,7 @@ is a c in education and club, and I really can't figure out what is what. Below 
 blurb indicates VEC means volnteering and education club. Does VEC mean "volunteering and education" club or "volunteering and education club" club? I am so bamboozled.
 I'm gonna go with Volunteering EduCation Club, let us know what you guys think in the comments below, we do read all of them! Digging into VEC a little more, it turns
 out VEC has their own website and social media accounts. I'll leave the further digging to you, loyal Hecrenews reader. It looks like VEC has purchased or acquired
-MELnewzers in one way or another, and MELnewzers has stopped posting articles/blogs since, maybe. Idk tbh. 
+MELnewzers in one way or another, and MELnewzers has stopped posting articles/blogs since, maybe. Idk tbh.
 
 MELnewzers hasn't posted since February 16th, 2021, promising one or two posts weekly starting the week after said week. This has not happened. What has VEC done to
 MELnewzers? Who knows, but what we do know with the lack of articles is that MELnewzers is no longer a Hecrenews competitor, which is why we are finally revealing the

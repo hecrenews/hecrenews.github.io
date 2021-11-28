@@ -4,6 +4,7 @@ title: "Loss of Consciousness Lessens with the Return of School"
 date: 2020-08-20 18:59:45 -0500
 categories: jekyll update
 thumb: "/assets/images/sleeping_man.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

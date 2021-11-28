@@ -4,6 +4,7 @@ title:  "Breaking News: Hector just posted an Article!"
 date:  2020-08-14 12:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/authors/hector.JPG"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News

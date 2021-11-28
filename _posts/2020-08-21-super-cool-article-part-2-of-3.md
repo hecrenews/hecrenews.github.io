@@ -4,6 +4,7 @@ title: "Super-cool Article (part 2 of 3)"
 date: 2020-08-21 18:56:00 -0500
 categories: jekyll update
 thumb: "/assets/images/a.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

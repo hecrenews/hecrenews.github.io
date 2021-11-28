@@ -4,6 +4,7 @@ title: "Vegetarian Wolfs Down an Entire Forest"
 date: 2020-10-27 23:09:00 -0500
 categories: jekyll update
 thumb: "/assets/images/veg_looking_forest_from_drone_view.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -35,7 +36,7 @@ water where the trash was, one of my homies got pricked by some thorns. Man, tha
 and got scratched by some branches. It was then my views about plants and the environment changed, well not really the environment more really plants. Plants can
 cause this much damage, if they are not regulated, then problems like these can escalate. Someone needs to stop them and I realized how evil these plants were, so I
 became vegetarian, and began a crusade to eat as many plants as I could. As you can see here, I just ate this entire forest. Hello, oh no, he's sleeping." "Frogs!!!
-Oh, just a nightmare. Don't worry I'm recording this so I don't have to pay attention now. I'm not gonna question the biology of possibility of how you ate the 
+Oh, just a nightmare. Don't worry I'm recording this so I don't have to pay attention now. I'm not gonna question the biology of possibility of how you ate the
 tree, I'm kinda used to stuff like that at this point. So, are you going to stop anytime soon?" "Nope."
 
 Miloš was banned from the park by Onyekachi and Onyekachi is now being a more diligent guard and created a secret corps to be on the lookout for vegetarians looking

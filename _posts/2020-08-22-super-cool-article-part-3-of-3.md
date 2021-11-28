@@ -4,6 +4,7 @@ title: "Super-cool Article (part 3 of 3)"
 date: 2020-08-22 18:58:00 -0500
 categories: jekyll update
 thumb: "/assets/images/alphabet_flow.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

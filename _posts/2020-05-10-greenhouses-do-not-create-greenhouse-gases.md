@@ -4,6 +4,7 @@ title:  "Greenhouses do not create greenhouse gases"
 date:   2020-05-10 12:10:00 -0500
 categories: jekyll update
 thumb: "/assets/images/greenhouse.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

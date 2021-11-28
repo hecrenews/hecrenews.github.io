@@ -4,6 +4,7 @@ title: "Kid Finishes All Homework, Very Bored"
 date: 2020-11-09 10:21:00 -0500
 categories: jekyll update
 thumb: "/assets/images/mans_zooming_on_a_bike.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

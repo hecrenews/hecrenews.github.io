@@ -4,6 +4,7 @@ title: "Gribbly Good Physics Pseudonyms to Raise your IQ"
 date: 2021-08-07 22:11:00 -0500
 categories: jekyll update
 thumb: "/assets/images/gloopy_gloop_looking_kinda_bubbly_ngl.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Science

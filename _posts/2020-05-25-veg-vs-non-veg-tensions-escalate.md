@@ -4,6 +4,7 @@ title:  "Vegetarian vs Non-Vegetarian Tensions Escalate"
 date:   2020-05-25 20:44:00 -0500
 categories: jekyll update
 thumb: "/assets/images/chess_white_defeated.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -17,7 +18,7 @@ colorized. The diet people choose are raising tensions much more than race and r
 nation bewteen vegetarians and non-vegetarians, and they cannot be stopped. The police cannot break up the riots, as they
 join up with their sides and continue the fight. The government is in disarray, it is worse than pre-south-succession.
 Imagine Sumner versus Brooks on a more massive scale. In fact, if you look outside the windows of your house, you might see a
-fight breaking out. Even hospitals have identified themselves as vegetarian and non-vegetarian and a vegetarian hospital will 
+fight breaking out. Even hospitals have identified themselves as vegetarian and non-vegetarian and a vegetarian hospital will
 not help a non-vegetarian. One may wonder where vegans and other diets (such as the only milk diet) fit into this but the
 truth is no one cares, especially for the vegans. The vegans who refuse to align their views with vegeterians and identify
 themselves as vegetarians will be seen as vile as non-vegetarians to vegetarians.

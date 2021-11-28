@@ -4,13 +4,14 @@ title: "Schoolteacher Devotes Life to Changing Those of Criminals"
 date: 2020-05-19 14:20:00 -0500
 categories: jekyll update
 thumb: "/assets/images/criminal_reform_school.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
 - Crime
 ---
 
-When most of us hear about break-ins and robberies, we shake our heads and move on with life. "Criminals will be criminals, after all." But not Ms. Eritrea Take. Feeling empathy and remorse for the criminals, she took a number of them in an enrolled them in her very own Ms. Take's School for Uncouth Criminals. Hecrenews correspondent Mark Down was able to secure an interview with this kind soul, to really find out if the school works to rehabilitate criminals. 
+When most of us hear about break-ins and robberies, we shake our heads and move on with life. "Criminals will be criminals, after all." But not Ms. Eritrea Take. Feeling empathy and remorse for the criminals, she took a number of them in an enrolled them in her very own Ms. Take's School for Uncouth Criminals. Hecrenews correspondent Mark Down was able to secure an interview with this kind soul, to really find out if the school works to rehabilitate criminals.
 
 Down: "Well, it's great to finally meet you Miss Take. I mean, er, my mistake, I meant Mrs. Take. You are married, right? Um.. HEY, SCRAWNY SCRIBE BOY! DONT YOU DARE WRITE DOWN WHAT IM SAYING RIGHT NOW CUT IT RIGHT NOW THIS PART-- OUT OF THE INTERVIEW CU--"
 
@@ -36,8 +37,8 @@ Take: "Ahem, I thought you were interviewing me, not that poor boy"
 
 ![YEE](https://hecrenews.github.io/assets/images/criminal_manners_schedule.JPG)
 
-Pictured above is the usual schedule of a student at Ms. Take's. 
-	
+Pictured above is the usual schedule of a student at Ms. Take's.
+
 Our correspondent was unable to continue the interview, for purposefully ambiguous reasons. We then inquired about Ms. Take's most recent graduating class. When the investigative team arrived at the nearest town, they were privy to a wasteland full of broken windows and looted storefronts. We inquired, and it seemed that the townspeople had experienced a massive surge of crime. However, they had nothing but good things to say about this.
 
 A local woman's take on the situation:
@@ -49,4 +50,3 @@ Fearing for their mental sanity, our investigative team questioned no one else. 
 ---
 
 EDIT by Hecrenews Article Quality Control (HAC) - Hecrenews actually does have an editing team now, mwahahahaha!
-	

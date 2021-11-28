@@ -4,6 +4,7 @@ title: "Vegetarian vs. Non-vegetarian Calamity Resolved"
 date: 2020-05-28 15:42:00 -0500
 categories: jekyll update
 thumb: "/assets/images/megaphone_man.jpg"
+thumb_src: unknown
 author: h_bird
 tags:
 - Calamity

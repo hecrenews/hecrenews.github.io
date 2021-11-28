@@ -4,6 +4,7 @@ title:  "Snaxing Guide"
 date:   2020-04-30 21:39:00 -0500
 categories: jekyll update
 thumb: "/assets/images/snaxe_spray.png"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Guide

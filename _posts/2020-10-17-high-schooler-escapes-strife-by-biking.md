@@ -4,6 +4,7 @@ title: "High Schooler Escapes Strife by Biking"
 date: 2020-10-17 7:26:00 -0500
 categories: jekyll update
 thumb: "/assets/images/mad_lad_riding_in_rad_tunnel_bunking_on_a_bike.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

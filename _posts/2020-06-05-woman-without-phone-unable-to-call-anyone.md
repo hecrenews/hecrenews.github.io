@@ -4,19 +4,20 @@ title: "Woman Without Phone Unable to Call Anyone"
 date: 2020-06-05 23:06:00 -0500
 categories: jekyll update
 thumb: "/assets/images/rotary_phone.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
 ---
 
 Elisaveta Eógan wanted to call her parents during the holiday season but was faced with a major problem: she had no phone.
- 
+
 "In this day and age everyone is able to communicate to anyone! Family, friends, and even strangers! I was horrified this
 morning. I tried to call my parents, I tried to call my friends, I even tried to call my pet pangolin, no one picked up the
 phone!" "How exactly were you trying to call these people?" I asked. "Well, everyone just says they simply call someone, so I
 tried doing that. It didn't work." "Did you have a phone or something to call the people you were trying to call?" "No, I do
 not have a phone."
- 
+
 This is truly a sad turn-out of events. Turns out Eógan is not the only person who is unable to call people since she doesn't
 have a phone. Statics show 100% of people who do not have access to a phone are unable to call people. Science has proved it
 is basically impossible to phone someone without some type of phone. The paper in question had many disclaimers because they

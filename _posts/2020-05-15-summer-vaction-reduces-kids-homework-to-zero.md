@@ -4,6 +4,7 @@ title: "Summer Vacation causes kids Homework to drop to Zero"
 date: 2020-05-15 22:36:00 -0500
 categories: jekyll update
 thumb: "/assets/images/empty_classroom.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

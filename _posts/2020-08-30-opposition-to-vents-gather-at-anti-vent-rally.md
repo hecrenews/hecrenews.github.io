@@ -4,6 +4,7 @@ title: "Opposition to Vents gather at Anti Vent Rally"
 date: 2020-08-30 18:58:00 -0500
 categories: jekyll update
 thumb: "/assets/images/vent.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

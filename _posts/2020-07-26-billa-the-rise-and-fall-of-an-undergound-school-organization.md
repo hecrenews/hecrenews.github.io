@@ -4,6 +4,7 @@ title: "Billa: The Rise and Fall of an Underground School Organization"
 date: 2020-07-26 20:51:00 -0500
 categories: jekyll update
 thumb: "/assets/images/ipad_with_stonks_and_paper.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

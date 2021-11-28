@@ -4,6 +4,7 @@ title: "News Hard to Find"
 date: 2020-05-29 20:30:20 -0500
 categories: jekyll update
 thumb: "/assets/images/confused_man_with_computer.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

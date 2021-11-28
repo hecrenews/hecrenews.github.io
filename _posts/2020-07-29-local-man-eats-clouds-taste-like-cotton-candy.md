@@ -4,6 +4,7 @@ title: "Local Man eats Cloud: Tastes like Cotton Candy"
 date: 2020-07-29 22:33:00 -0500
 categories: jekyll update
 thumb: "/assets/images/fluffy_clouds.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

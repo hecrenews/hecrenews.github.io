@@ -4,6 +4,7 @@ title: "Man Attains Local Fame for Never Slipping Up"
 date: 2020-11-28 16:58:00 -0500
 categories: jekyll update
 thumb: "/assets/images/sick_nike_kicks_for_sick_nike_tricks.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

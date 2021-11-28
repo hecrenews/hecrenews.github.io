@@ -4,6 +4,7 @@ title:  "Highly Sus Carnivorous Herbivores Spotted in Japan"
 date:   2020-05-26 01:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/carnivorous_deer.jpeg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - Environment

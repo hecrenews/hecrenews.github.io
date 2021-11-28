@@ -4,6 +4,7 @@ title:  "Mjir Essays- 1"
 date:   2020-05-07 18:48:00 -0500
 categories: jekyll update
 thumb: "/assets/images/pen_and_paper.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Opinion

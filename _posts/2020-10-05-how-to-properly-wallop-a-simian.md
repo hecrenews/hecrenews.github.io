@@ -4,13 +4,14 @@ title:  "How to Properly Wallop a Simian"
 date:  2020-10-05 00:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/alarmed_monkey.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - Guide
 - Rops
 ---
 
-Yes, it has really come to this. We at the hecrenews have had so little dirt since [this article](https://hecrenews.github.io/jekyll/update/2020/09/03/cheating-club-disbanded-as-schools-closes.html) that we’ve resorted to posting the content of others. Huh. Come to think about it, I saw that article for the first time yesterday, and yet it was created and posted almost a month ago. Sus is all I can say. 
+Yes, it has really come to this. We at the hecrenews have had so little dirt since [this article](https://hecrenews.github.io/jekyll/update/2020/09/03/cheating-club-disbanded-as-schools-closes.html) that we’ve resorted to posting the content of others. Huh. Come to think about it, I saw that article for the first time yesterday, and yet it was created and posted almost a month ago. Sus is all I can say.
 
 Anyways, here’s the very alarming guide. At this time, we advise all readers of the Hecrenews that do not wish to be A) utterly disgusted, B) terribly frightened, C) completely insanitized (to be made insane), or D) all of the above to kindly avert their eyes. Did you do that? Good. Oh wait, how are you reading this with your eyes closed? That’s kinda sus. But not as sus as this piece of work:
 
@@ -39,7 +40,3 @@ After that descent into depravity, I’m almost glad to be done with this articl
 Hector is a VEGETARIAN!
 
 Wopps out.
-
-
-
-

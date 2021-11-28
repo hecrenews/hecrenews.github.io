@@ -4,13 +4,14 @@ title:  "Local Streaming Service Deletes ‘Cancel Subscription’ Button"
 date:  2020-08-14 11:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/streaming_service.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - News
 - Finance
 ---
 
-In a daring yet ingenious move, local streaming service Nit Flex has decided to remove the ‘Cancel Subscription’ button from their interface. This daring move has single handedly brought Nit Flex out of their financial troubles, and Nit Flex’s CEO, Nithin Felix, is absolutely rolling in cash money right now. 
+In a daring yet ingenious move, local streaming service Nit Flex has decided to remove the ‘Cancel Subscription’ button from their interface. This daring move has single handedly brought Nit Flex out of their financial troubles, and Nit Flex’s CEO, Nithin Felix, is absolutely rolling in cash money right now.
 
 In an exclusive interview granted to the Hecrenews, Felix goes over how he was ~~forced~~inspired to make this drastic change:
  > *”Well, you see, we were in a bit of a pickle a couple weeks ago. People were pulling out of their subscription plans left and right, something about ‘exorbitant monthly fees’ and ‘absolutely disgusting content I wouldn’t be paid to see’. Personally, I didn’t see what was wrong. We charged very good rates, for us at least. And our shows weren’t that bad. Especially that 7-season masterpiece of paint drying, it took forever to upload that.”*
@@ -33,7 +34,7 @@ While this may have been a truly masterful decision on the part of Nit Flex, let
 
 > “I swear, I’m going to speak to all of your managers! You can’t torture me and keep you job, of course you can’t” - Kaker Neran
 
-As you can see, practically everybody surveyed was immensely satisfied with the decision. What luck! For a second there, I thought it might be unpopular, but I guess people are completely fine with large sums of money being extracted from them without consent. 
+As you can see, practically everybody surveyed was immensely satisfied with the decision. What luck! For a second there, I thought it might be unpopular, but I guess people are completely fine with large sums of money being extracted from them without consent.
 
 Other CEO’s are heavily considering “pulling a Nit Flex”, as it’s being called nowadays. It’s been proven to lead to extreme commercial success, after all. While it remains to be seen how many other streaming services will follow Felix’s example, you can rest assured that you won’t be able to stop giving Nit Flex millions of dollars a month anytime soon.
 

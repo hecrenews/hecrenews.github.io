@@ -4,6 +4,7 @@ title: "Inspiring: Man loses 500 Pounds Overnight"
 date: 2021-10-11 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_on_treadmill.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
@@ -11,9 +12,9 @@ tags:
 - Crime
 ---
 
-Many people feel that keeping your weight in control is key to living a happy, healthy life. Area Britisher Josgot Rhobbed took this life lesson to the extreme just a couple of days ago, when he reported that he had lost 500 pounds in just a single night. What sorcery! Hope he gives me some good weight loss tips, ngl. 
+Many people feel that keeping your weight in control is key to living a happy, healthy life. Area Britisher Josgot Rhobbed took this life lesson to the extreme just a couple of days ago, when he reported that he had lost 500 pounds in just a single night. What sorcery! Hope he gives me some good weight loss tips, ngl.
 
-Indeed, I think Josgot’s inspiration for his extreme weight loss came from the sad, sad saga of [Bert Bulstrode](https://hecrenews.github.io/jekyll/update/2020/07/21/one-man-to-take-revenge-on-deserts-for-enormous-weight-gain.html), who ate a 13.5” cheesecake and consequently was rendered essentially immobile until his digestive juices did their thing. No one would want to be in a plight like Bulstrode’s, so it’s only sensible that Mr. Rhobbed quickly attempted to shed all his extra pounds. Haters (like SAR’s chief poindexter, Sheeple Dunnell(or Dunnel, the jury’s still out on that one)) would say that that level of weight loss is impossible, unless you lose an arm and a leg (or more likely, both at once). However, I say that if you aspire with your ideas, then nearly anything is possible, including losing 500 pounds overnight. 
+Indeed, I think Josgot’s inspiration for his extreme weight loss came from the sad, sad saga of [Bert Bulstrode](https://hecrenews.github.io/jekyll/update/2020/07/21/one-man-to-take-revenge-on-deserts-for-enormous-weight-gain.html), who ate a 13.5” cheesecake and consequently was rendered essentially immobile until his digestive juices did their thing. No one would want to be in a plight like Bulstrode’s, so it’s only sensible that Mr. Rhobbed quickly attempted to shed all his extra pounds. Haters (like SAR’s chief poindexter, Sheeple Dunnell(or Dunnel, the jury’s still out on that one)) would say that that level of weight loss is impossible, unless you lose an arm and a leg (or more likely, both at once). However, I say that if you aspire with your ideas, then nearly anything is possible, including losing 500 pounds overnight.
 
 Josgot actually agreed to an interview with Hecrenews’s own Biggin Mammo (who for very ambiguous reasons has made it out of the [comma he fell in](https://hecrenews.github.io/jekyll/update/2020/07/30/an-update-on-our-legal-troubles.html) some time ago, and when he pulled up to the interview spot (in an undisclosed location to protect the veracity of our news services) he’d brought a friend. Or more accurately, he’d dragged a person wearing a ski mask and gloves there with him by his ears.
 

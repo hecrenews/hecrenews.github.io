@@ -4,6 +4,7 @@ title: "Man makes Big Bucks with the help of Nigerian Prince"
 date: 2020-05-24 13:20:00 -0500
 categories: jekyll update
 thumb: "/assets/images/pile_of_gold.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -30,7 +31,7 @@ it was sucessful but it would take about a week or so to process the information
 Dobrila recieved an email four days later at 3:42 AM. He was happy to see what was in the email. "The Prince's wife had been
 cured, the Prince was so grateful and I almost began crying. I looked in my bank account and there it was, the $10,000,000."
 
-We then asked Dobrila what he is going to do with the money. "Well, the health care costs are insane. I cannot believe they 
+We then asked Dobrila what he is going to do with the money. "Well, the health care costs are insane. I cannot believe they
 charge as much as they do. I'm going to donate all of this money to help reduce the cost of healthcare. I met up with my good
 friend Adalbert Bulstrode the other day and he's doing some crazy science research. He can definetely reduce the cost of
 healthcare because he's crazy smart. It's weird because he didn't use to be so smart. He thought he could time travel by

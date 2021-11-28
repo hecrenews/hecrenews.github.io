@@ -4,6 +4,7 @@ title: "Math Teacher Accused of Academic Dishonesty"
 date: 2020-05-23 19:03:00 -0500
 categories: jekyll update
 thumb: "/assets/images/abc_on_chalkboard_with_books.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

@@ -4,17 +4,18 @@ title: "Alarming: Nearby Water Sources reach near-boiling levels"
 date: 2021-10-06 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/river.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - News
 - Science
 ---
 
-Most people assume that their local water sources are always constant and unchanging. It takes someone who really cares about the environment to go out there and make sure that nearby rivers and streams are pollution-free and performing at normal levels. And that someone is Wah Turtistin. For years now, Turtistin has been testing water sources around his town, namely the Goorlicker stream. On the first Tuesday of every month, Turtistin makes his pilgrimage down to the banks of the mighty Goorlicker along with his briefcase of chemicals and concoctions, in order to measure factors such as temperature, pH, floating fast food cups, and a couple other very-useful metrics. 
+Most people assume that their local water sources are always constant and unchanging. It takes someone who really cares about the environment to go out there and make sure that nearby rivers and streams are pollution-free and performing at normal levels. And that someone is Wah Turtistin. For years now, Turtistin has been testing water sources around his town, namely the Goorlicker stream. On the first Tuesday of every month, Turtistin makes his pilgrimage down to the banks of the mighty Goorlicker along with his briefcase of chemicals and concoctions, in order to measure factors such as temperature, pH, floating fast food cups, and a couple other very-useful metrics.
 
-Wah Turtistin got his start in the wa tertesting business a long time ago, through a really unfortunate baggage claim mix-up. Him and a sketchy stranger in a trench coat somehow had the same suitcase, and as a result of him picking up the stranger’s case in baggage claim, Turtistin got access to various bottles and powders that were found in the suitcase. He was instantly hooked (to the idea of scientific experimentation, not to the powders themselves). It did cost him an entire suitcase worth of underpants, but Turtistin tells us it was well worth it. 
+Wah Turtistin got his start in the wa tertesting business a long time ago, through a really unfortunate baggage claim mix-up. Him and a sketchy stranger in a trench coat somehow had the same suitcase, and as a result of him picking up the stranger’s case in baggage claim, Turtistin got access to various bottles and powders that were found in the suitcase. He was instantly hooked (to the idea of scientific experimentation, not to the powders themselves). It did cost him an entire suitcase worth of underpants, but Turtistin tells us it was well worth it.
 
-Using his newfound testing kit (despite not knowing what the testing kit was for, or how to use it), Turtistin dove headfirst (not literally) into testing the quality of nearby water sources. His autodidactic approach to wa tertesting seemed to go well. On his first time, Turtistin recalls kneeling down at the banks of the Good ol’ Goorlicker and basically just throwing assorted pinches of his handy-dandy not-at-all-druggy batch of powders and tinctures. 
+Using his newfound testing kit (despite not knowing what the testing kit was for, or how to use it), Turtistin dove headfirst (not literally) into testing the quality of nearby water sources. His autodidactic approach to wa tertesting seemed to go well. On his first time, Turtistin recalls kneeling down at the banks of the Good ol’ Goorlicker and basically just throwing assorted pinches of his handy-dandy not-at-all-druggy batch of powders and tinctures.
 
 > “Experimentation is the key to something. But where is the lock?" - *Wah Turtistin, c. 2021*
 

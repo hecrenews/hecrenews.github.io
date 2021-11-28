@@ -4,6 +4,7 @@ title: "Abundance of Negative Mass Leads top Scientists to Question the Existenc
 date: 2021-10-03 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/orange_dinosaur_signaling_to_the_poor_soul_that_rests_benith_him_its_terrible_fate_the_omen_is_in_the_winds.jpg"
+thumb_src: pexels
 author: mister_mjir
 tags:
 - News

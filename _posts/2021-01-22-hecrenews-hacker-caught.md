@@ -4,12 +4,13 @@ title: "Hecrenews Hacker Caught"
 date: 2021-01-22 18:32:00 -0500
 categories: jekyll update
 thumb: "/assets/images/dyude_has_code_all_over_his_face.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
 ---
 
-World's best news source, the Hecrenews, was hacked by a rogue group of hackers. It started when the 
+World's best news source, the Hecrenews, was hacked by a rogue group of hackers. It started when the
 [latest article](https://hecrenews.github.io/jekyll/update/2020/12/28/redacted.html) was completed removed, all the text, title, about everything. I can't bother
 to remember what it was about so it's gone. Worst yet, not only did they delete that article, but they prevented Hecrenews from being able to post any new articles,
 and this lasted for almost a month! The world almost plunged into chaos without the constant stream of reliable news, instead turning to unreliable, fake, bad,

@@ -4,6 +4,7 @@ title: "Woman Refuses to drink Water because of Sus Origins"
 date: 2020-08-16 19:43:00 -0500
 categories: jekyll update
 thumb: "/assets/images/woman_drinking_glass_of_water.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

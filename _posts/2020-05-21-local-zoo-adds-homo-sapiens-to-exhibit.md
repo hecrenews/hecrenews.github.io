@@ -4,6 +4,7 @@ title:  "Local Zoo adds Homo Sapiens to its Exhibit"
 date:   2020-05-21 17:17:00 -0500
 categories: jekyll update
 thumb: "/assets/images/person_feeding_monkey.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

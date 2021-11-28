@@ -4,6 +4,7 @@ title:  "Mysterious Visitor From Space Appears Daily and Causes Insanity, Farmer
 date:   2020-05-28 13:30:20 -0500
 categories: jekyll update
 thumb: "/assets/images/dark-visitor.jpg"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

@@ -4,6 +4,7 @@ title:  "Super-cool Article (part 1 of 3)"
 date:  2020-08-20 12:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/the.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - News

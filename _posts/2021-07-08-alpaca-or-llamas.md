@@ -4,6 +4,7 @@ title: "Alpacas or Llamas"
 date: 2021-07-08 18:03:00 -0500
 categories: jekyll update
 thumb: "/assets/images/mauu_i_am_a_cow.jpg"
+thumb_src: unknown
 author: pablo
 tags:
 - News

@@ -4,6 +4,7 @@ title: "Monkeys Preparing to Engage in Battles with Man"
 date: 2021-01-27 22:18:00 -0500
 categories: jekyll update
 thumb: "/assets/images/monke_drinking_that_juice_fizz_fizz.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -12,7 +13,7 @@ tags:
 
 Return to monke. This is the phrase swarming the internet (ah, not really anymore, you know how that meme economy is constantly changing). Abandon humanity, and
 return to monke. Who needs phones, jobs, farms, cities, paved roads, comfy beds, restaruants, and more when you can just abandon it all and return to monke!
-Science fairs had to put a new regulation specifically for this, all kids participating were experimenting how they could revert back to a monkey, and the 
+Science fairs had to put a new regulation specifically for this, all kids participating were experimenting how they could revert back to a monkey, and the
 Science fair just needed some more variety (although Sheeple Dunnel's insight on this would be greatly appreciated, seems he switched phone numbers and I wasn't
 in the loop). What's wrong with monkeys? says non South/South Asian people, in a recent interview conducted by local citizen scientists. Only those people know
 the true horror of monkeys, and how dangerous they can be. They may be little, but they can attack you, steal your food, break into your house, and do this all
@@ -33,7 +34,7 @@ as she is a busy person fighting for our society.
 job as anti-monkeyists is to stop monkey opposition. We humans are already so divided against ourselves, just concerened about places of birth, who are parents
 are, how much melanin we have, monkeys are using this golden opportunity of man's struggle with himself to take down man and become the dominant specicies. I
 remember reading an article about someone stopping trees from becoming the dominant specicies, and we hold similar beliefs. We try to be as kind as we can to the
-monkeys, if we play too rough radical animal activist groups will come and try to take us down. We are fighting hard and nonstop to create a future for humans, 
+monkeys, if we play too rough radical animal activist groups will come and try to take us down. We are fighting hard and nonstop to create a future for humans,
 only when we are united together will monkeys be no more of a threat, but as it stands now we are simply just not ready for that yet."
 
 Stefan's words are very insightful, and just remind us of how many people are working behind the scenes so we can live comfortably. It is truly altruistic, and

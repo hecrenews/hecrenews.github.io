@@ -4,6 +4,7 @@ title: "Time Travel Maybe Works?"
 date: 2020-09-19 19:15:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_with_clock_on_table.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

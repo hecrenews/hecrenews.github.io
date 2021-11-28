@@ -4,6 +4,7 @@ title: "Man uses Apples to Ward Off Doctors"
 date: 2020-08-13 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/apple_tree_with_nice_bright_sun.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

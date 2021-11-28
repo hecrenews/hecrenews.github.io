@@ -4,6 +4,7 @@ title: "Tired of Topical Treatments, Man Tries Tropical Treatments"
 date: 2021-07-17 23:37:00 -0500
 categories: jekyll update
 thumb: "/assets/images/blood_red_mon_on_the_horizon_dominating_the_shadow_trees_with_sheer_force.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

@@ -4,6 +4,7 @@ title: "Leafblower Tensions Climax"
 date: 2020-10-14 21:47:00 -0500
 categories: jekyll update
 thumb: "/assets/images/ominous_but_cool_looking_evening.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

@@ -4,6 +4,7 @@ title: "Following an HBA Researcher"
 date: 2020-06-18 17:44:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_looking_with_binoculars.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

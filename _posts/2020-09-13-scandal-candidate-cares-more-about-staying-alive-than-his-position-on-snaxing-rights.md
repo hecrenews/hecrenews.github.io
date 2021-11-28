@@ -4,6 +4,7 @@ title:  "Scandal: Candidate cares more about staying alive than his position on 
 date:  2020-09-13 06:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/election_day.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - News
@@ -21,7 +22,7 @@ Which brings us to (almost) the present day. Gordon was practically a shoe-in fo
 
 For reasons yet unknown, Nit Flex’s Human Outreach and Surveying Them Association (minus Geriatric Elders) (HOSTAGE) gently *escorted* Gordon to Nit Flex headquarters in a black SUV. Eyewitness account Framella Fronelly claimed that Gordon looked quite appalled (and beaten up) from the back seat of the car, but HOSTAGE assures us that this is not the case.
 
-And then, something downright appalling happened. Two weeks after being seen ~~kidnapped~~escorted by HOSTAGE, an alarming blog post started to surface. You may recognize the author with the very-concerning name from a previous [article](https://hecrenews.github.io/jekyll/update/2020/08/30/the-terrible-horrible-no-good-very-bad-plight-of-hooshar-manus.html). 
+And then, something downright appalling happened. Two weeks after being seen ~~kidnapped~~escorted by HOSTAGE, an alarming blog post started to surface. You may recognize the author with the very-concerning name from a previous [article](https://hecrenews.github.io/jekyll/update/2020/08/30/the-terrible-horrible-no-good-very-bad-plight-of-hooshar-manus.html).
 
 ![](https://hecrenews.github.io/assets/images/gordon_oohbeedoo_blog_post.JPG)
 
@@ -35,6 +36,6 @@ In short, “RIP Gordon Oohbeedoo”, according to the blogger-with-the-unsavory
 
 ---
 
-Dang, there was a lot of time-hopping in the beginning of this article. Got to be freaking quadratic storytelling or something. I guess I have [Adalbert Bulstrode](https://hecrenews.github.io/jekyll/update/2020/09/06/adalbert-bulstrode-invents-time-travel.html) to thank for being able to do it, I guess. Legend has it that modern day leaders such as  Anna Džana took inspiration from Gordon Oohbeedoo during his glory days, and for good reason. I wonder what those leaders are feeling right now, seeing that their hero has admitted to caring about himself and his family more than his political views. 
+Dang, there was a lot of time-hopping in the beginning of this article. Got to be freaking quadratic storytelling or something. I guess I have [Adalbert Bulstrode](https://hecrenews.github.io/jekyll/update/2020/09/06/adalbert-bulstrode-invents-time-travel.html) to thank for being able to do it, I guess. Legend has it that modern day leaders such as  Anna Džana took inspiration from Gordon Oohbeedoo during his glory days, and for good reason. I wonder what those leaders are feeling right now, seeing that their hero has admitted to caring about himself and his family more than his political views.
 
 Gee, I wonder what Wopps is doing. Haven’t heard from him in a while. Eh, maybe he’s just practicing one of those procrastination techniques Shroops the Mighty taught him. But what do I care about a frankly quite weird sometimes-British bunny rabbit? It’s in times like these that I draw upon the words of my late mother’s father-in-law: “rat-a-tat-tat-tat-t

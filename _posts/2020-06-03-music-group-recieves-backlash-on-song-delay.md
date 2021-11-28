@@ -4,6 +4,7 @@ title: "Music Group Recieves Backlash on Song Delay"
 date: 2020-06-03 13:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/armd_banner.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

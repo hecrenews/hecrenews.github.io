@@ -4,6 +4,7 @@ title:  "Concerned Mothers’ Organization Spits Verses Without Curses"
 date:  2020-08-23 12:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/mother_lifting_child.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
@@ -12,7 +13,7 @@ tags:
 
 In recent news, a Concerned Mothers’ Organization has branched out into the music scene by creating a hit new group: Verses Without Curses (called VWC by hardcore fans). The group, devoted to producing curse-free songs and being good role models in general, released its first album just last week. The Hecrenews called up its resident music analyst, Icy Byoit, to comment on  Verses Without Curses’s work.
 
-Byoit gave every track a good long listen, from “Don’t Run With Scissors” to “It ain’t Cuul to Juul”. According to him, a song is best reviewed after one listens to it multiple times. He calls it the bYoit mEthod to succEss in music criTicism (YEET). According to it, all music reviewers should explore a song in three passes. First, they should listen to the song as normal, to “introduce themselves to the song”. After the first pass, the ideal music critic would listen to the song with a background ambience of pots clanging, kids screaming, and other sources of cheeky stuff to “familiarize [themselves] with how the song will  be listened to by the average human”. Finally, Icy Byoit recommends that music analysts listen to the song a third time, but this time at 0.25x speed. This is in  order to “listen from the perspective of those whose brains work faster than those of normal human beings”. 
+Byoit gave every track a good long listen, from “Don’t Run With Scissors” to “It ain’t Cuul to Juul”. According to him, a song is best reviewed after one listens to it multiple times. He calls it the bYoit mEthod to succEss in music criTicism (YEET). According to it, all music reviewers should explore a song in three passes. First, they should listen to the song as normal, to “introduce themselves to the song”. After the first pass, the ideal music critic would listen to the song with a background ambience of pots clanging, kids screaming, and other sources of cheeky stuff to “familiarize [themselves] with how the song will  be listened to by the average human”. Finally, Icy Byoit recommends that music analysts listen to the song a third time, but this time at 0.25x speed. This is in  order to “listen from the perspective of those whose brains work faster than those of normal human beings”.
 
 In Byoit’s own words, “My YEET is the best, and some would say the only method to appropriately criticize music. Indeed, several burgeoning critics have cited YEET as “an instrumental source in my music criticizing career”, according to a local who didn’t  offer his name.
 

@@ -4,6 +4,7 @@ title:  "Blat Beck sues Hecc out of Hecrenews (An Update on Our Legal Troubles p
 date:   2020-08-01 06:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/sad_lawyer.jpg"
+thumb_src: unknown
 author: wopps_minor
 tags:
 - News
@@ -12,13 +13,13 @@ tags:
 
 Well, this has failed catastrophically.
 
-The whole [“procrastination” plan](https://hecrenews.github.io/jekyll/update/2020/07/30/an-update-on-our-legal-troubles.html) that we’d put in place basically amounted to next to nothing. Although I tried to tell the numerous plaintiffs that I was busy and otherwise engaged and was about to start hibernating right there at the joint meeting, they refused to listen. Something about having to wait for months and months for the Hecrenews to even start having at least one bumbling fool in the legal division, but I digress. 
+The whole [“procrastination” plan](https://hecrenews.github.io/jekyll/update/2020/07/30/an-update-on-our-legal-troubles.html) that we’d put in place basically amounted to next to nothing. Although I tried to tell the numerous plaintiffs that I was busy and otherwise engaged and was about to start hibernating right there at the joint meeting, they refused to listen. Something about having to wait for months and months for the Hecrenews to even start having at least one bumbling fool in the legal division, but I digress.
 
-Even though I had so many plans of a great legal defense in my head, it turned out that I actually needed to execute them for them to have any effect. But just thinking of all those hours creating briefs and filing appeals just made my head spin. I followed the lessons that [Shroops the Mighty](https://www.instagram.com/creator_of_africa) gave me, but just ended up spending my time doing nothing and milling about until the big meeting. 
+Even though I had so many plans of a great legal defense in my head, it turned out that I actually needed to execute them for them to have any effect. But just thinking of all those hours creating briefs and filing appeals just made my head spin. I followed the lessons that [Shroops the Mighty](https://www.instagram.com/creator_of_africa) gave me, but just ended up spending my time doing nothing and milling about until the big meeting.
 
 Luckily, I was again visited by one of Mister  Mjir’s associates only minutes before the plaintiffs started filing in. This was, of course, the legendary Af Roman himself. A very mysterious character, previously known to me only by the fact that he was Roman Af. Still, his legendary powers were world-renowned. As much as Shroops the Mighty was an expert in procrastination, Af Roman was the world’s authority on the art of intimidation. And this time, I didn’t even have to take a lesson! Roman said that he would accompany me into the meeting room, and I was infinitely grateful.
 
-And so it began. Your very own Wopps and Af Roman on one side of the table, facing four very aggravated prosecutors. There was a tall built boy with a squeaky voice, a kind-but-firm-looking representative of the HBA, an attorney for Biggin Mammo (who couldn’t attend in person on account of that comma he fell into), and finally their leader: The craftiest prosecution attorney this side of Chatanooga. Representing Blat Beck (who could attend for obvious reasons), Mr. Hon Hon Taj Boxes oozed confidence as he contemplated the situation. 
+And so it began. Your very own Wopps and Af Roman on one side of the table, facing four very aggravated prosecutors. There was a tall built boy with a squeaky voice, a kind-but-firm-looking representative of the HBA, an attorney for Biggin Mammo (who couldn’t attend in person on account of that comma he fell into), and finally their leader: The craftiest prosecution attorney this side of Chatanooga. Representing Blat Beck (who could attend for obvious reasons), Mr. Hon Hon Taj Boxes oozed confidence as he contemplated the situation.
 
 But the Hecrenews’s weapon, Af Roman had a couple tricks up his sleeve as well. Like many, he had migrated to Mount Himalaya as a child in order to learn the ways from the assorted group of legendary figures residing up there. He had a vast assortment of intimidation techniques with which he could dispose of the opposition.
 
@@ -30,7 +31,7 @@ Two people left, who were probably specialists in not being intimidated. Luckily
 
 After the dust settled, it looked very promising. Even the legendary Hon Hon Taj Boxes seemed the slightest bit shaken. Of course, the others were completely and utterly demoralized. The HBA representative gave us an infinitely long extension on that lobbying action. Squeaky-boi just fled the scene, perhaps he had had enough. Biggin Mammo’s attorney said that Mammo wouldn’t sue if the Hecrenews kept a supply of chocolates going to his hospital bed. I asked how chocolates would help him in his comma, but the attorney somehow found it in himself to be stubborn and Af Roman was just too lazy to force the chocolates away.
 
-Hon Hon Taj Boxes was a different story altogether. He’d managed to withstand the intimidating assault, somehow. But having had a taste of Af Roman’s raw power, Boxes agreed to a settlement. However, he told us that his client literally wanted to sue the “hecc” out of “hecrenews”. Through extreme negotiations, we managed to cut one “C” out of the deal, but we still had to give Blat Beck an H, E, and C. Guess we’ll be renamed to the Renews from now on, unless we can find some way to stop this. A large thanks is in order to Af Roman, without who the situation would have been much worse. 
+Hon Hon Taj Boxes was a different story altogether. He’d managed to withstand the intimidating assault, somehow. But having had a taste of Af Roman’s raw power, Boxes agreed to a settlement. However, he told us that his client literally wanted to sue the “hecc” out of “hecrenews”. Through extreme negotiations, we managed to cut one “C” out of the deal, but we still had to give Blat Beck an H, E, and C. Guess we’ll be renamed to the Renews from now on, unless we can find some way to stop this. A large thanks is in order to Af Roman, without who the situation would have been much worse.
 
 ---
 

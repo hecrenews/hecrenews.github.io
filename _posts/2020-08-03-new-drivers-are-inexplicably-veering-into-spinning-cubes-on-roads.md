@@ -4,6 +4,7 @@ title:  "New Drivers Are Inexplicably Veering into Spinning Cubes on Roads"
 date:   2020-08-03 18:58:45 -0500
 categories: jekyll update
 thumb: "/assets/images/mario_cube.png"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

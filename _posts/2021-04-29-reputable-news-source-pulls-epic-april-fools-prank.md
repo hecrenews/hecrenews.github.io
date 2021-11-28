@@ -4,6 +4,7 @@ title: "Reputable News Source Pulls Epic April Fools Prank"
 date: 2021-04-29 21:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_ate_peppers_and_now_is_rubbing_his_eyes.jpg"
+thumb_src: unknown
 author: pablo
 tags:
 - News

@@ -4,6 +4,7 @@ title: "Local Tree Grows an Inch"
 date: 2020-08-06 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/tree_on_some_erosion.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

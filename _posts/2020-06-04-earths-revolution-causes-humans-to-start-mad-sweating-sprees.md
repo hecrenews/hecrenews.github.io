@@ -4,6 +4,7 @@ title: "Earth's Revolution Causes Humans to Start Mad Sweating Sprees"
 date: 2020-06-04 22:42:00 -0500
 categories: jekyll update
 thumb: "/assets/images/sunglasses_on_beach.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

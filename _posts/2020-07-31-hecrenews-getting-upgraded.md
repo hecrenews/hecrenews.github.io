@@ -4,6 +4,7 @@ title: "Hecrenews Getting an Upgrade"
 date: 2020-07-31 6:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/guy_doing_fancy_engineering_stuff.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Meta

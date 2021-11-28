@@ -4,6 +4,7 @@ title: "Leafblower Board Taken Down"
 date: 2020-09-02 14:23:00 -0500
 categories: jekyll update
 thumb: "/assets/images/modern_people_fighting_in_colonial_times.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

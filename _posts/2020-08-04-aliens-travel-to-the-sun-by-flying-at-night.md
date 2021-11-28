@@ -4,6 +4,7 @@ title: "Aliens Travel to the Sun by Flying at Night"
 date: 2020-08-04 18:34:45 -0500
 categories: jekyll update
 thumb: "/assets/images/alien_stop_sign.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

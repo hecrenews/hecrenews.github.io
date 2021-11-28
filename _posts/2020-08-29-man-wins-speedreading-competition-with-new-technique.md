@@ -4,6 +4,7 @@ title: "Man Wins Speedreading Competition with New Technique"
 date: 2020-08-29 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/woman_reading_book_sunset.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -39,7 +40,7 @@ entering more speed reading competitions. For once in his life he found somethin
 Preed was super curious on Eva's revolutionary tactic and just had to no. First Eva declined but Preed was just being too persistent. Eva eventually spilled the beans
 and let us in on it as well. "You see, you need to optimize. You can't just go in and read every single word in the book, you gotta do it efficiently. I just read
 a few letters here and there and extrapolate the rest of the book. It's not too hard, you should try it. With practice anything is possible." Preed attempted this
-but the extrapolation was just too hard for him, Eva was a mircale on a whole other level. 
+but the extrapolation was just too hard for him, Eva was a mircale on a whole other level.
 
 Shout-out to Banana The Human for letting me in on this scoop. I hear he's doing some mad interviews and will be dropping a mad article eventually. This has been
 Mister Mjir, popping in and now popping out.

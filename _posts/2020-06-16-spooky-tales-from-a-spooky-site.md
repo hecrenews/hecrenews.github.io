@@ -4,6 +4,7 @@ title: "Spooky Tales from a Spooky Site"
 date: 2020-06-16 23:00:00 -0500
 categories: jekyll update
 thumb: "/assets/images/modern_worn_house_spooky.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - Horror

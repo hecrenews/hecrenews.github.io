@@ -4,6 +4,7 @@ title: "Painted Horses Knock on Doors"
 date: 2020-10-26 22:20:00 -0500
 categories: jekyll update
 thumb: "/assets/images/very_angry_looking_zebra.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News
@@ -29,7 +30,7 @@ saga is over but now we need to do journalism on bullying in local schools?! Aw 
 hijacking a school bus and crashing into the school and entering the building. The horses were mad sus but the school's administration was able to hold them down.
 
 Some loyal Hecrenews readers had their sus alarms activated, such as Hektor Klim. Klim had been reading the letter of the day articles, and noticed a pattern. If he
-combined the letter of the day articles, it read a cryptic message, despite Mister Mjir claiming himself there was 
+combined the letter of the day articles, it read a cryptic message, despite Mister Mjir claiming himself there was
 [no meaning behind them](https://hecrenews.github.io/jekyll/update/2020/10/12/mister-mjir-returns.html) and they were truly randomly generated. Now Mister Mjir is safe
 for now, because it is not zebras knocking on the doors, but in fact horses, who are painted as zebras.
 

@@ -4,6 +4,7 @@ title: "Bells across the World say Dumbells are Demeaning"
 date: 2020-08-07 18:59:00 -0500
 categories: jekyll update
 thumb: "/assets/images/bells.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

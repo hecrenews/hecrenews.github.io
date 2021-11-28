@@ -4,19 +4,20 @@ title: "Hecrenews Staff Faces Rampant Epidemic"
 date: 2021-10-16 11:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/woman_putting_mask_on_girl.jpg"
+thumb_src: unknown
 author: hector
 tags:
 - Health
 - Meta
 ---
 
-In recent times (let’s say a week or so), you may have found there to be more hecrenews articles than of late. Well, this sort of good luck doesn’t come around just by chance, now does it. To tell you the truth, the h-news staff has been afflicted by a terribly terrible epidemic as of late, a very beastly thing. 
+In recent times (let’s say a week or so), you may have found there to be more hecrenews articles than of late. Well, this sort of good luck doesn’t come around just by chance, now does it. To tell you the truth, the h-news staff has been afflicted by a terribly terrible epidemic as of late, a very beastly thing.
 
-Sheeple Dunnell/Dunnel (jury still out on that one btw (jk jk we’re just milking this situation to pad the word count (and maybe make an article out of it too))) was among the first to recover. He quickly sequenced the disease’s eigenvalues and differentiated the Paranthropus Index for the mystery epidemic’s known Skyr Factor. This obviously gave him the hereditarial right to name the disease, and he coined the term Procrastinatovirus. 
+Sheeple Dunnell/Dunnel (jury still out on that one btw (jk jk we’re just milking this situation to pad the word count (and maybe make an article out of it too))) was among the first to recover. He quickly sequenced the disease’s eigenvalues and differentiated the Paranthropus Index for the mystery epidemic’s known Skyr Factor. This obviously gave him the hereditarial right to name the disease, and he coined the term Procrastinatovirus.
 
-The effects of the Procrastinatovirus were severe, to say the least. Every single author was under the ~~influence~~ effects of the disease, rendering us completely incapable of ~~coming up with~~ accurately reporting news stories. 
+The effects of the Procrastinatovirus were severe, to say the least. Every single author was under the ~~influence~~ effects of the disease, rendering us completely incapable of ~~coming up with~~ accurately reporting news stories.
 
-Luckily, Hecrenews had an ace up its sleeve. A Peruvian ace, to be precise. Pablo (from Peru, to be Pablovianly double-precise). 
+Luckily, Hecrenews had an ace up its sleeve. A Peruvian ace, to be precise. Pablo (from Peru, to be Pablovianly double-precise).
 
 |  ![](https://hecrenews.github.io/assets/images/authors/pablo.jpg)  |
 |---|
@@ -33,4 +34,3 @@ Except Banana the Human of course; he’s been drawn away do deal with some grap
 ---
 
 Hmmm, [this handy-dandy tool](https://wordcounter.net/) says that this article’s reading level is at that of a college student. I guess you can say that I went all “rat-a-tat-tat-tat-tat” on the membean here.
-

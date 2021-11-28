@@ -4,6 +4,7 @@ title:  "How to be a Prolific Writer, by Banana The Human"
 date:   2020-09-03 21:20:45 -0500
 categories: jekyll update
 thumb: "/assets/images/writing.jpg"
+thumb_src: unknown
 author: banana_the_human
 tags:
 - News

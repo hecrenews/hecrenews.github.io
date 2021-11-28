@@ -4,6 +4,7 @@ title: "Leafblower: Standoff"
 date: 2020-10-16 5:43:00 -0500
 categories: jekyll update
 thumb: "/assets/images/purple_looking_lightning.jpg"
+thumb_src: unknown
 author: mister_mjir
 tags:
 - News

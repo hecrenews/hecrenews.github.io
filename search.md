@@ -5,7 +5,7 @@ description: "Search the Hecrenews for an article"
 ---
 <h1 style="display:flex;justify-content:center">Search</h1>
 <form onSubmit="return search()">
-  <input type="text" id="search-query" value="News" />
+  <input type="text" id="search-query" value="" />
   <button type="submit" value="Search"><i class="fas fa-search fa-2x"></i></button>
 </form>
 <div class="tag-container">
@@ -15,7 +15,7 @@ description: "Search the Hecrenews for an article"
   <div class="post-list-container container">
     <ul class="post-list">
       {% for post in site.posts %}
-      <li class="post-list-item hidden" thumb="{{ post.thumb }}" tags="
+      <li class="post-list-item" thumb="{{ post.thumb }}" tags="
       {%for tag in post.tags%}{{ tag }} {% endfor %}">
         <div class="post-list-info">
           <a class="post-list-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
