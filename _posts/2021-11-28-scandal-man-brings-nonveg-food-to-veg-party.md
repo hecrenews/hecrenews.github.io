@@ -4,6 +4,7 @@ title: Scandal: Man brings Nonveg food to Veg party
 date: 2021-11-28 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_holding_sushi_plate.jpg"
+thumb_src: Pexels
 author: hector
 tags:
 - News
