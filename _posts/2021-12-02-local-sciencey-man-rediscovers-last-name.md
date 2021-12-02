@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Local Sciencey Man Rediscovers last Name
-date: 2021-11-28 19:13:00 -0500
+date: 2021-12-02 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/science_man_with_flask.jpg"
 thumb_src: Pexels
