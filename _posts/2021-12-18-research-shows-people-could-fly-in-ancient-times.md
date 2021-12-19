@@ -3,7 +3,7 @@ layout: post
 title: Research Shows People Could Fly in Ancient Times
 date: 2021-12-18 22:38:00 -0500
 categories: jekyll update
-thumb: "mask_on_word_turns_sideways_walk_on_the_air_like_you_dont_care_cool_house_though.jpg"
+thumb: "/assets/images/mask_on_word_turns_sideways_walk_on_the_air_like_you_dont_care_cool_house_though.jpg"
 thumb_src: pexels
 author: mister_mjir
 tags:
