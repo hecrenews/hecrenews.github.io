@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Lack of Creative Stimulation Drives Teens to AD”
+title: Lack of Creative Stimulation Drives Teens to AD
 date: 2022-01-28 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/frustrated_teen_in_chair.jpg"
