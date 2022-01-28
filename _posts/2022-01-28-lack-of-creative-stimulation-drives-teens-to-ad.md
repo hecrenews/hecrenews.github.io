@@ -50,5 +50,5 @@ Nanaawi is attempting to “get rid of” Mrs. Ranche and the rest of VEC, but u
 
 “Doing away with” the heads of VEC will definitely be a tall task with the Don’s backing there to go up against. While the hecrenews definitely does not promote **AD** or GMTA of any sort, we wish Nanaawi Shantyman all the luck in the world as she goes up against the Don in her quest to build a network for every answer to every question that could ever be asked . A new google, if you will. 
 
-—
+---
 It started with that [math teacher](https://hecrenews.github.io/jekyll/update/2020/05/24/math-teacher-accused-of-academic-dishonestly.html), but now it seems that Academic Dishonesty and its sister crime, Grand Mega Theft Auto, are taking over public schools across the nation. Back in my ancestors’ days, there was no mega-**AD** ring like you’d see in Leafblower. In fact, if my grandpoop was still here to talk about the present situation, he’d say “rat-a-tat-tat-ta
