@@ -8,6 +8,7 @@ thumb_src: unknown
 author: wopps_minor
 tags:
 - News
+- Crime
 ---
 
 In recent news, two very dear friends of local dyude John Orblong have expressed their complete and utter bafflement at Orblong's will to live. According to Robald and Jonas Shickner, John's dogged determination to stay conscious, keep breathing, maintain homeostasis, etc. is "most frustrating". The brothers Shickner gave an excluside interview to Hecrenews interviewer Biggin Mammo in order to vent these frustrations:
