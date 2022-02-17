@@ -7,8 +7,8 @@ thumb: "/assets/images/airplane_flying.jpg"
 thumb_src: pexels
 author: wopps_minor
 Tags:    
- - Travel
- - Crime
+- Travel
+- Crime
 ---
 
 With travel restrictions possible coming to a close soon, there’s soon to be a mad stampede for the nearest planes as people don’t hesitate to catch up on their traveling, vacationing, and in-flight entertainmenting. However, according to some handy dandy economic principles, this future positive demand shock will result in an increase in the equilibrium price for plane tickets. Oh heavens! 
@@ -30,5 +30,3 @@ In the end, hecrenews staff decided to go for a [tried and true](https://hecrene
 To make a long story short, Biggin Mammo was immediately arrested for “public snaxialaxiality” and is to be extradited to the US, where he will face criminal charges in front of a high court, and atone for his crimes. But at the very least, it’s free for us!
 
 Wopps Out.
-
-
