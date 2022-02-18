@@ -1,14 +1,14 @@
 ---
 layout: post
-Title: Get Free Plane Tickets with this One Simple Trick!
+title: Get Free Plane Tickets with this One Simple Trick!
 date: 2022-02-17 11:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/airplane_flying.jpg"
 thumb_src: pexels
 author: wopps_minor
-Tags:    
-- Travel
-- Crime
+tags:    
+ - Travel
+ - Crime
 ---
 
 With travel restrictions possible coming to a close soon, there’s soon to be a mad stampede for the nearest planes as people don’t hesitate to catch up on their traveling, vacationing, and in-flight entertainmenting. However, according to some handy dandy economic principles, this future positive demand shock will result in an increase in the equilibrium price for plane tickets. Oh heavens! 
