@@ -12,7 +12,7 @@ tags:
 
 Local twins Faraday and Augusta Wint have retained their individual identities for years through some stroke of luck, but sadly, such times have come to a close. They have fallen to the age old twin trap: Neither one knows which twin they are. 
 
-![](https://hecrenews.github.io/assets/images/twins_on_grass.jpg)
+![](https://hecrenews.github.io/assets/images/twin_illustration.jpg)
 
 Above is an artist’s depiction of two hypothetical example twins on a summer day. Unfortunately, the artist was one of Hecrenews’s own, and you know how our budget is so screwed that we had to have an interviewer [extradited](https://hecrenews.github.io/jekyll/update/2022/02/17/get-free-plane-tickets-with-this-one-simple-trick.html) rather than pay for a plane ticket home. Still, it perfectly illustrates the twin dilemma: Can you distinguish between the two people you see above? No? Well, then they probably can’t either. And that’s what’s sadly happened to the twins Wint.
 
