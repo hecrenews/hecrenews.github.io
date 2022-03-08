@@ -24,5 +24,5 @@ What’s most surprising is the fact that Faraday and Augusta are in no means id
 
 Hopefully we may sooner or later find some evidence to help each twin identify themselves. It’s terrible that this is such a large problem in society, even with fraternal twins. After contacting us about his/her plight, the twin Wint went off to the Himalayas  to find themselves. While they could be searching for a drivers license or other form of identification, they seemed confident that the snowy peaks, sharper than Shere Khan’s very shoulder blades, would help them in their quest to find out which twin they are.
 
-—-
+---
 That’s all for today, kids! And remember, if you ever find yourself with a lookalike who looks like you, moves like you, and might even think like you, make sure you’re not just looking into a mirror before proclaiming your long lost twin to the world. And if they turn into the forward scouts of a secret alien invasion, heed my grandfather’s words and “rat-a-tat-tat-tat-tat-tat-tat-tat
