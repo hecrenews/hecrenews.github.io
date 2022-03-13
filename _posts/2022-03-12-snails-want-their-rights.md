@@ -3,7 +3,7 @@ layout: post
 title: Snails Want their Rights
 date: 2022-03-12 17:18:00 -0500
 categories: jekyll update
-thumb: "/assets/images/goorlicker_looking_finger_licking_good.jpg"
+thumb: "/assets/images/magnificus_the_master_of_moseying_around_he_can_mosey_like_no_other_and_put_you_in_a_doozy.jpg"
 thumb_src: pexels
 author: pablo
 tags:
