@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scandal: Man brings Nonveg food to Veg party"
+title: "Man brings Nonveg food to Veg party"
 date: 2021-11-28 19:13:00 -0500
 categories: jekyll update
 thumb: "/assets/images/man_holding_sushi_plate.jpg"
@@ -9,6 +9,7 @@ author: hector
 tags:
 - News
 - Food
+- Scandal
 ---
 
 Despite the best [omnivorous](https://hecrenews.github.io/jekyll/update/2020/05/28/calamity-resolved.html) intervention and peacekeeping efforts, the age-old feud between Veg and Nonveg continues to rage underneath the surface. Time and time again, short skirmishes will erupt, over small things like secretly seasoning a salad with a dry rub or a nonvegetarian eating a vegetarian. Who can blame them, right?
