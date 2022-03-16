@@ -1,0 +1,25 @@
+.post-list-container.search {
+
+  .post-list {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+}
+
+.search-icon {
+  transition: 0.3s;
+
+  &:hover {
+    transform: rotate(-360deg);
+  }
+}
+
+.tag-container.search {
+  .tag {
+    transition: 0.3s;
+
+    &:hover {
+      background-color: #ee2323;
+    }
+  }
+}

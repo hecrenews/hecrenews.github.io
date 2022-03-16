@@ -8,10 +8,14 @@ layout: default
   {% for author in site.authors %}
   <div class="author-card">
     <div class="author-card-top">
-      <img src="{{ author.icon_src }}">
-      <a href="{{ author.url}}">
-        <p class="author-name">{{ author.title }}</p>
-      </a>
+      <div class="author-img">
+        <img src="{{ author.icon_src }}">
+      </div>
+      <div class="author-meta">
+        <a href="{{ author.url}}">
+          <p class="author-name">{{ author.title }}</p>
+        </a>
+      </div>
     </div>
     <p class="author-bio">{{ author.content }}</p>
   </div>

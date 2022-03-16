@@ -6,13 +6,13 @@ description: "Search the Hecrenews for an article"
 <h1 style="display:flex;justify-content:center">Search</h1>
 <form onSubmit="return search()">
   <input type="text" id="search-query" value="" />
-  <button type="submit" value="Search"><i class="fas fa-search fa-2x"></i></button>
+  <button type="submit" value="Search"><i class="fas fa-search fa-2x search-icon"></i></button>
 </form>
-<div class="tag-container">
+<div class="search tag-container">
 </div>
 
 <div class="search-results">
-  <div class="post-list-container container">
+  <div class="search post-list-container container">
     <ul class="post-list">
       {% for post in site.posts %}
       <li class="post-list-item" thumb="{{ post.thumb }}" tags="
@@ -58,9 +58,9 @@ description: "Search the Hecrenews for an article"
 
   function search(query) {
     $('.post-list-item').addClass('hidden');
-    if (!query)
-    {
+    if (!query) {
       if (!$("input#search-query").val()) {
+        $('.post-list-item').removeClass('hidden');
         return false;
       }
       query = $("input#search-query").val();//.toLowerCase();

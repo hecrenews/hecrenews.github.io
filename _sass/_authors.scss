@@ -20,28 +20,36 @@
     align-items: stretch;
     margin-bottom: 16px;
 
-    img {
-      width: 48px;
-      height: 48px;
-      border-radius: 50%;
-      padding: 8px;
-      background-color: #fff;
-      box-shadow: 0 1px 3px rgba(0,0,0,.25);
+    .author-img {
       border-right: 1px solid #ccc;
-      margin-right: 16px;
+
+      img {
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        padding: 8px;
+        background-color: #fff;
+        box-shadow: 0 1px 3px rgba(0,0,0,.25);
+        margin-right: 16px;
+      }
     }
 
-    a {
-      border-left: 1px solid #ccc;
-    }
-
-    .author-name {
-      margin: 0;
-      padding-left: 16px;
+    .author-meta {
+      margin-left: 16px;
       display: flex;
       align-items: center;
-      height: 100%;
+
+      a {
+
+      }
+
+      .author-name {
+        margin: 0;
+        align-items: center;
+        height: 100%;
+      }
     }
+
   }
 
   .author-bio {

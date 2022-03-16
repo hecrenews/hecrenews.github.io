@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Hind Siliguri";
+  src: url("/assets/fonts/Hind_Siliguri/HindSiliguri-Regular.ttf");
+}
+
 html {
     overflow-x: hidden;
 }
@@ -7,7 +12,7 @@ body {
 }
 
 p, h1, h2, h3, h4, h5, h6, a, span {
-  font-family: sans-serif;
+  font-family: "Hind Siliguri", sans-serif;
   text-decoration: none;
   color: #3a3a3a;
 }
