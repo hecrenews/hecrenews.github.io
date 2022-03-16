@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scandal: Candidate cares more about staying alive than his position on Snaxing rights"
+title:  "Candidate cares more about staying alive than his political position"
 date:  2020-09-13 06:42:45 -0500
 categories: jekyll update
 thumb: "/assets/images/election_day.jpg"
@@ -8,8 +8,8 @@ thumb_src: unknown
 author: hector
 tags:
 - News
-- HBA
 - Politics
+- Scandal
 ---
 
 Ever since he was a young’un, local dyude Gordon Oohbeedoo has wanted to serve his community by being elected to office Every tuesday at four, he would come straight home from Leafblower Elementary (in which the [situation](https://hecrenews.github.io/jekyll/update/2020/08/28/leafblower-elementary-tensions-escalate.html) is pretty dang tense) and hop onto the local political TV channel. Oohbeedoo loved to just watch political candidates debate each other, spittle flying from their mouths, their faces getting progressively redder until the tension of the debate escalated into a fistfight. That usually happened at 5:45, so Gordon was able to watch all the good stuff and still had time to get ready for his weekly bathroom break at 6. From a young age, Gordon Oohbeedoo had developed such strong feelings towards being able to run for a role so that he could be just like his heroes on TV. That was 23.29 years ago.
