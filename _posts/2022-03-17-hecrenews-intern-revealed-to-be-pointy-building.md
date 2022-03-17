@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hecrenews Intern revealed to be Pointy Building
-date: 2022-02-28 19:13:00 -0500
+date: 2022-03-17 19:13:00 -0500
 categories: jekyll update
-thumb: "/assets/images/surprised_woman.jpg"
+thumb: "/assets/images/surprised_woman.JPG"
 thumb_src: pexels
 author: wopps_minor
 tags:
