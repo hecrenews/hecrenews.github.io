@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Encounter at the Goorlicker
+title: "February 31st"
 date: 2022-03-20 17:18:00 -0500
 categories: jekyll update
 thumb: "/assets/images/he_goes_left_he_dodges_he_swipes_up_it_connects_and_thats_touchdown_what_a_game.jpg"
