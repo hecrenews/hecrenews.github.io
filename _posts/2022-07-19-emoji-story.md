@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emoji Story"
-date: 2022-07-19 23:08:00 -0500
+date: 2022-07-19 22:37:00 -0500
 categories: jekyll update
 thumb: "/assets/images/ngl_this_picture_is_sublime_i_would_wanna_live_in_it_for_a_little_bit.jpg"
 thumb_src: hen
