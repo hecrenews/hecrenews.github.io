@@ -22,7 +22,7 @@ not wanting to shower only makes this a catch 22! Anyways, Tashe was more than a
 
 First Tashe thought he could simply not get dirty. This was impossible. Everwhere he went, he got dirty. Contact with people, objects, air, food. The dirt, grime, and
 stink was out to relentlessly get Tashe. After a week of failing to stay clean, Tashe concluded the 'simply not get dirty,' method does not work. In fact, research
-from a new study indicate 99% of people become dirty, but head of SAR Sheeple Dunnel has yet to review this study, so who knows how accurate it may be 🤷. Tashe wasn't
+from a new study indicate 99% of high school students become dirty, but head of SAR Sheeple Dunnel has yet to review this study, so who knows how accurate it may be 🤷. Tashe wasn't
 ready to give up, he was the man who went livid after even thinking about showers, after all. Tashe went ahead and invented a new type of fabric that instantly
 vaporized any type of harmful bacteria. After wearing this for three days, Tashe saw no new results. He just burned up the fabric and threw the notes in the trash.
 So sad, maybe he could've used it for other things but it was a failed invention, after all. Tashe realized even if he blocked out all external sources of dirt, his
@@ -39,6 +39,6 @@ is rare footage of what the dirt saw.
 ![Death Screen](https://hecrenews.github.io/assets/images/whats_up_hay_man_oh_oops_you_died.png)
 
 Tashe is now living the time of his living. He started his side hustle of packaging stray leaves and clocked in at 30 thousand in the last quarter. Tashe is making
-so much bank, just from the time he gained not taking a shower, now that's called hustling. I'll (probably not) cover Tashe's leave packaging business in a future
+so much bank, just from the time he gained not taking a shower! Now that's called hustling. I'll (probably not) cover Tashe's leaf packaging business in a future
 article, but Tashe has made his impact on the world. Let's just hope the admins don't catch wind of this, that may cause some problems for Tashe. Anyways, what
 an inspriational story. This has been Mister Mjir, popping in and now popping out.
