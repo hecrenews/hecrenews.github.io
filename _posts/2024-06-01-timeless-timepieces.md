@@ -3,7 +3,7 @@ layout: post
 title:  "Timeless Watches"
 date:   2024-06-01 23:47:00 -0500
 categories: jekyll update
-thumb: "/assets/images/hen.jpeg"
+thumb: "/assets/images/awww_thats_so_sweet_you_got_me_a_box_of_chocolates_wait_a_minute_these_are_just_watches_well_i_gotta_hand_it_to_you_its_a_nice_gift.jpg"
 thumb_src: pexels
 author: mister_mjir
 tags:
