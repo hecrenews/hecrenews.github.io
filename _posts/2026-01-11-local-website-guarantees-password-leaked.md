@@ -3,7 +3,7 @@ layout: post
 title:  "Local Website Guarantees Your Password Was Leaked (Because It Was Leaked By Them)"
 date:   2026-01-11 11:11:11 -0500
 categories: jekyll update
-thumb: "/assets/images/pexels-mikhail-nilov-7534380.png"
+thumb: "/assets/images/pexels-mikhail-nilov-7534380.jpg"
 thumb_src: pexels
 author: wopps_minor
 tags:
